@@ -1957,3 +1957,143 @@ Script Stack (0 frames):
 [2019.12.03-05.22.21:666][  8]SourceControl:  create mode 100644 Project_Plague_V1/Content/FirstPersonBP/wing_top_center.uasset
 [2019.12.03-05.22.21:666][  8]SourceControl:  create mode 100644 Project_Plague_V1/Project_Plague_V1.uproject
 [2019.12.03-05.22.21:674][  8]SourceControl: Commited [master f18a200] Envirnment Changes / Ground / Assets Added.
+[2019.12.03-05.42.57:444][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-05.48.59:734][605]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-05.49.01:113][770]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-05.52.24:319][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-05.52.25:207][ 74]LogSlate: Window 'Source Control Login' being destroyed
+[2019.12.03-05.52.25:946][127]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-05.53.02:084][633]LogTexture: Display: Building textures: bark_2_r (AutoDXT, 1024X2048)
+[2019.12.03-05.53.02:084][633]LogTexture: Display: Building textures: tree_1_standard_1 (AutoDXT, 1024X1024)
+[2019.12.03-05.53.02:084][633]LogTexture: Display: Building textures: bark_2_b (AutoDXT, 1024X2048)
+[2019.12.03-05.53.02:084][633]LogTexture: Display: Building textures: bark_2_n (BC5, 1024X2048)
+[2019.12.03-05.53.02:084][633]LogStaticMesh: Building static mesh tree_1_standard...
+[2019.12.03-05.53.02:123][633]LogStaticMesh: Built static mesh [0.04s] /Game/FoliagePack/Model/tree_1_standard.tree_1_standard
+[2019.12.03-05.53.02:546][672]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-05.53.03:720][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-05.53.04:651][792]LogMaterial: Display: Material /Game/FoliagePack/Material/bark.bark needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.12.03-05.53.04:670][792]LogMaterial: Display: Missing cached shader map for material bark, compiling. 
+[2019.12.03-05.53.04:701][792]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 43
+[2019.12.03-05.53.04:701][792]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 39
+[2019.12.03-05.53.04:701][792]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 35
+[2019.12.03-05.53.04:701][792]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 31
+[2019.12.03-05.53.04:701][792]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 27
+[2019.12.03-05.53.04:701][792]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 23
+[2019.12.03-05.53.04:701][792]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 19
+[2019.12.03-05.53.04:701][792]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 15
+[2019.12.03-05.53.04:701][792]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 11
+[2019.12.03-05.53.04:701][792]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2019.12.03-05.53.04:701][792]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2019.12.03-05.53.04:701][792]LogMaterial: Display: Material /Game/FoliagePack/Material/branch.branch needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.12.03-05.53.04:704][792]LogMaterial: Display: Missing cached shader map for material branch, compiling. 
+[2019.12.03-05.53.04:746][792]LogMaterial: Display: Material /Game/FoliagePack/Material/billboard.billboard needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.12.03-05.53.04:749][792]LogMaterial: Display: Missing cached shader map for material billboard, compiling. 
+[2019.12.03-05.53.04:899][793]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 178
+[2019.12.03-05.53.06:258][833]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 168
+[2019.12.03-05.53.06:281][834]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 158
+[2019.12.03-05.53.06:494][845]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 148
+[2019.12.03-05.53.06:573][849]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 138
+[2019.12.03-05.53.06:645][853]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 128
+[2019.12.03-05.53.06:796][861]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 118
+[2019.12.03-05.53.07:162][867]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 108
+[2019.12.03-05.53.07:434][870]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 98
+[2019.12.03-05.53.07:434][870]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 89
+[2019.12.03-05.53.07:600][874]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 80
+[2019.12.03-05.53.07:776][878]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 73
+[2019.12.03-05.53.08:435][886]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 66
+[2019.12.03-05.53.09:958][918]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 60
+[2019.12.03-05.53.10:019][920]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 54
+[2019.12.03-05.53.10:166][925]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 49
+[2019.12.03-05.53.10:394][932]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 44
+[2019.12.03-05.53.10:838][945]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 40
+[2019.12.03-05.53.10:867][946]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 36
+[2019.12.03-05.53.10:966][950]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 32
+[2019.12.03-05.53.11:427][964]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 29
+[2019.12.03-05.53.11:791][976]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 26
+[2019.12.03-05.53.12:147][988]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 23
+[2019.12.03-05.53.12:147][988]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 21
+[2019.12.03-05.53.12:256][991]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 19
+[2019.12.03-05.53.12:439][997]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 17
+[2019.12.03-05.53.12:526][  0]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 15
+[2019.12.03-05.53.12:604][  3]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 13
+[2019.12.03-05.53.12:715][  7]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 11
+[2019.12.03-05.53.12:817][ 10]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 10
+[2019.12.03-05.53.12:880][ 12]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2019.12.03-05.53.12:880][ 12]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2019.12.03-05.53.12:929][ 13]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2019.12.03-05.53.13:302][ 24]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 6
+[2019.12.03-05.53.13:432][ 28]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2019.12.03-05.53.13:467][ 29]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2019.12.03-05.53.13:613][ 33]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2019.12.03-05.53.13:655][ 34]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2019.12.03-05.53.13:825][ 38]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2019.12.03-05.53.18:751][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-05.53.27:231][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-05.53.33:961][383]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-05.53.35:639][554]SourceControl: fatal: D:/EpicGames/UE_4.23/Engine/Content: 'D:/EpicGames/UE_4.23/Engine/Content' is outside repository
+[2019.12.03-05.53.35:729][554]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-05.53.38:343][554]LogSlate: Window 'Save Content' being destroyed
+[2019.12.03-05.53.38:353][554]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-05.53.38:499][554]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-05.53.38:546][554]LogSavePackage: Moving '../../../../../GIT/TheosProductions/Plague_Game/Project_Plague_GIT/Project_Plague_V1/Saved/bark964E13AD46BD41D1732970AB8248FCB9.tmp' to '../../../../../GIT/TheosProductions/Plague_Game/Project_Plague_GIT/Project_Plague_V1/Content/FoliagePack/Material/bark.uasset'
+[2019.12.03-05.53.38:602][554]LogSavePackage: Moving '../../../../../GIT/TheosProductions/Plague_Game/Project_Plague_GIT/Project_Plague_V1/Saved/billboard2F30058B4588A3956398B6BA22DD5826.tmp' to '../../../../../GIT/TheosProductions/Plague_Game/Project_Plague_GIT/Project_Plague_V1/Content/FoliagePack/Material/billboard.uasset'
+[2019.12.03-05.53.38:649][554]LogSavePackage: Moving '../../../../../GIT/TheosProductions/Plague_Game/Project_Plague_GIT/Project_Plague_V1/Saved/branch30B3978048CAD5A7A2E1C59632D59FAE.tmp' to '../../../../../GIT/TheosProductions/Plague_Game/Project_Plague_GIT/Project_Plague_V1/Content/FoliagePack/Material/branch.uasset'
+[2019.12.03-05.53.38:687][554]LogSavePackage: Moving '../../../../../GIT/TheosProductions/Plague_Game/Project_Plague_GIT/Project_Plague_V1/Saved/bark_2D9199E8341927B1C3826D7B798CF3C85.tmp' to '../../../../../GIT/TheosProductions/Plague_Game/Project_Plague_GIT/Project_Plague_V1/Content/FoliagePack/MaterialInstance/bark_2.uasset'
+[2019.12.03-05.53.38:729][554]LogSavePackage: Moving '../../../../../GIT/TheosProductions/Plague_Game/Project_Plague_GIT/Project_Plague_V1/Saved/branch_103E996EF749E6D97CD457C2B3148F8DEE.tmp' to '../../../../../GIT/TheosProductions/Plague_Game/Project_Plague_GIT/Project_Plague_V1/Content/FoliagePack/MaterialInstance/branch_10.uasset'
+[2019.12.03-05.53.38:820][554]LogSavePackage: Moving '../../../../../GIT/TheosProductions/Plague_Game/Project_Plague_GIT/Project_Plague_V1/Saved/tree_1_standard_1_1_bbB65CB5DB449D03BBD30F378695164D10.tmp' to '../../../../../GIT/TheosProductions/Plague_Game/Project_Plague_GIT/Project_Plague_V1/Content/FoliagePack/MaterialInstance/tree_1_standard_1_1_bb.uasset'
+[2019.12.03-05.53.38:831][554]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-05.53.47:506][554]LogSlate: Window 'Submit Files' being destroyed
+[2019.12.03-05.53.47:516][554]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-05.53.54:197][554]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-05.53.55:965][554]LogSourceControl: commit successful: [master 3e2ad61] TREES HAVE BEEN ADDED
+[2019.12.03-05.53.56:164][554]SourceControl: [master 3e2ad61] TREES HAVE BEEN ADDED
+[2019.12.03-05.53.56:164][554]SourceControl:  44 files changed, 0 insertions(+), 0 deletions(-)
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Material/bark.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Material/billboard.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Material/branch.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/MaterialInstance/bark_2.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/MaterialInstance/branch_10.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/MaterialInstance/tree_1_standard_1_1_bb.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/bush_fern_1.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/leaf.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/leaf_pile_1.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/leaf_pile_2.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/leaf_pile_3.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/leaf_pile_4.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/leaf_pile_5.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_11.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_11_2.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_11_redwood.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_1_standard.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_1_standard_3.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_1_standard_4.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_1_standard_5.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_1_standard_6.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_1_standard_7.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_2.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_2_1.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_2_2.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_2_3.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_3_1.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_3_2.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_3_3.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_3_4.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_4.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_4_1.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_4_2.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_4_5.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_4_6.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_5_grass_cluster.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_6_pine.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_6_pine2.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_6_pine3.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_7_willow.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_7_willow_2.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_8_bamboo.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_9_cypress_2.uasset
+[2019.12.03-05.53.56:164][554]SourceControl:  create mode 100644 Project_Plague_V1/Content/FoliagePack/Model/tree_bush.uasset
+[2019.12.03-05.53.56:171][554]SourceControl: Commited [master 3e2ad61] TREES HAVE BEEN ADDED.
+[2019.12.03-05.53.59:340][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.12.03-05.53.59:675][614]LogSavePackage: Moving '../../../../../GIT/TheosProductions/Plague_Game/Project_Plague_GIT/Project_Plague_V1/Saved/FirstPersonExampleMap_Auto10E5C6C7C443C40207CB09FA5193487CA.tmp' to '../../../../../GIT/TheosProductions/Plague_Game/Project_Plague_GIT/Project_Plague_V1/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2019.12.03-05.53.59:678][614]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.380
+[2019.12.03-05.53.59:678][614]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.380
