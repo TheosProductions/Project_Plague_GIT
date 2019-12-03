@@ -1,0 +1,1564 @@
+﻿Log file open, 12/02/19 20:07:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Project_Plague_UE4
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.159523
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin ConcertSyncClient
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogPluginManager: Found config from plugin[ConcertSyncCore] C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Engine.ini
+LogPluginManager: Mounting plugin MultiUserClient
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Engine.ini]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Engine.ini]
+[2019.12.03-01.07.54:836][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Engine.ini]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Engine.ini]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.03-01.07.54:836][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Engine.ini]
+[2019.12.03-01.07.54:836][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Engine.ini]
+[2019.12.03-01.07.54:839][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.03-01.07.54:839][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-01.07.54:839][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.03-01.07.54:840][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.03-01.07.54:840][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.03-01.07.54:840][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.03-01.07.54:840][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.03-01.07.54:840][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.03-01.07.54:840][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.03-01.07.54:840][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.03-01.07.54:840][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.03-01.07.54:840][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.03-01.07.54:840][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.03-01.07.54:840][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.03-01.07.54:840][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.03-01.07.54:840][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-01.07.54:840][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.03-01.07.54:840][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.03-01.07.54:840][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.03-01.07.54:840][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.03-01.07.54:842][  0]LogHAL: Display: Platform has ~ 16 GB [17014509568 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.03-01.07.54:842][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.03-01.07.54:842][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-01.07.54:842][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.03-01.07.54:842][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.03-01.07.54:843][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.03-01.07.54:844][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.03-01.07.54:844][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.03-01.07.54:844][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Engine.ini]
+[2019.12.03-01.07.54:844][  0]LogInit: Computer: DESKTOP-CDQJGLH
+[2019.12.03-01.07.54:844][  0]LogInit: User: jason
+[2019.12.03-01.07.54:844][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.03-01.07.54:844][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.03-01.07.54:844][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.12.03-01.07.54:844][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.03-01.07.54:844][  0]LogMemory: Process Physical Memory: 100.52 MB used, 100.52 MB peak
+[2019.12.03-01.07.54:844][  0]LogMemory: Process Virtual Memory: 88.50 MB used, 88.50 MB peak
+[2019.12.03-01.07.54:844][  0]LogMemory: Physical Memory: 6279.65 MB used,  9946.65 MB free, 16226.30 MB total
+[2019.12.03-01.07.54:844][  0]LogMemory: Virtual Memory: 4656.43 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.12.03-01.07.54:846][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.03-01.07.54:868][  0]LogInit: Using OS detected language (en-US).
+[2019.12.03-01.07.54:868][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.03-01.07.54:868][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.03-01.07.55:007][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.03-01.07.55:030][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.03-01.07.55:030][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.03-01.07.55:188][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.03-01.07.55:188][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.03-01.07.55:260][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.12.03-01.07.55:260][  0]LogD3D11RHI:       4019/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.03-01.07.55:274][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.12.03-01.07.55:274][  0]LogD3D11RHI:       128/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.12.03-01.07.55:276][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.03-01.07.55:276][  0]LogD3D11RHI:       0/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.03-01.07.55:276][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.03-01.07.55:308][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.03-01.07.55:308][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.12.03-01.07.55:308][  0]LogWindows: EnumDisplayDevices:
+[2019.12.03-01.07.55:308][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.12.03-01.07.55:308][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.03-01.07.55:308][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.03-01.07.55:309][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.12.03-01.07.55:309][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.12.03-01.07.55:309][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.12.03-01.07.55:309][  0]LogD3D11RHI:   Driver Version: 441.41 (internal:26.21.14.4141, unified:441.41)
+[2019.12.03-01.07.55:309][  0]LogD3D11RHI:      Driver Date: 11-20-2019
+[2019.12.03-01.07.55:309][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
+[2019.12.03-01.07.55:350][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.03-01.07.55:513][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.03-01.07.55:827][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.03-01.07.55:835][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.03-01.07.55:843][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.03-01.07.55:851][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.03-01.07.55:859][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.03-01.07.55:867][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.03-01.07.55:875][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.03-01.07.55:883][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.03-01.07.55:887][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.03-01.07.55:916][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.03-01.07.55:916][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.03-01.07.55:916][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.03-01.07.55:916][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.03-01.07.55:916][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.03-01.07.55:916][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.03-01.07.55:916][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.03-01.07.55:916][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.03-01.07.55:916][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.03-01.07.55:916][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.03-01.07.55:916][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.03-01.07.55:916][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.03-01.07.55:917][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.03-01.07.55:917][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.03-01.07.55:917][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.03-01.07.55:917][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.03-01.07.55:917][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.03-01.07.55:917][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.03-01.07.55:918][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.03-01.07.55:934][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.03-01.07.55:934][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.03-01.07.55:947][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.03-01.07.55:947][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.03-01.07.55:954][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.03-01.07.55:960][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.03-01.07.55:967][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.03-01.07.55:974][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.03-01.07.55:998][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.03-01.07.55:998][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.03-01.07.55:998][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.03-01.07.56:007][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.03-01.07.56:058][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Intermediate/Shaders/WorkingDirectory/8456/).
+[2019.12.03-01.07.56:058][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jason/AppData/Local/Temp/UnrealShaderWorkingDir/B84E4DF74529F2B09C8E7297A170F7EC/'.
+[2019.12.03-01.07.56:060][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.03-01.07.56:061][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.03-01.07.56:061][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.03-01.07.56:612][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.03-01.07.56:660][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/jason/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.03-01.07.56:660][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jason/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.03-01.07.56:660][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.03-01.07.56:660][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.03-01.07.56:660][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.03-01.07.56:660][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.03-01.07.56:670][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.03-01.07.56:670][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.03-01.07.56:670][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.03-01.07.56:671][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jason/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.03-01.07.56:671][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.03-01.07.56:671][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.03-01.07.56:689][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.03-01.07.56:692][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.03-01.07.56:692][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.03-01.07.56:741][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2019.12.03-01.07.56:967][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.03-01.07.57:099][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.03-01.07.57:099][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.03-01.07.57:099][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.03-01.07.57:099][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.03-01.07.57:099][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.03-01.07.57:108][  0]LogNetVersion: Project_Plague_UE4 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1726986232)
+[2019.12.03-01.07.57:485][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 1 prioritized culture(s) in 0.056488 seconds
+[2019.12.03-01.07.57:492][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.03-01.07.57:493][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.03-01.07.57:493][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.03-01.07.58:298][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.03-01.07.58:301][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.03-01.07.58:415][  0]SourceControl: Source control is disabled
+[2019.12.03-01.07.58:415][  0]SourceControl: Source control is disabled
+[2019.12.03-01.07.58:416][  0]SourceControl: Source control is disabled
+[2019.12.03-01.07.58:417][  0]SourceControl: Source control is disabled
+[2019.12.03-01.07.58:501][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.03-01.07.58:581][  0]LogOcInput: OculusInput pre-init called
+[2019.12.03-01.07.58:588][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.03-01.07.58:588][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.03-01.07.58:652][  0]LogEngine: Initializing Engine...
+[2019.12.03-01.07.58:653][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.03-01.07.58:654][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.03-01.07.58:843][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.03-01.07.58:857][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.03-01.07.58:869][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-01.07.58:913][  0]LogInit: FAudioDevice initialized.
+[2019.12.03-01.07.58:913][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.03-01.07.59:064][  0]LogDerivedDataCache: Saved boot cache 0.15s 73MB C:/Users/jason/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.03-01.07.59:068][  0]LogInit: Texture streaming: Enabled
+[2019.12.03-01.07.59:113][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.03-01.07.59:113][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.03-01.07.59:118][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.03-01.07.59:180][  0]LogInit: Transaction tracking system initialized
+[2019.12.03-01.07.59:210][  0]BlueprintLog: New page: Editor Load
+[2019.12.03-01.07.59:289][  0]LocalizationService: Localization service is disabled
+[2019.12.03-01.07.59:514][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.03-01.07.59:514][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.03-01.07.59:678][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/' took 0.03s
+[2019.12.03-01.07.59:678][  0]SourceControl: Source control is disabled
+[2019.12.03-01.07.59:678][  0]Cmd: MAP LOAD FILE="../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.03-01.07.59:678][  0]LightingResults: New page: Lighting Build
+[2019.12.03-01.07.59:681][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-01.07.59:681][  0]MapCheck: New page: Map Check
+[2019.12.03-01.07.59:681][  0]LightingResults: New page: Lighting Build
+[2019.12.03-01.07.59:702][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.12.03-01.08.01:260][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.03-01.08.01:438][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.03-01.08.01:463][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.12.03-01.08.01:464][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.03-01.08.01:464][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.131ms to complete.
+[2019.12.03-01.08.01:464][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.785
+[2019.12.03-01.08.01:623][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-01.08.01:630][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-01.08.01:636][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-01.08.01:643][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-01.08.01:655][  0]LogCollectionManager: Loaded 0 collections in 0.001814 seconds
+[2019.12.03-01.08.01:677][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Collections/' took 0.00s
+[2019.12.03-01.08.01:677][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/Developers/jason/Collections/' took 0.00s
+[2019.12.03-01.08.01:677][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/Collections/' took 0.00s
+[2019.12.03-01.08.01:677][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.12.03-01.08.01:687][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2873 classes and 697 folders.
+[2019.12.03-01.08.01:702][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2019.12.03-01.08.01:838][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2019.12.03-01.08.01:853][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2019.12.03-01.08.01:936][  0]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.03-01.08.01:940][  0]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.03-01.08.01:949][  0]LogSlate: Took 0.000919 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.03-01.08.02:073][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2019.12.03-01.08.02:217][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2019.12.03-01.08.02:217][  0]LogLoad: (Engine Initialization) Total time: 9.88 seconds
+[2019.12.03-01.08.02:217][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.03-01.08.02:274][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.03-01.08.02:308][  0]LogSlate: Took 0.001199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.03-01.08.02:349][  1]LogAssetRegistry: Asset discovery search completed in 5.6085 seconds
+[2019.12.03-01.08.02:352][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2019.12.03-01.08.02:352][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
+[2019.12.03-01.08.03:252][ 93]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.03-01.08.18:993][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-01.08.19:286][976]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.12.03-01.08.21:450][976]LogClass: Warning: Enum '/Game/Zombie_01/Demo_Controller/Enumerations/EMoveStates.EMoveStates' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.12.03-01.08.23:224][976]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 121 classes and 0 folders.
+[2019.12.03-01.08.27:084][976]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/InventorySystem/Widgets/InventorySlot.InventorySlot
+[2019.12.03-01.08.31:964][976]LogSlate: Took 0.033057 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.03-01.08.33:225][977]LogSlate: Took 0.001115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.03-01.08.37:439][384]LogSlate: Window 'InventorySlot' being destroyed
+[2019.12.03-01.09.02:367][614]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={77AFD526-4808-F9E2-457B-83879FAB07EC}
+[2019.12.03-01.09.45:764][601]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryF8137B034D9CB3122CFF9DA75FC83DFC.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.09.46:589][694]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/InventorySystem/Widgets/Inventory.Inventory
+[2019.12.03-01.10.04:352][865]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.10.04:568][865]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2019.12.03-01.10.04:917][901]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory6C947B0748DEAEF1438E028A3531A7FB.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.10.10:934][610]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.10.10:975][610]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2019.12.03-01.10.11:606][679]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryCE28CC22492B3BA94749EE9C20270C65.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.10.30:703][492]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.10.30:743][492]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2019.12.03-01.10.31:288][543]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory00A4A45E4945977E5FE6EF8C18180773.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.10.42:560][592]LogSlate: Took 0.013927 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.12.03-01.10.43:713][727]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.10.43:750][727]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2019.12.03-01.10.44:214][774]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory186091404EC8F5A2FD2F45B1A4F2F9AB.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.10.50:185][476]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.10.50:222][476]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.12.03-01.10.50:946][558]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryEC32DA2C4B0C569C7F92E5ABBF1DE819.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.11.10:690][ 92]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory0F5EE3744AD3CD8AAD90AA83DC669A55.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.11.18:078][965]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.03-01.11.20:037][199]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.11.20:074][199]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2019.12.03-01.11.20:653][257]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory2BAA88A04FDB994498CF299C3B23E591.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.11.38:267][354]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryBFB3D5E54B38FF5EBCA711B0C7686C70.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.11.44:364][789]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory2F6A5C6A4E903831B622F18FD27A3470.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.11.45:347][905]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.11.45:386][905]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2019.12.03-01.11.46:776][ 50]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryFD422DDE44FC96239D762C85A0EE86EE.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.14.06:573][402]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory77D54D8F428B56C08DEE3E92D3FC4799.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.14.07:467][507]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.14.07:502][507]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.12.03-01.14.08:121][566]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryC231BE1641D2786E227E4C99004B534F.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.14.36:022][587]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryFC92848B4D6372E9152DF38CBEFC9E6E.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.14.40:629][133]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory7BAB8E3848571A8A29F92F86D8718EED.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.14.47:593][915]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.14.47:630][915]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2019.12.03-01.14.48:266][979]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryDCA9CD0648AB68951C7D59B8014B73EC.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.15.03:310][228]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory511308A341A9665443E1F184186905A4.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.15.05:169][449]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.15.05:207][449]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.12.03-01.15.06:168][552]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryF1A1D8D7407975CE96DD9FBD81CEAAAC.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.15.30:031][700]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.03-01.15.46:859][605]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.03-01.15.57:278][852]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.03-01.15.58:781][ 32]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.15.58:818][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2019.12.03-01.15.59:566][ 97]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory1B23A7DF465BC877207E6E8F912A2CF1.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.16.16:861][711]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.16.16:902][711]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2019.12.03-01.16.17:707][796]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory68051C1C48E5B3BEF83EB4A0690C3F98.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.16.32:225][812]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory30A9ABD44CB9F886657AA4B5C8CF28C8.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.16.34:045][ 29]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.16.34:084][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2019.12.03-01.16.34:553][ 80]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory879206DA43583AC4AE0323928A16470B.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.16.44:122][218]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.16.44:162][218]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2019.12.03-01.16.44:787][281]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory34D1A5A84DB85294514DF5A3BBBBC90F.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.17.00:835][879]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.03-01.17.01:544][960]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryB8EE98D74B4580D29A538ABC855F994E.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.17.02:429][ 47]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.17.02:552][ 47]LogUObjectHash: Compacting FUObjectHashTables data took  11.27ms
+[2019.12.03-01.17.03:088][ 97]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory79909E474F7FD9C62414FBA71DDA0762.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.17.20:109][125]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory5CF1BDCE4580352DFCB79D8100EFAF6A.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.17.21:125][244]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.17.21:165][244]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.12.03-01.17.21:786][309]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory56269B8C4647B5DE376776822F526812.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.17.38:997][727]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.17.39:033][727]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2019.12.03-01.17.39:479][771]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory762B1DE04E659F347C372CB013B43A04.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.17.48:029][710]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.03-01.17.49:609][899]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.17.49:646][899]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.12.03-01.17.50:429][987]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory3FC0D06D41D143AF0CD9D1B480E377CC.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.18.02:943][286]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={A911C3D9-4316-0D5D-11CA-7DA172BF27F5}
+[2019.12.03-01.18.13:583][399]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.18.13:622][399]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.12.03-01.18.14:208][451]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory8F45BBEF4CB02D38F6567F82942F612C.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.18.22:740][463]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.18.22:779][463]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.12.03-01.18.23:266][503]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory104E3A3A480281F0EDBB7FA7544B09A2.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.18.38:934][284]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.18.38:970][284]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.12.03-01.18.39:614][342]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory48DE83574924B4BB058C0F8179AE7ABE.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.18.52:817][618]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.18.52:856][618]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2019.12.03-01.18.53:361][665]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryBF87F44E4B1C35F7E22EB5A878EBA8B2.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.19.45:182][835]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.03-01.19.46:725][ 19]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.19.46:765][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2019.12.03-01.19.47:210][ 67]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory594BAD62485B27537163418619E15048.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.19.48:494][214]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.12.03-01.20.12:486][136]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.20.12:524][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2019.12.03-01.20.13:167][206]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory700701274B1E59AE3D3DF9A15B18672D.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.20.25:110][613]LogSlate: Took 0.005583 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.12.03-01.20.30:406][ 81]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.20.30:447][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2019.12.03-01.20.31:055][144]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryA6A441DC42D6BF7E3DD0CE831FBA1512.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.20.35:929][708]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.20.35:969][708]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2019.12.03-01.20.36:644][783]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory6D62AFA34560C8119B8B098C2C263D6B.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.20.46:349][940]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.20.46:388][940]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2019.12.03-01.20.46:875][992]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryFF5B70AA4DC7914EA181E597AED7D20A.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.20.50:379][368]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.20.50:381][368]LogClass: Warning: Type mismatch in SlotsPerRow of Inventory_C - Previous (ObjectProperty) Current(IntProperty) for package:  FObjectReader
+[2019.12.03-01.20.50:417][368]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.12.03-01.20.51:351][459]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory0C28B2CF451866C3F88373B2D2D5A03D.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.22.07:859][467]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.22.07:907][467]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2019.12.03-01.22.08:455][523]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryB98C82B842BA2514B01320A732A3B45A.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.22.21:191][ 27]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.22.21:235][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2019.12.03-01.22.21:834][ 93]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory37121594407200193128BDA0DD5F5AAA.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.22.37:954][861]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.22.37:996][861]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2019.12.03-01.22.38:930][967]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory2C221ACF49D3AB36668BDFAF5C54EF57.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.23.02:822][305]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.23.02:861][305]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2019.12.03-01.23.03:888][419]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryB8409D1F4D814276366D7D99B4A636A4.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.23.21:886][ 12]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.23.21:930][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2019.12.03-01.23.22:597][ 85]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory7021A5044F5274369162638A9610DD0C.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.24.22:386][652]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.24.22:427][652]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.12.03-01.24.23:452][768]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory7E7EBDB8424160F87F588CB0671412B3.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.24.33:513][498]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory7759CBC349695A3BF95377AA8E9953BB.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.25.09:948][618]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.25.09:990][618]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2019.12.03-01.25.10:456][665]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory5C91012A462ECD60BABCD6833A80CBB9.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.25.32:709][591]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.25.32:752][591]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2019.12.03-01.25.33:270][642]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory893023EF4D50FDDBAF673F8795630A41.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.25.53:675][439]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryBFE8185D47357A533EFFEB9518521F11.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.26.00:797][860]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.26.00:870][860]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.12.03-01.26.01:358][884]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory378A1C4B404CE499A1B0019D32A4AEBA.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.26.19:004][400]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.26.19:049][400]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2019.12.03-01.26.19:842][443]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory4326E7F3462CC9705EE4C1B081A5C87B.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.26.24:242][704]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.26.24:251][704]LogClass: Warning: Type mismatch in SlotWidget of Inventory_C - Previous (ObjectProperty) Current(ArrayProperty) for package:  FObjectReader
+[2019.12.03-01.26.24:303][704]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.12.03-01.26.24:769][728]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory84668AD848977CA83F1752AFAA4E9F10.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.26.42:377][515]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.26.42:450][515]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2019.12.03-01.26.43:049][546]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryCCD08F834C3269B9E5D35C825BC1C4AD.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.27.00:943][496]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.27.01:011][496]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2019.12.03-01.27.01:500][522]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryC910FBDC4777E4D05E15F082CD6DEF93.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.27.32:299][639]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.27.32:367][639]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2019.12.03-01.27.33:101][678]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory229F45454BFDB935FEF17286E2956776.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.28.03:682][637]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/MainWidget3B55C4A44A818FE0E35FFAB2818FF4FC.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/MainWidget.uasset'
+[2019.12.03-01.28.05:197][725]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/InventorySystem/Widgets/MainWidget.MainWidget
+[2019.12.03-01.28.51:571][483]BlueprintLog: New page: Compile MainWidget
+[2019.12.03-01.28.51:802][483]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.12.03-01.28.52:295][509]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/MainWidget59A27C6C424A7FC95728F494BFE4C86F.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/MainWidget.uasset'
+[2019.12.03-01.29.07:201][883]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/MainWidgetEB2DE07E4C937E1E86C4728548E37FBE.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/MainWidget.uasset'
+[2019.12.03-01.29.17:548][233]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/MainWidgetAB3C7F6443A8BF373082068D2B577915.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/MainWidget.uasset'
+[2019.12.03-01.29.19:461][347]BlueprintLog: New page: Compile MainWidget
+[2019.12.03-01.29.19:505][347]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2019.12.03-01.29.20:010][374]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/MainWidget31B5396B4E50FA988A39AEACF79A4ADC.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/MainWidget.uasset'
+[2019.12.03-01.29.37:900][944]BlueprintLog: New page: Compile MainWidget
+[2019.12.03-01.29.37:947][944]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2019.12.03-01.29.38:446][966]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/MainWidget6B80BBA34CA01EA7A8D0BC970094B21B.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/MainWidget.uasset'
+[2019.12.03-01.29.41:118][121]LogUObjectHash: Compacting FUObjectHashTables data took   8.16ms
+[2019.12.03-01.29.47:060][461]BlueprintLog: New page: Compile MainWidget
+[2019.12.03-01.29.47:212][461]LogUObjectHash: Compacting FUObjectHashTables data took  13.36ms
+[2019.12.03-01.29.47:678][484]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/MainWidgetC52F5756451113E120C48DAD64B02C0E.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/MainWidget.uasset'
+[2019.12.03-01.30.15:999][151]BlueprintLog: New page: Compile MainWidget
+[2019.12.03-01.30.16:079][151]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2019.12.03-01.30.16:690][183]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/MainWidget6A3FA0EC46FCB4AB76E756A01A641165.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/MainWidget.uasset'
+[2019.12.03-01.30.36:418][916]BlueprintLog: New page: Compile MainWidget
+[2019.12.03-01.30.36:459][916]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.12.03-01.30.37:084][949]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/MainWidget5410B61C4018B67305A8F8B6057E8E31.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/MainWidget.uasset'
+[2019.12.03-01.31.10:270][656]BlueprintLog: New page: Compile MainWidget
+[2019.12.03-01.31.10:349][656]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.12.03-01.31.10:791][679]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/MainWidget10156B3544977EF3FBA91489866B7D35.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/MainWidget.uasset'
+[2019.12.03-01.31.53:046][476]BlueprintLog: New page: Compile MainWidget
+[2019.12.03-01.31.53:128][476]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2019.12.03-01.31.53:516][496]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/MainWidget299D5BB84A8EE940C9D0728C460060A7.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/MainWidget.uasset'
+[2019.12.03-01.32.06:810][173]BlueprintLog: New page: Compile MainWidget
+[2019.12.03-01.32.06:896][173]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2019.12.03-01.32.07:480][205]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/MainWidget14EF78B549D4ECC940BD7ABAF4EFB207.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/MainWidget.uasset'
+[2019.12.03-01.32.15:555][679]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/BP_Inventory.BP_Inventory
+[2019.12.03-01.32.44:226][348]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.03-01.32.55:586][  4]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_InventoryC789A9BC482426C5661819A4EC1CB750.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.32.56:903][ 83]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.03-01.32.57:169][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2019.12.03-01.32.57:480][ 93]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_Inventory8CF3D08349BB4DF91317939B9159507F.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.33.09:543][553]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_InventoryDE06B37243337389DDBA23B01668E99B.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.33.17:305][ 14]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.03-01.33.17:528][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2019.12.03-01.33.19:815][142]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_Inventory51A7D5034139FBE9C04CE6A2955E894F.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.33.21:990][272]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.03-01.33.22:242][272]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2019.12.03-01.33.22:637][287]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_InventoryBBEE792049D573095A9699B5E4E5626D.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.33.29:935][708]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_Inventory002515E64715B8E8784F349B8DC94E41.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.33.30:786][759]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.03-01.33.31:023][759]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2019.12.03-01.33.31:495][779]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_Inventory4ED51A134917D5672C8F0F845A7D8E47.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.33.38:051][164]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.03-01.33.38:294][164]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2019.12.03-01.33.38:804][181]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_Inventory4A44C8C342A95D85382E42BD797D0D8C.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.33.47:787][692]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_Inventory23819DFA41C9E3B30F3014BAF1CFD4E9.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.33.52:084][945]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.03-01.33.52:360][945]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2019.12.03-01.33.52:661][955]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_Inventory2709FD6E41248CC0BFEA1D8BC04E302A.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.34.09:886][647]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.03-01.34.10:133][647]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2019.12.03-01.34.10:583][666]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_InventoryA12019A54426073F9821529FE2E47387.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.34.50:788][136]LogUObjectHash: Compacting FUObjectHashTables data took  14.46ms
+[2019.12.03-01.34.51:601][136]LogSlate: Window 'Save Content' being destroyed
+[2019.12.03-01.34.51:833][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.12.03-01.34.52:223][136]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonExampleMapA1799E16430CBE3C29681985FCC59F2B.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.12.03-01.34.52:267][136]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.552
+[2019.12.03-01.34.53:425][204]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-01.34.53:462][204]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.03-01.34.53:462][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.03-01.34.53:464][204]PIE: New page: PIE session: FirstPersonExampleMap (Dec 2, 2019, 3:34:53 PM)
+[2019.12.03-01.34.53:465][204]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.03-01.34.53:466][204]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.03-01.34.53:565][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.098639s)
+[2019.12.03-01.34.53:566][204]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.03-01.34.53:567][204]LogPlayLevel: PIE: World Init took: (0.001249s)
+[2019.12.03-01.34.53:567][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.100232s)
+[2019.12.03-01.34.53:613][204]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2019.12.03-01.34.53:624][204]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-01.34.53:639][204]LogInit: FAudioDevice initialized.
+[2019.12.03-01.34.53:647][204]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.03-01.34.53:651][204]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.12.02-20.34.53
+[2019.12.03-01.34.53:654][204]LogWorld: Bringing up level for play took: 0.006034
+[2019.12.03-01.34.53:654][204]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.12.03-01.34.53:672][204]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 20 classes and 0 folders.
+[2019.12.03-01.34.53:673][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-01.34.53:683][204]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.127
+[2019.12.03-01.34.53:684][204]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.03-01.34.59:536][532]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1911 1
+[2019.12.03-01.35.00:686][600]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Machete 1
+[2019.12.03-01.35.01:094][623]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1911 1
+[2019.12.03-01.35.01:378][638]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Machete 1
+[2019.12.03-01.35.01:716][656]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1911 1
+[2019.12.03-01.35.01:995][671]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Machete 1
+[2019.12.03-01.35.02:274][687]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Machete 1
+[2019.12.03-01.35.02:578][705]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1911 1
+[2019.12.03-01.35.02:829][720]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Machete 1
+[2019.12.03-01.35.03:229][744]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1911 1
+[2019.12.03-01.35.03:512][761]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Machete 1
+[2019.12.03-01.35.04:449][817]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.03-01.35.04:455][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-01.35.04:455][817]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.03-01.35.04:455][817]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-01.35.04:492][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-01.35.04:492][817]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.03-01.35.04:540][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-01.35.04:568][817]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2019.12.03-01.35.04:583][818]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.12.03-01.35.09:867][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-01.35.35:694][149]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.35.35:942][149]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2019.12.03-01.35.36:344][168]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory86F41E5A43FA30FC6007DFAE54E6AA4F.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.35.45:977][344]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-01.35.46:028][344]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.03-01.35.46:028][344]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.03-01.35.46:028][344]PIE: New page: PIE session: FirstPersonExampleMap (Dec 2, 2019, 3:35:46 PM)
+[2019.12.03-01.35.46:028][344]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.03-01.35.46:178][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.150048s)
+[2019.12.03-01.35.46:179][344]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.03-01.35.46:179][344]LogPlayLevel: PIE: World Init took: (0.001314s)
+[2019.12.03-01.35.46:179][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.151533s)
+[2019.12.03-01.35.46:227][344]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2019.12.03-01.35.46:230][344]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-01.35.46:244][344]LogInit: FAudioDevice initialized.
+[2019.12.03-01.35.46:254][344]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.03-01.35.46:257][344]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.12.02-20.35.46
+[2019.12.03-01.35.46:257][344]LogWorld: Bringing up level for play took: 0.002706
+[2019.12.03-01.35.46:258][344]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.12.03-01.35.46:259][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-01.35.46:268][344]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.289
+[2019.12.03-01.35.46:268][344]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.03-01.35.52:094][687]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.03-01.35.52:095][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-01.35.52:095][687]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.03-01.35.52:095][687]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-01.35.52:118][687]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-01.35.52:118][687]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.03-01.35.52:168][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-01.35.52:176][687]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.12.03-01.35.52:193][688]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.12.03-01.36.06:748][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-01.36.25:174][924]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_Inventory05D7BAE345CCE46A6FBB5D90BE6E8C83.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.36.33:106][395]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.03-01.36.33:373][395]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2019.12.03-01.36.33:694][405]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_Inventory51F863CB4A4DEF7C91CF0B98E01C2A96.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.36.57:528][634]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.03-01.36.57:782][634]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2019.12.03-01.36.58:256][654]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_Inventory0E53F1E543BA103C8F22DE9B5CD2ADC7.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.37.10:077][252]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.03-01.37.10:350][252]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2019.12.03-01.37.10:911][273]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_Inventory8FC3B544419FA39CF3ECB1BCC53A6CCB.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.37.22:851][751]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.03-01.37.23:130][751]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2019.12.03-01.37.23:590][770]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_InventoryF12D3B5E41C12AE8EE464E885FC5CFB8.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.38.33:650][732]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_Inventory59591E8D40FD8A322277DC9A8F88A972.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.39.01:965][241]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_InventoryE2592C2B4C2264235CAEC8A6620A7C30.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.39.25:163][472]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.03-01.39.25:430][472]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2019.12.03-01.39.25:693][478]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_Inventory18C4570A4B47C3A1E40AD6AE0E014490.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.40.19:940][526]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_Inventory51F57A394655F3EC78CDFC8B3FFD6B2A.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.41.00:536][971]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.03-01.41.00:811][971]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2019.12.03-01.41.01:433][998]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_InventoryDC5BCA9B4001F3C6E58E2D97379FC499.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.41.03:256][102]LogUObjectHash: Compacting FUObjectHashTables data took   7.99ms
+[2019.12.03-01.41.04:005][102]LogSlate: Window 'Save Content' being destroyed
+[2019.12.03-01.41.04:126][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.12.03-01.41.04:489][102]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonExampleMap32CE114B41B8C908B6CE4B9A8F44DB07.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.12.03-01.41.04:528][102]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.445
+[2019.12.03-01.41.38:813][917]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.03-01.41.39:081][917]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2019.12.03-01.41.39:603][938]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_Inventory3A24612B4648E34865C1B0811BBCB0D3.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.42.14:486][852]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.03-01.42.14:741][852]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2019.12.03-01.42.15:156][867]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_InventoryE01825A8453816E92ABE4C8030C3F08B.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.42.29:718][260]LogEditorTransaction: Undo Move Nodes
+[2019.12.03-01.42.42:398][996]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.03-01.42.42:663][996]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2019.12.03-01.42.43:145][ 15]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_Inventory4442A4984A0023438912BA8321E87AC3.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.42.44:453][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2019.12.03-01.42.45:173][ 88]LogSlate: Window 'Save Content' being destroyed
+[2019.12.03-01.42.45:401][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2019.12.03-01.42.45:760][ 88]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonExampleMapAFD84B7942E40A0A4371BB88F45E1413.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.12.03-01.42.45:797][ 88]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.526
+[2019.12.03-01.42.46:195][110]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-01.42.46:237][110]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.03-01.42.46:237][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.03-01.42.46:237][110]PIE: New page: PIE session: FirstPersonExampleMap (Dec 2, 2019, 3:42:46 PM)
+[2019.12.03-01.42.46:237][110]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.03-01.42.46:364][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.126702s)
+[2019.12.03-01.42.46:365][110]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.03-01.42.46:365][110]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2019.12.03-01.42.46:365][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.127848s)
+[2019.12.03-01.42.46:410][110]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.12.03-01.42.46:413][110]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-01.42.46:427][110]LogInit: FAudioDevice initialized.
+[2019.12.03-01.42.46:432][110]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.03-01.42.46:435][110]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.12.02-20.42.46
+[2019.12.03-01.42.46:435][110]LogWorld: Bringing up level for play took: 0.002628
+[2019.12.03-01.42.46:435][110]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.12.03-01.42.46:437][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-01.42.46:445][110]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.111
+[2019.12.03-01.42.46:446][110]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.03-01.42.51:429][409]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1911 1
+[2019.12.03-01.42.52:086][447]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Machete 1
+[2019.12.03-01.42.52:319][461]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Machete 1
+[2019.12.03-01.42.52:553][475]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Machete 1
+[2019.12.03-01.42.52:836][492]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1911 1
+[2019.12.03-01.42.53:081][506]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Machete 1
+[2019.12.03-01.42.53:347][521]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1911 1
+[2019.12.03-01.42.53:571][534]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Machete 1
+[2019.12.03-01.42.54:190][571]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.03-01.42.54:191][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-01.42.54:191][571]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.03-01.42.54:191][571]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-01.42.54:227][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-01.42.54:228][571]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.03-01.42.54:276][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-01.42.54:284][571]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2019.12.03-01.42.54:299][572]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.12.03-01.42.58:007][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-01.44.28:363][532]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.03-01.44.28:679][532]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2019.12.03-01.44.29:059][546]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_Inventory4C7A1DE143903FE143AFA781CD133A37.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.44.35:650][937]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.03-01.44.35:917][937]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2019.12.03-01.44.36:566][967]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_InventoryEBA1244B4F602E197396DA81C09FADFB.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.44.48:325][454]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.03-01.44.48:610][454]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2019.12.03-01.44.48:988][468]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_Inventory2883BE624EABC18705D5C998688FCB16.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.45.09:940][592]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.03-01.45.10:229][592]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2019.12.03-01.45.10:547][602]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_Inventory01CE41A544DA9D3CC86A3691BC3E2AF9.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.45.21:577][248]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.03-01.45.21:830][248]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2019.12.03-01.45.22:236][263]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_InventoryD2DC1D92466B52889DDB01B6D49B2079.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.45.30:662][754]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.03-01.45.30:958][754]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2019.12.03-01.45.31:475][775]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_Inventory427F3F9C439D255055FCB6AE2005958B.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.45.41:909][394]LogSlate: Window 'Show Inventory' being destroyed
+[2019.12.03-01.45.56:921][277]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.03-01.45.57:223][277]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2019.12.03-01.45.57:518][286]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_Inventory70BB916F43033AC7B604EE8A669A53EE.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.46.01:330][512]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.03-01.46.01:604][512]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2019.12.03-01.46.02:119][534]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_Inventory0C4B45FD485B9ADBD73A2A8DA82559CC.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.46.16:123][330]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.03-01.46.16:443][330]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2019.12.03-01.46.16:796][332]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter000393274CCF0F9EF307BB81149072FF.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.03-01.46.50:982][311]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.03-01.46.51:280][311]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2019.12.03-01.46.52:047][341]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter87FBC3C04F6A74E050E9F78CD81F82E8.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.03-01.47.37:108][736]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.47.37:381][736]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2019.12.03-01.47.37:843][758]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryB1F36D104DA9E2ACBDB98E9CF85AB9F5.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.47.39:626][860]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2019.12.03-01.47.40:495][860]LogSlate: Window 'Save Content' being destroyed
+[2019.12.03-01.47.40:569][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.12.03-01.47.40:938][860]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonExampleMapA44B3E504C39EA9AEA5241A5DB2038CD.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.12.03-01.47.40:977][860]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.451
+[2019.12.03-01.47.53:410][596]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.03-01.47.53:687][596]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2019.12.03-01.47.54:463][633]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_Inventory7D434A1D4C1CC99799A42CB4029DA798.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.47.55:665][704]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-01.47.55:705][704]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.03-01.47.55:705][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.03-01.47.55:705][704]PIE: New page: PIE session: FirstPersonExampleMap (Dec 2, 2019, 3:47:55 PM)
+[2019.12.03-01.47.55:705][704]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.03-01.47.55:804][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.098721s)
+[2019.12.03-01.47.55:805][704]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.03-01.47.55:805][704]LogPlayLevel: PIE: World Init took: (0.001271s)
+[2019.12.03-01.47.55:805][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.100206s)
+[2019.12.03-01.47.55:854][704]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2019.12.03-01.47.55:857][704]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-01.47.55:873][704]LogInit: FAudioDevice initialized.
+[2019.12.03-01.47.55:879][704]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.03-01.47.55:882][704]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.12.02-20.47.55
+[2019.12.03-01.47.55:882][704]LogWorld: Bringing up level for play took: 0.002709
+[2019.12.03-01.47.55:882][704]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.12.03-01.47.55:884][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-01.47.55:893][704]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.664
+[2019.12.03-01.47.55:893][704]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.03-01.47.59:762][915]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.03-01.47.59:763][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-01.47.59:763][915]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.03-01.47.59:763][915]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-01.47.59:788][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-01.47.59:788][915]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.03-01.47.59:840][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-01.47.59:849][915]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.12.03-01.47.59:872][916]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.12.03-01.48.01:236][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-01.48.27:170][418]BlueprintLog: New page: Compile MainWidget
+[2019.12.03-01.48.27:252][418]LogUObjectHash: Compacting FUObjectHashTables data took   6.71ms
+[2019.12.03-01.48.28:118][463]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/MainWidget1D32A31640A573737AE21786CE3E249A.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/MainWidget.uasset'
+[2019.12.03-01.48.35:490][894]LogEditorTransaction: Undo Edit Visibility
+[2019.12.03-01.48.35:934][919]LogEditorTransaction: Undo Edit Visibility
+[2019.12.03-01.48.44:431][423]BlueprintLog: New page: Compile MainWidget
+[2019.12.03-01.48.44:540][423]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2019.12.03-01.48.45:078][452]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/MainWidgetC22EC52447D25804DA4DA9A95A08A879.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/MainWidget.uasset'
+[2019.12.03-01.48.59:389][304]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.03-01.48.59:670][304]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2019.12.03-01.49.00:410][339]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_InventoryA924C0BB4464B00A9887BB9EABC09E34.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.49.01:460][401]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-01.49.01:507][401]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.03-01.49.01:507][401]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.03-01.49.01:507][401]PIE: New page: PIE session: FirstPersonExampleMap (Dec 2, 2019, 3:49:01 PM)
+[2019.12.03-01.49.01:507][401]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.03-01.49.01:610][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103055s)
+[2019.12.03-01.49.01:611][401]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.03-01.49.01:612][401]LogPlayLevel: PIE: World Init took: (0.001424s)
+[2019.12.03-01.49.01:612][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.104677s)
+[2019.12.03-01.49.01:659][401]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2019.12.03-01.49.01:662][401]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-01.49.01:676][401]LogInit: FAudioDevice initialized.
+[2019.12.03-01.49.01:685][401]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.03-01.49.01:688][401]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.12.02-20.49.01
+[2019.12.03-01.49.01:688][401]LogWorld: Bringing up level for play took: 0.002569
+[2019.12.03-01.49.01:688][401]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.12.03-01.49.01:690][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-01.49.01:699][401]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.142
+[2019.12.03-01.49.01:699][401]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.03-01.49.04:574][567]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.03-01.49.04:574][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-01.49.04:574][567]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.03-01.49.04:574][567]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-01.49.04:592][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-01.49.04:593][567]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.03-01.49.04:640][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-01.49.04:649][567]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.12.03-01.49.04:684][569]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.12.03-01.49.05:530][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-01.49.15:987][239]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/MainWidget0F7F63D3488F249331D7E69FA2CE74F3.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/MainWidget.uasset'
+[2019.12.03-01.49.16:956][297]BlueprintLog: New page: Compile MainWidget
+[2019.12.03-01.49.17:051][297]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2019.12.03-01.49.26:782][867]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/MainWidget1A4A41BA4FF63812C51EAB94CB7155CA.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/MainWidget.uasset'
+[2019.12.03-01.49.27:717][923]BlueprintLog: New page: Compile MainWidget
+[2019.12.03-01.49.27:796][923]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2019.12.03-01.49.28:227][945]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/MainWidget0BF388FF4D24B66E2F3242AEA0F7980C.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/MainWidget.uasset'
+[2019.12.03-01.49.29:956][ 43]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-01.49.30:002][ 43]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.03-01.49.30:002][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.03-01.49.30:002][ 43]PIE: New page: PIE session: FirstPersonExampleMap (Dec 2, 2019, 3:49:30 PM)
+[2019.12.03-01.49.30:002][ 43]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.03-01.49.30:123][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.119750s)
+[2019.12.03-01.49.30:124][ 43]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.03-01.49.30:124][ 43]LogPlayLevel: PIE: World Init took: (0.000947s)
+[2019.12.03-01.49.30:124][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.120856s)
+[2019.12.03-01.49.30:167][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.12.03-01.49.30:169][ 43]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-01.49.30:183][ 43]LogInit: FAudioDevice initialized.
+[2019.12.03-01.49.30:188][ 43]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.03-01.49.30:191][ 43]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.12.02-20.49.30
+[2019.12.03-01.49.30:191][ 43]LogWorld: Bringing up level for play took: 0.002718
+[2019.12.03-01.49.30:192][ 43]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2019.12.03-01.49.30:193][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-01.49.30:203][ 43]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.354
+[2019.12.03-01.49.30:203][ 43]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.03-01.49.32:874][193]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.03-01.49.32:875][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-01.49.32:875][193]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.03-01.49.32:875][193]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-01.49.32:888][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-01.49.32:889][193]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.03-01.49.32:936][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-01.49.32:944][193]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.12.03-01.49.32:982][195]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.12.03-01.49.33:700][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-01.49.39:164][562]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.03-01.49.39:524][562]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2019.12.03-01.49.39:974][580]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/BP_Inventory52F4D2044A9B1FAA600DE7AA6396BE2B.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.03-01.49.41:884][694]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-01.49.41:914][694]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.03-01.49.41:914][694]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.03-01.49.41:914][694]PIE: New page: PIE session: FirstPersonExampleMap (Dec 2, 2019, 3:49:41 PM)
+[2019.12.03-01.49.41:915][694]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.03-01.49.42:010][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094718s)
+[2019.12.03-01.49.42:011][694]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.03-01.49.42:011][694]LogPlayLevel: PIE: World Init took: (0.001189s)
+[2019.12.03-01.49.42:011][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.096078s)
+[2019.12.03-01.49.42:061][694]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2019.12.03-01.49.42:064][694]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-01.49.42:077][694]LogInit: FAudioDevice initialized.
+[2019.12.03-01.49.42:083][694]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.03-01.49.42:086][694]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.12.02-20.49.42
+[2019.12.03-01.49.42:086][694]LogWorld: Bringing up level for play took: 0.002578
+[2019.12.03-01.49.42:086][694]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2019.12.03-01.49.42:088][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-01.49.42:096][694]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.46
+[2019.12.03-01.49.42:097][694]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.03-01.49.48:997][ 93]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.03-01.49.48:997][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-01.49.48:997][ 93]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.03-01.49.48:998][ 93]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-01.49.49:019][ 93]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-01.49.49:019][ 93]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.03-01.49.49:065][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-01.49.49:075][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2019.12.03-01.49.49:111][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.12.03-01.50.39:864][121]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-01.50.49:724][349]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.03-01.51.00:773][828]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2019.12.03-01.51.00:774][828]LogMetaData: Removing '/Game/InventorySystem/DragAndDrop/WidgetDrag.SKEL_WidgetDrag_C' ref from Metadata '/Game/InventorySystem/DragAndDrop/NewBlueprint.PackageMetaData'
+[2019.12.03-01.51.00:774][828]LogMetaData: Removing '/Game/InventorySystem/DragAndDrop/WidgetDrag.WidgetDrag_C' ref from Metadata '/Game/InventorySystem/DragAndDrop/NewBlueprint.PackageMetaData'
+[2019.12.03-01.51.00:808][828]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/WidgetDrag72C6BCF045BD631BE1AE02A3142EE7A3.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/DragAndDrop/WidgetDrag.uasset'
+[2019.12.03-01.51.01:029][828]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.12.03-01.51.01:074][828]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.12.03-01.51.01:109][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.12.03-01.51.01:564][850]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/WidgetDrag8477E96240D02F45C8B41D9A3B960ED8.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/DragAndDrop/WidgetDrag.uasset'
+[2019.12.03-01.51.02:713][917]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InventorySystem/DragAndDrop/WidgetDrag.WidgetDrag
+[2019.12.03-01.51.15:077][639]BlueprintLog: New page: Compile WidgetDrag
+[2019.12.03-01.51.15:142][639]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2019.12.03-01.51.15:827][676]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/WidgetDragB5D221384FD7C0E20D9430B4D1216341.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/DragAndDrop/WidgetDrag.uasset'
+[2019.12.03-01.51.20:752][949]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/WidgetDrag8BFCA7A04F4FA45766124DA6A6D1956B.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/DragAndDrop/WidgetDrag.uasset'
+[2019.12.03-01.51.21:506][994]BlueprintLog: New page: Compile WidgetDrag
+[2019.12.03-01.51.21:507][994]LogClass: Warning: Type mismatch in WidgetToDrag of WidgetDrag_C - Previous (BoolProperty) Current(ObjectProperty) for package:  FObjectReader
+[2019.12.03-01.51.21:552][994]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2019.12.03-01.51.22:157][ 22]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/WidgetDragE681AB4A41E5D9018314BCB6B74FD37C.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/DragAndDrop/WidgetDrag.uasset'
+[2019.12.03-01.51.40:920][ 10]BlueprintLog: New page: Compile WidgetDrag
+[2019.12.03-01.51.41:004][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2019.12.03-01.51.41:670][ 47]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/WidgetDrag24D55A4542A9518E657096B4586567CA.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/DragAndDrop/WidgetDrag.uasset'
+[2019.12.03-01.51.46:720][230]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-01.52.24:959][588]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.52.24:991][588]LogBlueprint: Warning: [Compiler Inventory] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2019.12.03-01.52.25:236][588]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2019.12.03-01.52.25:496][599]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryA271BFC4423E5A9C3DA60EB0B87B4010.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.52.44:121][466]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.52.44:140][466]LogBlueprint: Warning: [Compiler Inventory] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2019.12.03-01.52.44:141][466]LogBlueprint: Error: [Compiler Inventory] The current value of the ' Pointer Event ' pin is invalid: 'Pointer Event' in action 'Detect Drag if Pressed' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.12.03-01.52.44:395][466]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2019.12.03-01.52.44:861][489]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory64E88C4A4159D016C63C91B9ABDBA7E5.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.52.50:717][833]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.52.50:727][833]LogBlueprint: Warning: [Compiler Inventory] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2019.12.03-01.52.50:965][833]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2019.12.03-01.52.51:329][850]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryC2E410F34B6C978CC6B92DB53B473091.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.52.56:027][127]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.52.56:314][127]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2019.12.03-01.52.56:770][149]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryF38DDBAB4ECF79FAE2FD1B85DBCC7017.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.53.15:710][229]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.03-01.53.18:608][397]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.53.18:888][397]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2019.12.03-01.53.19:288][416]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryCE55A45D4A1007B0315E9F81AF68B3AE.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.53.45:282][783]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.53.45:575][783]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2019.12.03-01.53.45:922][799]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory6603C08F4A8260B3BFF39C82395F57BB.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.54.24:062][253]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.54.24:336][253]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2019.12.03-01.54.24:782][275]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Inventory516B33AA4C0F37B0CD5BA98B75692287.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.54.29:886][567]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.54.30:181][567]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2019.12.03-01.54.30:494][581]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryC7D5F048462E1EB5411DE18CB09E8504.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.54.34:863][833]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.54.35:127][833]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2019.12.03-01.54.35:706][860]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryF3D9CA1D486BEFF460449FBAEDE45749.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.55.17:963][918]BlueprintLog: New page: Compile Inventory
+[2019.12.03-01.55.18:260][918]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2019.12.03-01.55.18:603][933]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryDFF785A64B0A2AA4357FB6B52B81F8DD.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.03-01.55.50:281][469]BlueprintLog: New page: Compile MainWidget
+[2019.12.03-01.55.50:371][469]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2019.12.03-01.55.50:802][491]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/MainWidget028ACFE646A00A1AACA604B6100F9DE9.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/MainWidget.uasset'
+[2019.12.03-01.56.21:762][848]BlueprintLog: New page: Compile MainWidget
+[2019.12.03-01.56.21:873][848]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2019.12.03-01.56.22:306][869]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/MainWidgetA8A6529C448DA3F7579A4EBEE1FA5EEC.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/MainWidget.uasset'
+[2019.12.03-01.57.37:475][300]BlueprintLog: New page: Compile MainWidget
+[2019.12.03-01.57.37:527][300]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2019.12.03-01.57.37:987][323]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/MainWidgetE349F68F404CD37D313952B2E3E4994F.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/MainWidget.uasset'
+[2019.12.03-01.57.55:437][192]BlueprintLog: New page: Compile MainWidget
+[2019.12.03-01.57.55:491][192]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2019.12.03-01.57.56:336][237]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/MainWidgetB31839A443D85FE755333582344BBEB8.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/MainWidget.uasset'
+[2019.12.03-01.58.16:684][689]BlueprintLog: New page: Compile MainWidget
+[2019.12.03-01.58.16:792][689]LogUObjectHash: Compacting FUObjectHashTables data took  10.86ms
+[2019.12.03-01.58.17:193][708]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/MainWidgetC5D9A414423857FF24E6D9972F653920.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Widgets/MainWidget.uasset'
+[2019.12.03-01.58.42:640][822]LogUObjectHash: Compacting FUObjectHashTables data took  11.91ms
+[2019.12.03-01.58.43:167][822]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonExampleMap_Auto1AEAD5A9747614572E56DDFBE4DCB1066.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2019.12.03-01.58.43:172][822]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.622
+[2019.12.03-01.58.43:172][822]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.622
+[2019.12.03-01.59.12:326][922]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2019.12.03-01.59.13:455][922]LogSlate: Window 'Save Content' being destroyed
+[2019.12.03-01.59.13:527][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.12.03-01.59.13:885][922]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonExampleMap68C545EC447ED600BE8A5095EFFD2A96.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.12.03-01.59.13:925][922]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.442
+[2019.12.03-01.59.14:022][922]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-01.59.14:065][922]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-01.59.14:085][922]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-01.59.14:115][922]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-01.59.14:123][922]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-01.59.14:153][922]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-01.59.14:161][922]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-01.59.14:192][922]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.03-01.59.14:192][922]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-01.59.14:226][922]LogSlate: Window 'Project_Plague_UE4 - Unreal Editor' being destroyed
+[2019.12.03-01.59.14:357][923]Cmd: QUIT_EDITOR
+[2019.12.03-01.59.14:626][923]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.03-01.59.14:629][923]LogExit: Preparing to exit.
+[2019.12.03-01.59.15:930][923]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-01.59.16:059][923]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.12.03-01.59.16:067][923]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-01.59.16:068][923]LogExit: Editor shut down
+[2019.12.03-01.59.16:068][923]LogExit: Transaction tracking system shut down
+[2019.12.03-01.59.16:406][923]LogExit: Object subsystem successfully closed.
+[2019.12.03-01.59.16:423][923]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.03-01.59.16:457][923]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (692)
+[2019.12.03-01.59.16:457][923]LogModuleManager: Shutting down and abandoning module Voice (690)
+[2019.12.03-01.59.16:457][923]LogModuleManager: Shutting down and abandoning module SequencerWidgets (688)
+[2019.12.03-01.59.16:457][923]LogModuleManager: Shutting down and abandoning module BlueprintGraph (686)
+[2019.12.03-01.59.16:457][923]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (684)
+[2019.12.03-01.59.16:457][923]LogModuleManager: Shutting down and abandoning module SceneOutliner (682)
+[2019.12.03-01.59.16:457][923]LogModuleManager: Shutting down and abandoning module AddContentDialog (680)
+[2019.12.03-01.59.16:457][923]LogModuleManager: Shutting down and abandoning module WidgetCarousel (679)
+[2019.12.03-01.59.16:457][923]LogModuleManager: Shutting down and abandoning module EditorWidgets (676)
+[2019.12.03-01.59.16:457][923]LogModuleManager: Shutting down and abandoning module CollectionManager (674)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module StatsViewer (672)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (670)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module FoliageEdit (668)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module LandscapeEditor (666)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module MeshPaintMode (664)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (662)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module ActorPickerMode (660)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module GeometryMode (658)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module TextureAlignMode (656)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module BspMode (654)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (652)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (650)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module AutomationWorker (648)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module OculusMR (646)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (644)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (642)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (640)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module PlacementMode (639)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module MaterialEditor (638)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (634)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (632)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (630)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (628)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (626)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module WebMMedia (624)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (622)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (620)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module SequenceRecorder (619)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (616)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (614)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (612)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (610)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (608)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (606)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (604)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (602)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (600)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (598)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (596)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module CharacterAI (594)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module SmartSnapping (592)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module SessionServices (590)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module MeshPaint (588)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module ViewportSnapping (586)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module ViewportInteraction (584)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module ClothPainter (582)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (581)
+[2019.12.03-01.59.16:458][923]LogModuleManager: Shutting down and abandoning module LogVisualizer (578)
+[2019.12.03-01.59.16:459][923]LogModuleManager: Shutting down and abandoning module IntroTutorials (576)
+[2019.12.03-01.59.16:459][923]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (575)
+[2019.12.03-01.59.16:459][923]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (572)
+[2019.12.03-01.59.16:459][923]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (570)
+[2019.12.03-01.59.16:459][923]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (568)
+[2019.12.03-01.59.16:459][923]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (566)
+[2019.12.03-01.59.16:459][923]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (565)
+[2019.12.03-01.59.17:049][923]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (562)
+[2019.12.03-01.59.17:049][923]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (560)
+[2019.12.03-01.59.17:049][923]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (558)
+[2019.12.03-01.59.17:049][923]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (556)
+[2019.12.03-01.59.17:049][923]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (554)
+[2019.12.03-01.59.17:049][923]LogModuleManager: Shutting down and abandoning module InputBindingEditor (552)
+[2019.12.03-01.59.17:049][923]LogModuleManager: Shutting down and abandoning module MergeActors (550)
+[2019.12.03-01.59.17:049][923]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (548)
+[2019.12.03-01.59.17:049][923]LogModuleManager: Shutting down and abandoning module LocalizationService (547)
+[2019.12.03-01.59.17:050][923]LogModuleManager: Shutting down and abandoning module HardwareTargeting (544)
+[2019.12.03-01.59.17:050][923]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (542)
+[2019.12.03-01.59.17:050][923]LogModuleManager: Shutting down and abandoning module UndoHistory (540)
+[2019.12.03-01.59.17:050][923]LogModuleManager: Shutting down and abandoning module XmlParser (538)
+[2019.12.03-01.59.17:050][923]LogModuleManager: Shutting down and abandoning module Blutility (536)
+[2019.12.03-01.59.17:050][923]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (534)
+[2019.12.03-01.59.17:050][923]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (533)
+[2019.12.03-01.59.17:050][923]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (530)
+[2019.12.03-01.59.17:050][923]LogModuleManager: Shutting down and abandoning module SettingsEditor (528)
+[2019.12.03-01.59.17:050][923]LogModuleManager: Shutting down and abandoning module ProjectLauncher (526)
+[2019.12.03-01.59.17:050][923]LogModuleManager: Shutting down and abandoning module SessionFrontend (524)
+[2019.12.03-01.59.17:050][923]LogModuleManager: Shutting down and abandoning module ProfilerClient (522)
+[2019.12.03-01.59.17:050][923]LogModuleManager: Shutting down and abandoning module DeviceManager (520)
+[2019.12.03-01.59.17:050][923]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (519)
+[2019.12.03-01.59.17:093][923]LogModuleManager: Shutting down and abandoning module AutomationController (516)
+[2019.12.03-01.59.17:093][923]LogModuleManager: Shutting down and abandoning module AutomationWindow (514)
+[2019.12.03-01.59.17:093][923]LogModuleManager: Shutting down and abandoning module Layers (512)
+[2019.12.03-01.59.17:093][923]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (510)
+[2019.12.03-01.59.17:093][923]LogModuleManager: Shutting down and abandoning module DetailCustomizations (508)
+[2019.12.03-01.59.17:093][923]LogModuleManager: Shutting down and abandoning module PackagesDialog (506)
+[2019.12.03-01.59.17:093][923]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (504)
+[2019.12.03-01.59.17:093][923]LogModuleManager: Shutting down and abandoning module Persona (502)
+[2019.12.03-01.59.17:093][923]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (501)
+[2019.12.03-01.59.17:093][923]LogModuleManager: Shutting down and abandoning module AnimGraph (499)
+[2019.12.03-01.59.17:093][923]LogModuleManager: Shutting down and abandoning module Kismet (496)
+[2019.12.03-01.59.17:104][923]LogModuleManager: Shutting down and abandoning module KismetWidgets (495)
+[2019.12.03-01.59.17:104][923]LogModuleManager: Shutting down and abandoning module GraphEditor (492)
+[2019.12.03-01.59.17:105][923]LogModuleManager: Shutting down and abandoning module StructViewer (490)
+[2019.12.03-01.59.17:105][923]LogModuleManager: Shutting down and abandoning module ClassViewer (488)
+[2019.12.03-01.59.17:106][923]LogModuleManager: Shutting down and abandoning module Toolbox (486)
+[2019.12.03-01.59.17:106][923]LogModuleManager: Shutting down and abandoning module ModuleUI (484)
+[2019.12.03-01.59.17:106][923]LogModuleManager: Shutting down and abandoning module MovieSceneTools (482)
+[2019.12.03-01.59.17:106][923]LogModuleManager: Shutting down and abandoning module OutputLog (480)
+[2019.12.03-01.59.17:106][923]LogModuleManager: Shutting down and abandoning module GammaUI (478)
+[2019.12.03-01.59.17:106][923]LogModuleManager: Shutting down and abandoning module Documentation (476)
+[2019.12.03-01.59.17:107][923]LogModuleManager: Shutting down and abandoning module LiveCoding (474)
+[2019.12.03-01.59.17:107][923]LogModuleManager: Shutting down and abandoning module LevelSequence (472)
+[2019.12.03-01.59.17:107][923]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (470)
+[2019.12.03-01.59.17:107][923]LogModuleManager: Shutting down and abandoning module MovieScene (468)
+[2019.12.03-01.59.17:107][923]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (466)
+[2019.12.03-01.59.17:107][923]LogModuleManager: Shutting down and abandoning module LauncherPlatform (464)
+[2019.12.03-01.59.17:107][923]LogModuleManager: Shutting down and abandoning module AnalyticsET (462)
+[2019.12.03-01.59.17:107][923]LogModuleManager: Shutting down and abandoning module PortalServices (460)
+[2019.12.03-01.59.17:107][923]LogModuleManager: Shutting down and abandoning module PortalRpc (458)
+[2019.12.03-01.59.17:107][923]LogModuleManager: Shutting down and abandoning module MessagingRpc (456)
+[2019.12.03-01.59.17:107][923]LogModuleManager: Shutting down and abandoning module AIModule (454)
+[2019.12.03-01.59.17:107][923]LogModuleManager: Shutting down and abandoning module GameplayDebugger (453)
+[2019.12.03-01.59.17:107][923]LogModuleManager: Shutting down and abandoning module AITestSuite (451)
+[2019.12.03-01.59.17:107][923]LogModuleManager: Shutting down and abandoning module NavigationSystem (449)
+[2019.12.03-01.59.17:107][923]LogModuleManager: Shutting down and abandoning module DesktopPlatform (446)
+[2019.12.03-01.59.17:107][923]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (444)
+[2019.12.03-01.59.17:110][923]LogModuleManager: Shutting down and abandoning module ProfilerService (442)
+[2019.12.03-01.59.17:245][923]LogModuleManager: Shutting down and abandoning module TaskGraph (440)
+[2019.12.03-01.59.17:245][923]LogModuleManager: Shutting down and abandoning module ScreenshotTools (438)
+[2019.12.03-01.59.17:245][923]LogModuleManager: Shutting down and abandoning module SteamVRController (436)
+[2019.12.03-01.59.17:245][923]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (434)
+[2019.12.03-01.59.17:245][923]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (432)
+[2019.12.03-01.59.17:245][923]LogModuleManager: Shutting down and abandoning module OculusEditor (430)
+[2019.12.03-01.59.17:245][923]LogModuleManager: Shutting down and abandoning module OculusInput (428)
+[2019.12.03-01.59.17:245][923]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (426)
+[2019.12.03-01.59.17:245][923]LogModuleManager: Shutting down and abandoning module EditableMesh (424)
+[2019.12.03-01.59.17:245][923]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (422)
+[2019.12.03-01.59.17:245][923]LogModuleManager: Shutting down and abandoning module CableComponent (420)
+[2019.12.03-01.59.17:245][923]LogModuleManager: Shutting down and abandoning module AudioCapture (418)
+[2019.12.03-01.59.17:245][923]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (416)
+[2019.12.03-01.59.17:245][923]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (414)
+[2019.12.03-01.59.17:245][923]LogModuleManager: Shutting down and abandoning module AppleImageUtils (412)
+[2019.12.03-01.59.17:245][923]LogModuleManager: Shutting down and abandoning module AndroidPermission (410)
+[2019.12.03-01.59.17:245][923]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (408)
+[2019.12.03-01.59.17:245][923]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (406)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module MediaCompositing (404)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module ImgMedia (402)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (400)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (398)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (396)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module HTML5Networking (394)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (392)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (390)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module BackChannel (388)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (386)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module AutomationUtils (384)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module AlembicImporter (382)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module AlembicLibrary (381)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module GeometryCache (380)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (379)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module VariantManagerContent (374)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (372)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (370)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module PluginBrowser (368)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (366)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (364)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module CurveEditorTools (362)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module CurveEditor (361)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (358)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module CryptoKeys (356)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (354)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (352)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module UObjectPlugin (350)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (348)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (346)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module GitSourceControl (344)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module SourceControl (343)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module MultiUserClientLibrary (340)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module MultiUserClient (338)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module ConcertSyncUI (336)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module ConcertSyncClient (334)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (332)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (330)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (328)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (326)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (324)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (322)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (320)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module Paper2DEditor (318)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module SignificanceManager (316)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (314)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (312)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (308)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module SQLiteCore (306)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module ActorSequence (304)
+[2019.12.03-01.59.17:246][923]LogModuleManager: Shutting down and abandoning module UdpMessaging (302)
+[2019.12.03-01.59.17:347][923]LogModuleManager: Shutting down and abandoning module TcpMessaging (300)
+[2019.12.03-01.59.17:447][923]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (298)
+[2019.12.03-01.59.17:447][923]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (296)
+[2019.12.03-01.59.17:447][923]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (294)
+[2019.12.03-01.59.17:447][923]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (292)
+[2019.12.03-01.59.17:447][923]LogModuleManager: Shutting down and abandoning module MagicLeapController (290)
+[2019.12.03-01.59.17:447][923]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.03-01.59.17:447][923]LogModuleManager: Shutting down and abandoning module MagicLeapAR (288)
+[2019.12.03-01.59.17:447][923]LogModuleManager: Shutting down and abandoning module AugmentedReality (287)
+[2019.12.03-01.59.17:447][923]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (284)
+[2019.12.03-01.59.17:447][923]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (282)
+[2019.12.03-01.59.17:447][923]LogModuleManager: Shutting down and abandoning module FacialAnimation (280)
+[2019.12.03-01.59.17:447][923]LogModuleManager: Shutting down and abandoning module DataValidation (278)
+[2019.12.03-01.59.17:447][923]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (276)
+[2019.12.03-01.59.17:447][923]LogModuleManager: Shutting down and abandoning module LevelEditor (275)
+[2019.12.03-01.59.17:448][923]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (274)
+[2019.12.03-01.59.17:448][923]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (272)
+[2019.12.03-01.59.17:448][923]LogModuleManager: Shutting down and abandoning module MainFrame (270)
+[2019.12.03-01.59.17:448][923]LogModuleManager: Shutting down and abandoning module HotReload (269)
+[2019.12.03-01.59.17:448][923]LogModuleManager: Shutting down and abandoning module ContentBrowser (265)
+[2019.12.03-01.59.17:449][923]LogModuleManager: Shutting down and abandoning module TreeMap (263)
+[2019.12.03-01.59.17:449][923]LogModuleManager: Shutting down and abandoning module ConcertSyncCore (260)
+[2019.12.03-01.59.17:449][923]LogModuleManager: Shutting down and abandoning module Concert (258)
+[2019.12.03-01.59.17:449][923]LogModuleManager: Shutting down and abandoning module ConcertTransport (257)
+[2019.12.03-01.59.17:449][923]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.12.03-01.59.17:449][923]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.12.03-01.59.17:449][923]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.12.03-01.59.17:449][923]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.12.03-01.59.17:451][923]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.12.03-01.59.17:452][923]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.12.03-01.59.17:452][923]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.12.03-01.59.17:452][923]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.12.03-01.59.17:452][923]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.12.03-01.59.17:452][923]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.12.03-01.59.17:452][923]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.12.03-01.59.17:452][923]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.12.03-01.59.17:452][923]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.12.03-01.59.17:452][923]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.12.03-01.59.17:452][923]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.12.03-01.59.17:452][923]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.12.03-01.59.17:452][923]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.12.03-01.59.17:452][923]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.12.03-01.59.17:452][923]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.12.03-01.59.17:452][923]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.12.03-01.59.17:452][923]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.12.03-01.59.17:452][923]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.12.03-01.59.17:452][923]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.12.03-01.59.17:452][923]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.12.03-01.59.17:452][923]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.12.03-01.59.17:452][923]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.12.03-01.59.17:452][923]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.12.03-01.59.17:453][923]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.12.03-01.59.17:453][923]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.12.03-01.59.17:453][923]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.12.03-01.59.17:453][923]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.12.03-01.59.17:453][923]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.12.03-01.59.17:453][923]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.12.03-01.59.17:453][923]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.12.03-01.59.17:453][923]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.12.03-01.59.17:453][923]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.12.03-01.59.17:453][923]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.12.03-01.59.17:453][923]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.12.03-01.59.17:453][923]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.12.03-01.59.17:453][923]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.12.03-01.59.17:453][923]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.12.03-01.59.17:453][923]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.12.03-01.59.17:453][923]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.12.03-01.59.17:453][923]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.12.03-01.59.17:517][923]LogDerivedDataCache: Shutdown
+[2019.12.03-01.59.17:517][923]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.12.03-01.59.17:517][923]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.12.03-01.59.17:517][923]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.12.03-01.59.17:517][923]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.12.03-01.59.17:517][923]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.12.03-01.59.17:517][923]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.12.03-01.59.17:517][923]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.12.03-01.59.17:517][923]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.12.03-01.59.17:517][923]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.12.03-01.59.17:517][923]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.12.03-01.59.17:517][923]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.12.03-01.59.17:518][923]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.12.03-01.59.17:518][923]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.12.03-01.59.17:518][923]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.12.03-01.59.17:518][923]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.12.03-01.59.17:518][923]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.12.03-01.59.17:518][923]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.12.03-01.59.17:518][923]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.12.03-01.59.17:518][923]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.12.03-01.59.17:518][923]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.12.03-01.59.17:518][923]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.12.03-01.59.17:518][923]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.12.03-01.59.17:518][923]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.12.03-01.59.17:519][923]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.12.03-01.59.17:519][923]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.12.03-01.59.17:520][923]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.12.03-01.59.17:520][923]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.12.03-01.59.17:526][923]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.12.03-01.59.17:526][923]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.12.03-01.59.17:526][923]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.12.03-01.59.17:526][923]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.12.03-01.59.17:526][923]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.12.03-01.59.17:526][923]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.12.03-01.59.17:526][923]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.12.03-01.59.17:526][923]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.12.03-01.59.17:526][923]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.12.03-01.59.17:526][923]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.12.03-01.59.17:526][923]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.12.03-01.59.17:526][923]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.12.03-01.59.17:527][923]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.12.03-01.59.17:527][923]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.12.03-01.59.17:527][923]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.12.03-01.59.17:527][923]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.12.03-01.59.17:527][923]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.03-01.59.17:527][923]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.12.03-01.59.17:527][923]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.12.03-01.59.17:527][923]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.12.03-01.59.17:527][923]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.12.03-01.59.17:527][923]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.12.03-01.59.17:527][923]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.12.03-01.59.17:527][923]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.12.03-01.59.17:545][923]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.12.03-01.59.17:545][923]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2019.12.03-01.59.17:545][923]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2FEA2CFF-421A-27BB-6702-7BAE62CF4DB5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=9d0a07214d45ff36ee3d8b90a8c43b23%7Caf74c4a7cf504132bb03660c940b4589%7Ce9c97159-1b7a-4ef9-985d-fecf0a580b15&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.03-01.59.17:545][923]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2FEA2CFF-421A-27BB-6702-7BAE62CF4DB5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=9d0a07214d45ff36ee3d8b90a8c43b23%7Caf74c4a7cf504132bb03660c940b4589%7Ce9c97159-1b7a-4ef9-985d-fecf0a580b15&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.03-01.59.17:576][923]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.12.03-01.59.17:576][923]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.12.03-01.59.17:578][923]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.12.03-01.59.17:578][923]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.12.03-01.59.17:578][923]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.12.03-01.59.17:578][923]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.12.03-01.59.17:578][923]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.12.03-01.59.17:579][923]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.12.03-01.59.17:579][923]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.03-01.59.17:579][923]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.03-01.59.17:579][923]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.03-01.59.17:580][923]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.03-01.59.17:580][923]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.03-01.59.17:580][923]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.03-01.59.17:580][923]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.03-01.59.17:581][923]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.03-01.59.17:581][923]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.03-01.59.17:581][923]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.03-01.59.17:581][923]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.03-01.59.17:581][923]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.03-01.59.17:581][923]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.03-01.59.17:581][923]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.03-01.59.17:581][923]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.03-01.59.17:581][923]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.03-01.59.17:581][923]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.03-01.59.17:581][923]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.03-01.59.17:581][923]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.03-01.59.17:581][923]LogD3D11RHI: Shutdown
+[2019.12.03-01.59.17:581][923]LogD3D11RHI: CleanupD3DDevice
+[2019.12.03-01.59.17:587][923]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.03-01.59.17:587][923]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.03-01.59.17:587][923]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.03-01.59.17:707][923]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.03-01.59.17:714][923]LogExit: Exiting.
+[2019.12.03-01.59.17:724][923]Log file closed, 12/02/19 20:59:17

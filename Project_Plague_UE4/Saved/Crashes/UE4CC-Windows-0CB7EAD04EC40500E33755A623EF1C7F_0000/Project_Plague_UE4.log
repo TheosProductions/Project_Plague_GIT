@@ -1,0 +1,1193 @@
+﻿Log file open, 11/23/19 13:00:58
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Project_Plague_UE4
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.094168
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin ConcertSyncClient
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogPluginManager: Found config from plugin[ConcertSyncCore] C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Engine.ini
+LogPluginManager: Mounting plugin MultiUserClient
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Engine.ini]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Engine.ini]
+[2019.11.23-18.00.58:883][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Engine.ini]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Engine.ini]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.23-18.00.58:883][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Engine.ini]
+[2019.11.23-18.00.58:883][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Engine.ini]
+[2019.11.23-18.00.58:886][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.23-18.00.58:886][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.23-18.00.58:887][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.23-18.00.58:887][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.23-18.00.58:887][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.23-18.00.58:891][  0]LogHAL: Display: Platform has ~ 16 GB [17014509568 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.23-18.00.58:891][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.23-18.00.58:891][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.11.23-18.00.58:891][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.23-18.00.58:891][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.23-18.00.58:891][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.11.23-18.00.58:891][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.23-18.00.58:891][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.11.23-18.00.58:891][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.23-18.00.58:891][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.23-18.00.58:891][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.23-18.00.58:891][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.23-18.00.58:891][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.23-18.00.58:891][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.23-18.00.58:891][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.23-18.00.58:891][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.23-18.00.58:891][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.23-18.00.58:891][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.23-18.00.58:891][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.23-18.00.58:891][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.23-18.00.58:891][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.23-18.00.58:891][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.23-18.00.58:891][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.23-18.00.58:891][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.23-18.00.58:891][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.23-18.00.58:891][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.23-18.00.58:891][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.11.23-18.00.58:891][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.23-18.00.58:892][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.23-18.00.58:893][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.23-18.00.58:893][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.23-18.00.58:893][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Config/Windows/Engine.ini]
+[2019.11.23-18.00.58:893][  0]LogInit: Computer: DESKTOP-CDQJGLH
+[2019.11.23-18.00.58:893][  0]LogInit: User: jason
+[2019.11.23-18.00.58:893][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.23-18.00.58:893][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.23-18.00.58:893][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.11.23-18.00.58:893][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.23-18.00.58:893][  0]LogMemory: Process Physical Memory: 101.48 MB used, 101.49 MB peak
+[2019.11.23-18.00.58:893][  0]LogMemory: Process Virtual Memory: 100.38 MB used, 100.38 MB peak
+[2019.11.23-18.00.58:893][  0]LogMemory: Physical Memory: 6014.41 MB used,  10211.89 MB free, 16226.30 MB total
+[2019.11.23-18.00.58:893][  0]LogMemory: Virtual Memory: 4668.43 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.11.23-18.00.58:896][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.11.23-18.00.58:928][  0]LogInit: Using OS detected language (en-US).
+[2019.11.23-18.00.58:928][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.23-18.00.58:929][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.23-18.00.59:076][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.23-18.00.59:099][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.23-18.00.59:099][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.23-18.00.59:252][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.23-18.00.59:252][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.23-18.00.59:325][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.11.23-18.00.59:325][  0]LogD3D11RHI:       4019/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.23-18.00.59:339][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.11.23-18.00.59:339][  0]LogD3D11RHI:       128/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.11.23-18.00.59:341][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.23-18.00.59:341][  0]LogD3D11RHI:       0/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.23-18.00.59:341][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.23-18.00.59:374][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.23-18.00.59:374][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.11.23-18.00.59:374][  0]LogWindows: EnumDisplayDevices:
+[2019.11.23-18.00.59:374][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.11.23-18.00.59:374][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.11.23-18.00.59:375][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.11.23-18.00.59:375][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.11.23-18.00.59:375][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.11.23-18.00.59:375][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.11.23-18.00.59:375][  0]LogD3D11RHI:   Driver Version: 441.20 (internal:26.21.14.4120, unified:441.20)
+[2019.11.23-18.00.59:375][  0]LogD3D11RHI:      Driver Date: 11-6-2019
+[2019.11.23-18.00.59:375][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
+[2019.11.23-18.00.59:414][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.23-18.00.59:524][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.23-18.00.59:870][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.23-18.00.59:879][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.23-18.00.59:888][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.23-18.00.59:896][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.23-18.00.59:905][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.23-18.00.59:913][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.23-18.00.59:922][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.23-18.00.59:934][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.23-18.00.59:938][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.23-18.00.59:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.23-18.00.59:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.23-18.00.59:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.23-18.00.59:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.23-18.00.59:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.23-18.00.59:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.23-18.00.59:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.23-18.00.59:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.23-18.00.59:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.23-18.00.59:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.23-18.00.59:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.23-18.00.59:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.23-18.00.59:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.23-18.00.59:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.23-18.00.59:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.23-18.00.59:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.23-18.00.59:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.23-18.00.59:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.23-18.00.59:972][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.23-18.00.59:989][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.23-18.00.59:990][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.23-18.01.00:003][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.23-18.01.00:003][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.23-18.01.00:010][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.23-18.01.00:017][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.23-18.01.00:024][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.23-18.01.00:031][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.23-18.01.00:053][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.23-18.01.00:053][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.23-18.01.00:053][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.23-18.01.00:061][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.23-18.01.00:109][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Intermediate/Shaders/WorkingDirectory/6044/).
+[2019.11.23-18.01.00:110][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jason/AppData/Local/Temp/UnrealShaderWorkingDir/E2A2C7974A62282EE873A3AD4E3C7A58/'.
+[2019.11.23-18.01.00:112][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.23-18.01.00:112][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.23-18.01.00:112][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.23-18.01.00:653][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.23-18.01.00:705][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/jason/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.23-18.01.00:705][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jason/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.23-18.01.00:706][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.23-18.01.00:706][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.23-18.01.00:706][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.23-18.01.00:706][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.23-18.01.00:715][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.23-18.01.00:715][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.23-18.01.00:715][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.23-18.01.00:717][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jason/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.23-18.01.00:717][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.23-18.01.00:717][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.23-18.01.00:735][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.23-18.01.00:738][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.23-18.01.00:738][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.23-18.01.00:789][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2019.11.23-18.01.01:024][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.23-18.01.01:156][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.23-18.01.01:156][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.23-18.01.01:156][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.23-18.01.01:156][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.23-18.01.01:156][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.23-18.01.01:165][  0]LogNetVersion: Project_Plague_UE4 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1726986232)
+[2019.11.23-18.01.01:544][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 1 prioritized culture(s) in 0.054897 seconds
+[2019.11.23-18.01.01:551][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.11.23-18.01.01:551][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.11.23-18.01.01:551][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.23-18.01.03:994][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.23-18.01.03:997][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.23-18.01.05:458][  0]SourceControl: Source control is disabled
+[2019.11.23-18.01.05:459][  0]SourceControl: Source control is disabled
+[2019.11.23-18.01.05:460][  0]SourceControl: Source control is disabled
+[2019.11.23-18.01.05:461][  0]SourceControl: Source control is disabled
+[2019.11.23-18.01.05:544][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.23-18.01.05:627][  0]LogOcInput: OculusInput pre-init called
+[2019.11.23-18.01.05:633][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.11.23-18.01.05:633][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.11.23-18.01.05:706][  0]LogEngine: Initializing Engine...
+[2019.11.23-18.01.05:707][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.23-18.01.05:708][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.23-18.01.05:890][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.23-18.01.05:904][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.23-18.01.05:917][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.23-18.01.05:959][  0]LogInit: FAudioDevice initialized.
+[2019.11.23-18.01.05:960][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.23-18.01.06:197][  0]LogDerivedDataCache: Saved boot cache 0.24s 73MB C:/Users/jason/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.23-18.01.06:202][  0]LogInit: Texture streaming: Enabled
+[2019.11.23-18.01.06:226][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.23-18.01.06:226][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.11.23-18.01.06:229][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.11.23-18.01.06:290][  0]LogInit: Transaction tracking system initialized
+[2019.11.23-18.01.06:323][  0]BlueprintLog: New page: Editor Load
+[2019.11.23-18.01.06:401][  0]LocalizationService: Localization service is disabled
+[2019.11.23-18.01.06:669][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.23-18.01.06:669][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.23-18.01.06:828][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/' took 0.02s
+[2019.11.23-18.01.06:828][  0]SourceControl: Source control is disabled
+[2019.11.23-18.01.06:828][  0]Cmd: MAP LOAD FILE="../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.23-18.01.06:854][  0]LightingResults: New page: Lighting Build
+[2019.11.23-18.01.06:857][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.11.23-18.01.06:857][  0]MapCheck: New page: Map Check
+[2019.11.23-18.01.06:857][  0]LightingResults: New page: Lighting Build
+[2019.11.23-18.01.06:878][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.11.23-18.01.22:234][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.23-18.01.22:361][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.23-18.01.22:390][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.11.23-18.01.22:390][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.23-18.01.22:390][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.135ms to complete.
+[2019.11.23-18.01.22:390][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 15.562
+[2019.11.23-18.01.22:520][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-18.01.22:528][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-18.01.22:536][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-18.01.22:543][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-18.01.22:557][  0]LogCollectionManager: Loaded 0 collections in 0.001829 seconds
+[2019.11.23-18.01.22:588][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Collections/' took 0.00s
+[2019.11.23-18.01.22:588][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/Developers/jason/Collections/' took 0.00s
+[2019.11.23-18.01.22:588][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/Collections/' took 0.00s
+[2019.11.23-18.01.22:588][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.11.23-18.01.22:599][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2873 classes and 697 folders.
+[2019.11.23-18.01.22:616][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2019.11.23-18.01.22:808][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2019.11.23-18.01.22:826][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2019.11.23-18.01.22:941][  0]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.23-18.01.22:948][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.23-18.01.22:964][  0]LogSlate: Took 0.003940 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.23-18.01.23:041][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2019.11.23-18.01.23:176][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0018 seconds. Added 0 classes and 0 folders.
+[2019.11.23-18.01.23:177][  0]LogLoad: (Engine Initialization) Total time: 25.95 seconds
+[2019.11.23-18.01.23:177][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.23-18.01.23:243][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.23-18.01.23:407][  2]LogAssetRegistry: Asset discovery search completed in 22.6179 seconds
+[2019.11.23-18.01.23:413][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2019.11.23-18.01.23:413][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2019.11.23-18.01.24:282][ 49]LogSlate: Took 0.001284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.23-18.01.27:171][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-18.01.27:456][224]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ZombieBP.ZombieBP
+[2019.11.23-18.01.27:679][224]LogClass: Warning: Enum '/Game/Zombie_01/Demo_Controller/Enumerations/EMoveStates.EMoveStates' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.11.23-18.01.27:708][224]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 121 classes and 0 folders.
+[2019.11.23-18.01.28:550][224]LogSlate: Took 0.001465 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.23-18.01.28:568][224]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.23-18.01.31:003][360]LogSlate: Window 'ZombieBP' being destroyed
+[2019.11.23-18.01.33:004][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-18.01.33:021][481]LogRenderer: Reallocating scene render targets to support 964x520 Format 10 NumSamples 1 (Frame:1).
+[2019.11.23-18.01.56:420][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-18.01.59:802][ 16]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.11.23-18.02.01:203][ 17]LogSlate: Took 0.015566 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.23-18.02.23:236][674]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={607FAAC5-4A00-DE88-668A-56AFDB254264}
+[2019.11.23-18.02.23:236][674]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={0181CAC2-4136-7964-D027-A594281CA859}
+[2019.11.23-18.03.48:534][337]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.03.48:807][337]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2019.11.23-18.03.49:572][363]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter650E697B4C79ED638EC37289F78BB854.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.03.50:624][423]LogSlate: Took 0.001240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.11.23-18.04.06:764][365]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.04.06:799][365]LogClass: Warning: Type mismatch in Items of FirstPersonCharacter_C - Previous (BoolProperty) Current(ArrayProperty) for package:  FObjectReader
+[2019.11.23-18.04.06:973][365]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2019.11.23-18.04.07:768][395]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacterDF09958442E01B7032AE339436396DB2.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.06.47:519][964]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/FPS_Weapon_Bundle/Weapons/Meshes/Machete/Mechete_001.Mechete_001
+[2019.11.23-18.06.48:210][965]LogRenderer: Reallocating scene render targets to support 964x708 Format 10 NumSamples 1 (Frame:1).
+[2019.11.23-18.06.57:838][520]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.06.58:138][520]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.11.23-18.06.58:868][537]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacterFE9DC99E48E89FACB7CCBC839CB64C8B.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.09.31:969][732]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.09.32:257][732]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.11.23-18.09.32:760][740]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter180CA3C049748B3F5E02CBAA968BB45A.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.09.36:243][936]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter6E9F196345748255687A969CD86A97A8.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.09.46:485][530]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.09.46:781][530]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2019.11.23-18.09.47:329][545]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter5CECE33C4BB153474D35669FE208E731.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.10.23:627][616]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={D997400D-435B-E4E8-3E0C-EF87E590CC57}
+[2019.11.23-18.10.30:076][  1]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.10.30:345][  1]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2019.11.23-18.10.30:974][ 21]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacterE81B6BA34C9BC13C596E0CB2ACCF2933.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.11.26:508][294]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.11.26:793][294]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2019.11.23-18.11.27:527][314]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacterB2A601BC4838D0A8CEAEACA763F9FD01.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.11.38:998][834]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.23-18.11.43:872][105]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.11.23-18.11.45:053][105]LogSlate: Window 'Save Content' being destroyed
+[2019.11.23-18.11.45:294][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.11.23-18.11.45:749][105]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonExampleMap16104A83485E0ECC5C7CB5A9EA51482F.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.11.23-18.11.45:780][105]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.627
+[2019.11.23-18.11.45:797][105]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Machete87D99BEC4B388F5A73DD24B44C7FEBAB.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FPS_Weapon_Bundle/Weapons/Meshes/Machete/Machete.uasset'
+[2019.11.23-18.11.46:444][142]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FPS_Weapon_Bundle/Weapons/Meshes/Machete/Machete.Machete
+[2019.11.23-18.12.00:050][918]BlueprintLog: New page: Compile Machete
+[2019.11.23-18.12.00:270][918]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2019.11.23-18.12.00:889][947]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/MacheteCA3088854FA5B76910A312997A09F899.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FPS_Weapon_Bundle/Weapons/Meshes/Machete/Machete.uasset'
+[2019.11.23-18.12.07:515][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-18.12.07:582][324]BlueprintLog: New page: Compile Machete
+[2019.11.23-18.12.07:830][324]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2019.11.23-18.12.08:310][347]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Machete33E8FA7D447A9862C4D93E8DB3D2C16A.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FPS_Weapon_Bundle/Weapons/Meshes/Machete/Machete.uasset'
+[2019.11.23-18.12.14:341][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-18.12.14:406][712]BlueprintLog: New page: Compile Machete
+[2019.11.23-18.12.14:629][712]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2019.11.23-18.12.15:161][730]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/MacheteDB28130F48DFAAC4070ACAAF72D03CF9.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FPS_Weapon_Bundle/Weapons/Meshes/Machete/Machete.uasset'
+[2019.11.23-18.12.27:915][474]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.12.28:216][474]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2019.11.23-18.12.28:772][488]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacterD4595D094D5F50D6DA22038D2D0950D9.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.13.20:383][570]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.13.20:719][570]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2019.11.23-18.13.30:064][115]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.13.30:370][115]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2019.11.23-18.13.30:968][137]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter87BFF9984E9CBD84C611DEA2A751C587.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.13.46:611][ 26]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.13.46:925][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2019.11.23-18.13.47:535][ 33]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter812B52CC43E7734150574695D2E2856F.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.13.48:549][ 93]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.23-18.13.48:597][ 93]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.23-18.13.48:597][ 93]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.23-18.13.48:599][ 93]PIE: New page: PIE session: FirstPersonExampleMap (Nov 23, 2019, 8:13:48 AM)
+[2019.11.23-18.13.48:601][ 93]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.11.23-18.13.48:604][ 93]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.23-18.13.48:719][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114947s)
+[2019.11.23-18.13.48:720][ 93]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.23-18.13.48:720][ 93]LogPlayLevel: PIE: World Init took: (0.001037s)
+[2019.11.23-18.13.48:720][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.116400s)
+[2019.11.23-18.13.48:763][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2019.11.23-18.13.48:774][ 93]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.23-18.13.48:789][ 93]LogInit: FAudioDevice initialized.
+[2019.11.23-18.13.48:795][ 93]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.23-18.13.48:799][ 93]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.11.23-13.13.48
+[2019.11.23-18.13.48:801][ 93]LogWorld: Bringing up level for play took: 0.003840
+[2019.11.23-18.13.48:801][ 93]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.11.23-18.13.48:820][ 93]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 20 classes and 0 folders.
+[2019.11.23-18.13.48:821][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-18.13.48:828][ 93]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.023
+[2019.11.23-18.13.48:828][ 93]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.23-18.13.50:447][175]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.23-18.13.50:447][175]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:EquipItem:019E
+[2019.11.23-18.13.50:448][175]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Equip Item Graph:  EquipItem Node:  AttachToComponent
+[2019.11.23-18.13.57:763][605]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.23-18.13.57:768][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-18.13.57:768][605]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.23-18.13.57:769][605]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.23-18.13.57:796][605]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.23-18.13.57:796][605]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.23-18.13.57:841][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-18.13.57:883][605]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2019.11.23-18.13.57:902][605]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.23-18.13.57:943][606]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.11.23-18.14.01:999][830]LogSlate: Window 'Message Log' being destroyed
+[2019.11.23-18.14.02:016][830]LogSlate: Window 'Message Log' being destroyed
+[2019.11.23-18.14.03:157][895]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.23-18.14.03:202][895]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.23-18.14.03:202][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.23-18.14.03:202][895]PIE: New page: PIE session: FirstPersonExampleMap (Nov 23, 2019, 8:14:03 AM)
+[2019.11.23-18.14.03:202][895]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.23-18.14.03:298][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.095216s)
+[2019.11.23-18.14.03:299][895]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.23-18.14.03:299][895]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2019.11.23-18.14.03:299][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.096261s)
+[2019.11.23-18.14.03:358][895]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2019.11.23-18.14.03:361][895]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.23-18.14.03:374][895]LogInit: FAudioDevice initialized.
+[2019.11.23-18.14.03:385][895]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.23-18.14.03:388][895]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.11.23-13.14.03
+[2019.11.23-18.14.03:388][895]LogWorld: Bringing up level for play took: 0.002389
+[2019.11.23-18.14.03:388][895]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.11.23-18.14.03:390][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-18.14.03:390][895]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.414
+[2019.11.23-18.14.03:390][895]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.23-18.14.05:036][983]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.23-18.14.05:036][983]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:EquipItem:019E
+[2019.11.23-18.14.05:036][983]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Equip Item Graph:  EquipItem Node:  AttachToComponent
+[2019.11.23-18.14.07:253][116]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.23-18.14.07:253][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-18.14.07:253][116]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.23-18.14.07:254][116]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.23-18.14.07:268][116]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.23-18.14.07:268][116]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.23-18.14.07:310][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-18.14.07:318][116]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.11.23-18.14.07:334][116]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.23-18.14.07:363][117]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.11.23-18.14.14:171][524]LogSlate: Window 'Message Log' being destroyed
+[2019.11.23-18.14.14:178][524]LogSlate: Window 'Message Log' being destroyed
+[2019.11.23-18.14.20:828][893]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.14.21:173][893]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2019.11.23-18.14.21:773][913]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacterF0B21EF742EAED2BA4BE648E986FFE86.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.14.24:452][ 62]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.14.24:764][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2019.11.23-18.14.25:318][ 81]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter9FD7C00C41E33A2246D13EAA830783F3.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.15.07:757][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-18.15.15:679][ 60]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.11.23-18.15.17:341][151]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.11.23-18.16.44:686][202]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.16.44:756][202]LogBlueprint: Error: [Compiler FirstPersonCharacter] Default value '' for  Items  is invalid: 'Array inputs (like 'Items') must have an input wired into them (try connecting a MakeArray node).'
+[2019.11.23-18.16.45:101][202]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2019.11.23-18.16.45:494][212]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter6DA6D2CB4A4F23856F9CE6886987CBD5.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.16.50:861][515]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.16.51:257][515]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2019.11.23-18.16.51:666][524]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacterED08A3ED403328186517988ED23CDA41.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.16.56:647][812]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.16.57:015][812]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.11.23-18.17.01:661][ 62]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.17.02:023][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2019.11.23-18.17.02:535][ 77]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter65B237D14FB3476B8B816BBF4BCD41B2.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.17.12:393][657]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.17.12:727][657]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2019.11.23-18.17.13:319][677]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter65478F344E37B9BF55170F9E72E96562.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.17.46:246][596]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.17.46:607][596]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.11.23-18.17.47:112][612]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter162D11544FC9D4A1CE65B1A3F1B2449E.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.18.04:383][640]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.23-18.18.04:416][640]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.23-18.18.04:416][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.23-18.18.04:416][640]PIE: New page: PIE session: FirstPersonExampleMap (Nov 23, 2019, 8:18:04 AM)
+[2019.11.23-18.18.04:416][640]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.23-18.18.04:591][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.174298s)
+[2019.11.23-18.18.04:592][640]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.23-18.18.04:592][640]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2019.11.23-18.18.04:592][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.175396s)
+[2019.11.23-18.18.04:632][640]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2019.11.23-18.18.04:635][640]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.23-18.18.04:649][640]LogInit: FAudioDevice initialized.
+[2019.11.23-18.18.04:657][640]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.23-18.18.04:660][640]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.11.23-13.18.04
+[2019.11.23-18.18.04:660][640]LogWorld: Bringing up level for play took: 0.002424
+[2019.11.23-18.18.04:660][640]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.11.23-18.18.04:662][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-18.18.04:663][640]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.859
+[2019.11.23-18.18.04:663][640]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.23-18.18.06:319][731]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.23-18.18.06:319][731]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:EquipItem:019E
+[2019.11.23-18.18.06:319][731]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Equip Item Graph:  EquipItem Node:  AttachToComponent
+[2019.11.23-18.18.09:121][899]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.23-18.18.09:121][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-18.18.09:121][899]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.23-18.18.09:122][899]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.23-18.18.09:168][899]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.23-18.18.09:169][899]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.23-18.18.09:230][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-18.18.09:238][899]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.11.23-18.18.09:255][899]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.23-18.18.09:288][900]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.11.23-18.18.12:684][ 99]LogSlate: Window 'Message Log' being destroyed
+[2019.11.23-18.18.12:699][ 99]LogSlate: Window 'Message Log' being destroyed
+[2019.11.23-18.20.35:213][881]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.20.35:495][881]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2019.11.23-18.20.36:135][905]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacterC03960AB4F57A5E0A9323D9DD99DBAC8.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.23.09:061][ 12]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.23.09:396][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2019.11.23-18.23.09:950][ 31]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter658F2DBF47383EF507E5648BA5521569.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.23.34:827][514]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2019.11.23-18.23.35:171][514]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonExampleMap_Auto16FD094464E4B50A44C4FACAD803CAE38.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2019.11.23-18.23.35:175][514]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.382
+[2019.11.23-18.23.35:175][514]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.382
+[2019.11.23-18.23.45:703][141]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2019.11.23-18.23.46:570][141]LogSlate: Window 'Save Content' being destroyed
+[2019.11.23-18.23.46:631][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.11.23-18.23.46:974][141]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonExampleMap8247A7C44B4A47F2AE86CAB961B0E60E.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.11.23-18.23.47:003][141]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.405
+[2019.11.23-18.24.04:414][166]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.23-18.28.17:618][277]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2019.11.23-18.28.17:955][277]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonExampleMap9D9A15F949989754B35C788066600E23.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.11.23-18.28.21:152][277]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonExampleMap_BuiltData06DC76684339469697C33BA364E70C5B.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.11.23-18.28.22:194][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.11.23-18.28.31:520][528]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.23-18.28.37:434][878]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryComponent569EAE044979705CCAE327ACF4CED024.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/InventoryComponent.uasset'
+[2019.11.23-18.28.38:428][936]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InventorySystem/InventoryComponent.InventoryComponent
+[2019.11.23-18.29.06:284][736]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/ItemStructureB61E12694068DC9731BFD89C370BDAF1.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/ItemStructure.uasset'
+[2019.11.23-18.29.07:548][810]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/InventorySystem/ItemStructure.ItemStructure
+[2019.11.23-18.29.20:941][301]LogSlate: Window 'Delete Variable' being destroyed
+[2019.11.23-18.29.22:993][371]LogSlate: Window 'Delete Variable' being destroyed
+[2019.11.23-18.29.25:104][437]LogSlate: Window 'Delete Variable' being destroyed
+[2019.11.23-18.29.28:946][658]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.23-18.29.31:812][828]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.29.31:853][828]LogBlueprint: Error: [Compiler FirstPersonCharacter] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2019.11.23-18.29.31:853][828]LogBlueprint: Error: [Compiler FirstPersonCharacter] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2019.11.23-18.29.32:124][828]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2019.11.23-18.29.32:542][843]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter760084D54D3BB6726834DF95A0D8ED6A.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.29.40:492][310]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.29.40:813][310]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2019.11.23-18.29.41:426][333]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacterE0E4ED73480127161B85399DBD17F072.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.29.44:239][497]LogUObjectHash: Compacting FUObjectHashTables data took   6.28ms
+[2019.11.23-18.29.45:146][497]LogSlate: Window 'Save Content' being destroyed
+[2019.11.23-18.29.45:373][497]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.11.23-18.29.45:726][497]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonExampleMap4898F294455BEA0A7689C7B4926DBEDB.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.11.23-18.29.45:756][497]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.509
+[2019.11.23-18.30.55:418][888]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/ItemStructureA3501E9A40F6F52B58FC38B0B1915666.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/ItemStructure.uasset'
+[2019.11.23-18.31.29:190][864]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/ItemStructureB85A928C4AAF1750DA42E0948CAAB96F.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/ItemStructure.uasset'
+[2019.11.23-18.32.03:141][493]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/ItemStructure7567CEF5443ECBF9B9CD4BBC8DC9689E.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/ItemStructure.uasset'
+[2019.11.23-18.32.22:386][150]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/ItemStructureB821CE55440128E456E07BB3A24A30AB.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/ItemStructure.uasset'
+[2019.11.23-18.32.27:894][470]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/ItemStructure5EF44AE74CD1E3FF686FFF8788A40589.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/ItemStructure.uasset'
+[2019.11.23-18.32.35:713][927]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/ItemStructureDDD876CB494CA0D462BAD692D3F2CBCE.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/ItemStructure.uasset'
+[2019.11.23-18.32.59:518][321]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/ItemStructureD3FDD83F4DC0EBC9F60886BC7824B4B9.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/ItemStructure.uasset'
+[2019.11.23-18.33.41:544][987]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.23-18.33.43:898][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Item" FILE="../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Item.uasset" SILENT=true
+[2019.11.23-18.33.43:910][120]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Item970534A149D0DC76F41A43BFA2665164.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Item.uasset'
+[2019.11.23-18.33.57:289][887]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/ItemStructureC0641A9B4C54BFF9F174E383F38AD56B.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/ItemStructure.uasset'
+[2019.11.23-18.34.12:809][808]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/ItemStructure5852431D46E9ADAEE5B606861F0F804A.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/ItemStructure.uasset'
+[2019.11.23-18.34.19:850][106]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/ItemStructure3F8EBDE241FDB0DE79130EBCA11CC948.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/ItemStructure.uasset'
+[2019.11.23-18.34.28:449][422]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2019.11.23-18.34.43:667][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.11.23-18.34.44:006][ 92]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonExampleMapAE5D69CE45307706631933B80F72E359.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.11.23-18.34.46:191][ 92]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonExampleMap_BuiltData92D2536C43ABB41219CA2DBF608DAD74.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.11.23-18.34.53:528][242]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InventorySystem/Item.Item
+[2019.11.23-18.35.10:340][117]BlueprintLog: New page: Compile Item
+[2019.11.23-18.35.10:742][117]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2019.11.23-18.35.11:237][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Item" FILE="../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Item.uasset" SILENT=true
+[2019.11.23-18.35.11:250][145]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Item054A708A4CB9D8F0429746B011B8D31A.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Item.uasset'
+[2019.11.23-18.35.33:278][ 56]LogMetaData: Removing '/Game/InventorySystem/Items/Item.Item:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventorySystem/Item.PackageMetaData'
+[2019.11.23-18.35.33:278][ 56]LogMetaData: Removing '/Game/InventorySystem/Items/Item.SKEL_Item_C' ref from Metadata '/Game/InventorySystem/Item.PackageMetaData'
+[2019.11.23-18.35.33:278][ 56]LogMetaData: Removing '/Game/InventorySystem/Items/Item.Item_C' ref from Metadata '/Game/InventorySystem/Item.PackageMetaData'
+[2019.11.23-18.35.33:278][ 56]LogMetaData: Removing '/Game/InventorySystem/Items/Item.Item:EventGraph.K2Node_Event_0' ref from Metadata '/Game/InventorySystem/Item.PackageMetaData'
+[2019.11.23-18.35.33:278][ 56]LogMetaData: Removing '/Game/InventorySystem/Items/Item.Item:EventGraph.K2Node_Event_1' ref from Metadata '/Game/InventorySystem/Item.PackageMetaData'
+[2019.11.23-18.35.33:278][ 56]LogMetaData: Removing '/Game/InventorySystem/Items/Item.Item:EventGraph.K2Node_Event_2' ref from Metadata '/Game/InventorySystem/Item.PackageMetaData'
+[2019.11.23-18.35.33:278][ 56]LogMetaData: Removing '/Game/InventorySystem/Items/Item.SKEL_Item_C:ReceiveBeginPlay' ref from Metadata '/Game/InventorySystem/Item.PackageMetaData'
+[2019.11.23-18.35.33:279][ 56]LogMetaData: Removing '/Game/InventorySystem/Items/Item.SKEL_Item_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/InventorySystem/Item.PackageMetaData'
+[2019.11.23-18.35.33:279][ 56]LogMetaData: Removing '/Game/InventorySystem/Items/Item.SKEL_Item_C:ReceiveTick' ref from Metadata '/Game/InventorySystem/Item.PackageMetaData'
+[2019.11.23-18.35.33:279][ 56]LogMetaData: Removing '/Game/InventorySystem/Items/Item.SKEL_Item_C:ItemStructure' ref from Metadata '/Game/InventorySystem/Item.PackageMetaData'
+[2019.11.23-18.35.33:279][ 56]LogMetaData: Removing '/Game/InventorySystem/Items/Item.SKEL_Item_C:DefaultSceneRoot' ref from Metadata '/Game/InventorySystem/Item.PackageMetaData'
+[2019.11.23-18.35.33:279][ 56]LogMetaData: Removing '/Game/InventorySystem/Items/Item.SKEL_Item_C:UserConstructionScript' ref from Metadata '/Game/InventorySystem/Item.PackageMetaData'
+[2019.11.23-18.35.33:279][ 56]LogMetaData: Removing '/Game/InventorySystem/Items/Item.Item_C:ItemStructure' ref from Metadata '/Game/InventorySystem/Item.PackageMetaData'
+[2019.11.23-18.35.33:279][ 56]LogMetaData: Removing '/Game/InventorySystem/Items/Item.Item_C:DefaultSceneRoot' ref from Metadata '/Game/InventorySystem/Item.PackageMetaData'
+[2019.11.23-18.35.33:304][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Items/Item" FILE="../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Items/Item.uasset" SILENT=true
+[2019.11.23-18.35.33:313][ 56]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Item8E8651424D5E7A97C292E5A31483D3FD.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Items/Item.uasset'
+[2019.11.23-18.35.33:616][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2019.11.23-18.35.33:656][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.11.23-18.35.33:688][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.11.23-18.35.33:716][ 56]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/ItemStructure520DD6864D1D4982D58C2FA3CE375AA5.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/ItemStructure.uasset'
+[2019.11.23-18.35.34:899][122]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.11.23-18.35.51:914][774]BlueprintLog: New page: Compile InventoryComponent
+[2019.11.23-18.35.51:976][774]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2019.11.23-18.35.52:641][812]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryComponent51644ADC41A042D9F721AF9AAFFE2D26.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/InventoryComponent.uasset'
+[2019.11.23-18.35.56:136][ 10]BlueprintLog: New page: Compile InventoryComponent
+[2019.11.23-18.35.56:139][ 10]LogClass: Warning: Type mismatch in InventoryName of InventoryComponent_C - Previous (BoolProperty) Current(TextProperty) for package:  FObjectReader
+[2019.11.23-18.35.56:226][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   7.44ms
+[2019.11.23-18.35.56:916][ 48]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryComponent15A9A6BF41A932DEBA460CA63E580E03.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/InventoryComponent.uasset'
+[2019.11.23-18.36.05:186][538]BlueprintLog: New page: Compile InventoryComponent
+[2019.11.23-18.36.05:275][538]LogUObjectHash: Compacting FUObjectHashTables data took   9.00ms
+[2019.11.23-18.36.05:875][566]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryComponent8DB7AFD443B68253150815911D8E6367.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/InventoryComponent.uasset'
+[2019.11.23-18.36.08:941][740]BlueprintLog: New page: Compile InventoryComponent
+[2019.11.23-18.36.08:943][740]LogClass: Warning: Type mismatch in NumOfSlots of InventoryComponent_C - Previous (TextProperty) Current(IntProperty) for package:  FObjectReader
+[2019.11.23-18.36.09:014][740]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2019.11.23-18.36.09:408][761]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryComponentD7634FF843785D8B78C5C29074CE9987.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/InventoryComponent.uasset'
+[2019.11.23-18.36.21:603][275]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryComponentEE3C89494FD6C458D0BAAE912589A4C0.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/InventoryComponent.uasset'
+[2019.11.23-18.36.22:387][322]BlueprintLog: New page: Compile InventoryComponent
+[2019.11.23-18.36.22:466][322]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2019.11.23-18.36.22:945][345]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryComponentFC0ED0834F3603495BA245933C2E7AE2.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/InventoryComponent.uasset'
+[2019.11.23-18.36.31:371][691]BlueprintLog: New page: Compile InventoryComponent
+[2019.11.23-18.36.31:502][691]LogUObjectHash: Compacting FUObjectHashTables data took  13.74ms
+[2019.11.23-18.36.31:978][714]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryComponentBBA61A2340E1B06201035A9F7D584E81.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/InventoryComponent.uasset'
+[2019.11.23-18.37.10:541][579]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/SlotStructureD2C0829347C0483C5437168C1C496956.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/SlotStructure.uasset'
+[2019.11.23-18.37.11:368][627]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/InventorySystem/SlotStructure.SlotStructure
+[2019.11.23-18.37.29:187][524]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/SlotStructure2DFB2F564F0FD1519A27D18B3FC132E7.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/SlotStructure.uasset'
+[2019.11.23-18.37.57:734][877]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/SlotStructureFAE5AFDD48B33B49679520B273FB9C6A.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/SlotStructure.uasset'
+[2019.11.23-18.38.32:392][694]BlueprintLog: New page: Compile InventoryComponent
+[2019.11.23-18.38.32:395][694]LogClass: Warning: Type mismatch in Inventory of InventoryComponent_C - Previous (IntProperty) Current(StructProperty) for package:  FObjectReader
+[2019.11.23-18.38.32:485][694]LogUObjectHash: Compacting FUObjectHashTables data took   8.01ms
+[2019.11.23-18.38.33:072][725]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryComponentBB44D14A42A86438418E6DAC5B649C32.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/InventoryComponent.uasset'
+[2019.11.23-18.38.44:073][ 28]BlueprintLog: New page: Compile InventoryComponent
+[2019.11.23-18.38.44:075][ 28]LogClass: Warning: Type mismatch in Inventory of InventoryComponent_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2019.11.23-18.38.44:137][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2019.11.23-18.38.44:878][ 70]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/InventoryComponent09544282417322142C8EABA620F5F1F3.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/InventoryComponent.uasset'
+[2019.11.23-18.39.25:899][716]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter2B5967ED413481466C81F88A4016E907.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.39.26:510][751]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.39.26:845][751]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2019.11.23-18.39.27:382][769]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter13E34B0445763C60FF6A6BBEA1324F0F.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.39.38:357][109]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter916F7ED247BB28DCA64032914ABF4456.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.39.39:408][171]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.39.39:714][171]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2019.11.23-18.39.40:192][186]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacterC81869F04BAD535B226B1FAFC254A27C.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.39.48:202][447]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacterE5E9677B44A7C65B11B842BCF00E144D.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.39.49:192][506]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.39.49:498][506]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2019.11.23-18.39.49:984][521]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter8BE9D2014D4380BA5868F290956DF199.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.40.00:992][  0]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacterD6FFDF8C443B0058396CEFAB4DC95C1E.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.40.06:695][333]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacterDCBDB45C4AF21258800853BF3570D8B6.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.40.16:269][902]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.23-18.40.22:318][264]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.40.22:639][264]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2019.11.23-18.40.23:120][279]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacterA81F410043ED82AF786804A689AEC1D1.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.40.53:880][684]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter0AE642B14BAA6D9A06BA6BAE1BA6AFFB.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.40.55:627][786]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.40.55:972][786]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2019.11.23-18.40.56:570][808]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter540E0BB142EDD13D56C2138D12F5144E.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.41.10:597][638]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter343D281742F2F1E2BA4D218EB3DD3C4C.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.41.15:443][920]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter5501441C432EF7261F7B7DAC55CB3BEC.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.41.17:510][ 36]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter8D5A2F9A4C1F062401EFE7B40F9E24D1.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.41.19:953][173]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter92302D404AA82FE700F3C19D6E5F2E90.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.41.25:665][506]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacterDEF04CC949C645A5C1A871AB2D02AC08.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.41.30:925][821]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.41.31:338][821]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2019.11.23-18.41.31:997][846]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter8BD8DB64401E89D5C8504CB063B9C6D7.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.42.09:540][661]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Interact_InterfaceF8FEC6FB430E59F70E35E699B74FCABA.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Interact_Interface.uasset'
+[2019.11.23-18.42.10:932][740]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2019.11.23-18.42.11:838][740]LogSlate: Window 'Save Content' being destroyed
+[2019.11.23-18.42.12:044][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.11.23-18.42.12:401][740]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonExampleMap66920C54482CB0F89318C2A7AE5A7DA9.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.11.23-18.42.12:434][740]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.493
+[2019.11.23-18.42.13:470][799]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InventorySystem/Interact_Interface.Interact_Interface
+[2019.11.23-18.42.15:948][940]BlueprintLog: New page: Compile Interact_Interface
+[2019.11.23-18.42.16:029][940]LogUObjectHash: Compacting FUObjectHashTables data took   7.84ms
+[2019.11.23-18.42.16:769][978]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Interact_InterfaceE7FF648C4DB2A3F0582DF78DC311F23A.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Interact_Interface.uasset'
+[2019.11.23-18.42.26:385][284]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Interact_Interface44A549C64A0A4017B6ED03841F64AF25.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Interact_Interface.uasset'
+[2019.11.23-18.42.27:374][343]BlueprintLog: New page: Compile Interact_Interface
+[2019.11.23-18.42.27:415][343]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.11.23-18.42.28:049][377]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Interact_Interface53B6CBDD43BD30AB93610B9A4457C215.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Interact_Interface.uasset'
+[2019.11.23-18.42.29:468][459]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.11.23-18.42.45:366][723]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.11.23-18.43.07:615][551]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.23-18.43.21:735][372]BlueprintLog: New page: Compile Item
+[2019.11.23-18.43.21:954][372]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2019.11.23-18.43.22:419][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Items/Item" FILE="../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Items/Item.uasset" SILENT=true
+[2019.11.23-18.43.22:434][399]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Item15AEC39649E6F5267631D6AAF138B7FB.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Items/Item.uasset'
+[2019.11.23-18.44.01:342][770]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.11.23-18.44.53:819][519]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.23-18.44.53:823][519]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.23-18.45.03:752][112]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.45.04:124][112]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2019.11.23-18.45.04:631][129]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter35864BF249EC9FE61A37479FBEBD0088.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.45.34:632][902]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.45.34:996][902]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2019.11.23-18.45.35:257][903]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacterBD651EF046C02DFE075959926465B9D0.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.45.47:289][601]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.45.47:637][601]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2019.11.23-18.45.48:164][619]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter0506581B48C09B6B123BBBAD5E3EF3C5.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.46.17:235][351]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.46.17:610][351]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2019.11.23-18.46.17:997][359]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter042759E34D88524A7ED8DFB78BC12E7D.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.46.46:601][ 53]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.46.46:966][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2019.11.23-18.46.47:459][ 69]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter4B6D1137422929F320FBA7A3F8F3B4AB.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.47.32:396][747]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacterBC81A8AC488220ADB9593F8666DC9928.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.47.52:135][916]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.47.52:544][916]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2019.11.23-18.47.53:054][933]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacterF4D748904763CF94CE098A84BAFE15EF.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.48.12:599][ 87]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.48.12:976][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2019.11.23-18.48.14:265][150]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacterF1F0970A42ECFCD9F133579C6793D244.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.49.03:380][ 67]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.49.03:757][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2019.11.23-18.49.04:296][ 84]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter1A943311467C7EE98F45A196846B20C8.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.49.40:309][223]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.49.40:675][223]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2019.11.23-18.49.41:177][238]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacterE284A7184E15EA0272659EAC04A71091.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.50.27:976][  8]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacterF9B686F044D24C4475DA0387F325FD82.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.50.28:447][ 36]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.50.28:831][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2019.11.23-18.50.36:831][505]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.50.37:179][505]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2019.11.23-18.50.37:624][516]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter20DA06CF42DEC173DA281F8BB2D1B1C9.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.50.43:550][866]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.50.43:901][866]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2019.11.23-18.50.44:489][887]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacterCC06E0214CD253F80665489A65BE2FD0.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.50.45:616][944]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.23-18.50.45:659][944]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.23-18.50.45:659][944]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.23-18.50.45:659][944]PIE: New page: PIE session: FirstPersonExampleMap (Nov 23, 2019, 8:50:45 AM)
+[2019.11.23-18.50.45:660][944]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.23-18.50.45:812][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.151831s)
+[2019.11.23-18.50.45:814][944]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.23-18.50.45:815][944]LogPlayLevel: PIE: World Init took: (0.002550s)
+[2019.11.23-18.50.45:815][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.154704s)
+[2019.11.23-18.50.45:862][944]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2019.11.23-18.50.45:865][944]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.23-18.50.45:879][944]LogInit: FAudioDevice initialized.
+[2019.11.23-18.50.45:889][944]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.23-18.50.45:892][944]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.11.23-13.50.45
+[2019.11.23-18.50.45:892][944]LogWorld: Bringing up level for play took: 0.002336
+[2019.11.23-18.50.45:893][944]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2019.11.23-18.50.45:894][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-18.50.45:895][944]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.091
+[2019.11.23-18.50.45:895][944]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.23-18.50.55:876][524]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2019.11.23-18.50.56:152][536]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2019.11.23-18.50.56:470][553]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2019.11.23-18.50.56:582][559]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2019.11.23-18.51.02:145][891]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.23-18.51.02:145][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-18.51.02:145][891]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.23-18.51.02:146][891]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.23-18.51.02:185][891]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.23-18.51.02:185][891]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.23-18.51.02:233][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-18.51.02:242][891]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2019.11.23-18.51.02:262][892]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.11.23-18.51.03:039][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-18.52.08:583][833]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.52.08:899][833]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2019.11.23-18.52.09:598][861]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter0AB255DC46D910FE6F50DD8BE1B39E2F.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.52.51:913][362]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.52.52:284][362]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2019.11.23-18.52.52:823][379]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter6A59C4364A55833B01C40AA99C1ABE23.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.52.54:408][472]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.23-18.52.54:450][472]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.23-18.52.54:450][472]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.23-18.52.54:450][472]PIE: New page: PIE session: FirstPersonExampleMap (Nov 23, 2019, 8:52:54 AM)
+[2019.11.23-18.52.54:450][472]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.23-18.52.54:540][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090391s)
+[2019.11.23-18.52.54:540][472]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.23-18.52.54:541][472]LogPlayLevel: PIE: World Init took: (0.000839s)
+[2019.11.23-18.52.54:541][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.091408s)
+[2019.11.23-18.52.54:587][472]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2019.11.23-18.52.54:590][472]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.23-18.52.54:603][472]LogInit: FAudioDevice initialized.
+[2019.11.23-18.52.54:614][472]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.23-18.52.54:617][472]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.11.23-13.52.54
+[2019.11.23-18.52.54:617][472]LogWorld: Bringing up level for play took: 0.002445
+[2019.11.23-18.52.54:618][472]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2019.11.23-18.52.54:619][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-18.52.54:620][472]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.816
+[2019.11.23-18.52.54:620][472]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.23-18.52.58:318][685]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.23-18.52.58:319][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-18.52.58:319][685]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.23-18.52.58:319][685]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.23-18.52.58:360][685]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.23-18.52.58:360][685]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.23-18.52.58:406][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-18.52.58:413][685]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.11.23-18.52.58:437][686]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.11.23-18.52.59:081][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-18.52.59:212][723]LogRenderer: Reallocating scene render targets to support 1204x708 Format 10 NumSamples 1 (Frame:362).
+[2019.11.23-18.53.34:964][844]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.53.35:288][844]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2019.11.23-18.53.35:834][863]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter0803735A4C107ABE3FADFB9642865865.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.53.36:979][931]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.23-18.53.37:017][931]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.23-18.53.37:017][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.23-18.53.37:017][931]PIE: New page: PIE session: FirstPersonExampleMap (Nov 23, 2019, 8:53:37 AM)
+[2019.11.23-18.53.37:017][931]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.23-18.53.37:116][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.098099s)
+[2019.11.23-18.53.37:116][931]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.23-18.53.37:117][931]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2019.11.23-18.53.37:117][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.099117s)
+[2019.11.23-18.53.37:159][931]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2019.11.23-18.53.37:162][931]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.23-18.53.37:175][931]LogInit: FAudioDevice initialized.
+[2019.11.23-18.53.37:185][931]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.23-18.53.37:188][931]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.11.23-13.53.37
+[2019.11.23-18.53.37:188][931]LogWorld: Bringing up level for play took: 0.002345
+[2019.11.23-18.53.37:188][931]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2019.11.23-18.53.37:190][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-18.53.37:191][931]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.614
+[2019.11.23-18.53.37:191][931]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.23-18.54.02:271][420]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.23-18.54.02:272][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-18.54.02:272][420]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.23-18.54.02:272][420]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.23-18.54.02:313][420]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.23-18.54.02:313][420]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.23-18.54.02:360][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-18.54.02:369][420]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.11.23-18.54.02:388][421]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.11.23-18.54.24:709][665]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.23-18.54.25:835][732]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.23-18.54.26:587][732]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.11.23-18.54.27:693][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.11.23-18.54.28:084][768]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonExampleMap_Auto2095484EB4BE4D0C96607A9891C9ABABD.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2019.11.23-18.54.28:094][768]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.515
+[2019.11.23-18.54.28:094][768]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.515
+[2019.11.23-18.54.30:222][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-18.54.53:441][130]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.23-18.54.53:445][130]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.23-18.55.08:243][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-18.55.18:538][893]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.55.18:854][893]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2019.11.23-18.55.19:291][904]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacterE7AAAEBF432E163617C72D8A219DF3CD.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.55.31:188][436]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.55.31:493][436]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2019.11.23-18.55.32:152][461]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacterF72296AB44A2905BB7015FB6693C8FA6.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.55.37:250][591]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.23-18.55.40:849][804]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.55.41:138][804]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2019.11.23-18.55.41:634][820]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter6C49A77240BA6F5BF25F7883DC9F6739.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.56.33:578][855]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.56.33:905][855]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2019.11.23-18.56.34:415][872]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacterDC8407644CB11F84F4E5A0BCDA0D12B9.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.57.21:098][ 63]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.57.21:469][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2019.11.23-18.57.21:982][ 80]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter7213474B462051D9CAFDC382226886B2.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.57.31:342][180]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.23-18.57.36:250][460]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.57.36:590][460]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2019.11.23-18.57.37:089][476]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter8A000BA54D38B0D0415CB782E2E1E310.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.57.47:094][958]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.57.47:487][958]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2019.11.23-18.57.47:984][974]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter21E33FEB4C51038C19EE1E8374BC490B.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.58.18:052][447]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.58.18:086][447]LogBlueprint: Error: [Compiler FirstPersonCharacter] Message node  Interact  must have a valid target or reference to self.
+[2019.11.23-18.58.18:372][447]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2019.11.23-18.58.18:902][465]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacterD8CDBE2944AFCC62DF99CEA55BA4B7A6.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.58.26:952][829]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.58.27:272][829]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2019.11.23-18.58.27:900][852]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacterE3E9E90D42B5DF9BFD9498A470EB3D06.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-18.59.36:566][240]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.23-18.59.36:875][240]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2019.11.23-18.59.37:406][258]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/FirstPersonCharacter2E1E9146444C5C5BA5C699B4F913E343.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.23-19.00.37:018][554]BlueprintLog: New page: Compile Item
+[2019.11.23-19.00.37:312][554]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2019.11.23-19.00.45:424][  2]BlueprintLog: New page: Compile Item
+[2019.11.23-19.00.45:764][  2]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2019.11.23-19.00.46:094][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Items/Item" FILE="../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Items/Item.uasset" SILENT=true
+[2019.11.23-19.00.46:108][ 20]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Item499538674BD0FD8E2F9A91A442B1D002.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Items/Item.uasset'
+[2019.11.23-19.00.49:354][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Items/Item" FILE="../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Items/Item.uasset" SILENT=true
+[2019.11.23-19.00.49:368][202]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Item570AB91F47B782F303A467991AC987A1.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Items/Item.uasset'
+[2019.11.23-19.00.49:803][228]BlueprintLog: New page: Compile Item
+[2019.11.23-19.00.50:063][228]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2019.11.23-19.00.50:400][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Items/Item" FILE="../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Items/Item.uasset" SILENT=true
+[2019.11.23-19.00.50:413][247]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Item4B6025F2415D8FBFB2E25BBF2CBCCF9A.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Items/Item.uasset'
+[2019.11.23-19.01.13:366][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Items/Item" FILE="../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Items/Item.uasset" SILENT=true
+[2019.11.23-19.01.13:384][559]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/Item8A8D844D4BEC00EFA53C7F87DC6F5AF4.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Items/Item.uasset'
+[2019.11.23-19.01.14:283][612]BlueprintLog: New page: Compile Item
+[2019.11.23-19.01.14:618][612]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2019.11.23-19.01.14:900][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Items/Item" FILE="../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Items/Item.uasset" SILENT=true
+[2019.11.23-19.01.14:920][626]LogSavePackage: Moving '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Saved/ItemBAD3870B4E3682FA00863CB0F57EBF4B.tmp' to '../../../../../../Users/jason/Google Drive/TheosProductions/Project_Plague_UE4/Content/InventorySystem/Items/Item.uasset'
+[2019.11.23-19.01.28:366][ 76]LogEditorTransaction: Undo Set Scale
+[2019.11.23-19.01.28:374][ 76]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.11.23-19.01.29:240][ 76]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.865 s
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: === Handled ensure: ===
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: 
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: 
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: Stack: 
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff232c9688 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff2279dce0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff22753c9a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffeffc63f12 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffeffc64b85 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffeffc1ee31 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff2625282a UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff262a77a1 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff262750d9 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff2635c430 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff2616170e UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff2610a854 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff14557514 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff1432c9a9 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff14304e49 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff14645af3 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff1462b118 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff145ddc34 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff1463168a UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff14631e1e UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff142e6a13 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff143151f9 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff1433238d UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff2275412d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff227769e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff227624dc UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff227bccd3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff227fdb6f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff2279baaf UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff14305d78 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff2610b62a UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff2614191e UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff22f6fe1e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff22f5f481 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff260d3076 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff26143413 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff261387fe UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff28414a7c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff284026df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff28417340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff283fedd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff774363ed USER32.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff77435de2 USER32.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff284188e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007ff72d9e6980 UE4Editor.exe!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007ff72d9fa91c UE4Editor.exe!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007ff72d9fa9fa UE4Editor.exe!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007ff72da0b92c UE4Editor.exe!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007ff72da0e60e UE4Editor.exe!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff772c7bd4 KERNEL32.DLL!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: [Callstack] 0x00007fff7766ced1 ntdll.dll!UnknownFunction []
+[2019.11.23-19.01.29:240][ 76]LogOutputDevice: Error: 
+[2019.11.23-19.01.29:243][ 76]LogStats:                SubmitErrorReport -  0.000 s
