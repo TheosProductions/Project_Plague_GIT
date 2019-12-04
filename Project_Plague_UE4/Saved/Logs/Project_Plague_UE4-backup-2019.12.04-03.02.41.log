@@ -1,0 +1,1374 @@
+﻿Log file open, 12/03/19 20:49:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Project_Plague_UE4
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.086151
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin ConcertSyncClient
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogPluginManager: Found config from plugin[ConcertSyncCore] C:/Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Config/Windows/Engine.ini
+LogPluginManager: Mounting plugin MultiUserClient
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.04-01.49.53:963][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.04-01.49.53:963][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.04-01.49.53:963][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Config/Windows/Engine.ini]
+[2019.12.04-01.49.53:963][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.04-01.49.53:963][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Config/Windows/Engine.ini]
+[2019.12.04-01.49.53:963][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Config/Windows/Engine.ini]
+[2019.12.04-01.49.53:963][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.04-01.49.53:963][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.04-01.49.53:963][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.04-01.49.53:963][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.04-01.49.53:963][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.04-01.49.53:963][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.04-01.49.53:963][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.04-01.49.53:963][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.04-01.49.53:963][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.04-01.49.53:963][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.04-01.49.53:963][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.04-01.49.53:963][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.04-01.49.53:963][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.04-01.49.53:963][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Config/Windows/Engine.ini]
+[2019.12.04-01.49.53:963][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.04-01.49.53:963][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.04-01.49.53:963][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.04-01.49.53:963][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.04-01.49.53:963][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.04-01.49.53:963][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.04-01.49.53:963][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.04-01.49.53:963][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.04-01.49.53:963][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.04-01.49.53:964][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.04-01.49.53:964][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.04-01.49.53:964][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.04-01.49.53:964][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.04-01.49.53:964][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Config/Windows/Engine.ini]
+[2019.12.04-01.49.53:964][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Config/Windows/Engine.ini]
+[2019.12.04-01.49.53:966][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.04-01.49.53:966][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.04-01.49.53:966][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.04-01.49.53:966][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.04-01.49.53:966][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.04-01.49.53:967][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.04-01.49.53:967][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.04-01.49.53:967][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.04-01.49.53:975][  0]LogHAL: Display: Platform has ~ 16 GB [17014509568 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.04-01.49.53:975][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.04-01.49.53:975][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-01.49.53:975][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.04-01.49.53:975][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.04-01.49.53:975][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-01.49.53:975][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.04-01.49.53:975][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-01.49.53:975][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.04-01.49.53:975][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.04-01.49.53:975][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.04-01.49.53:975][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.04-01.49.53:975][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.04-01.49.53:975][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.04-01.49.53:975][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.04-01.49.53:975][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.04-01.49.53:975][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.04-01.49.53:975][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.04-01.49.53:975][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.04-01.49.53:975][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.04-01.49.53:975][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.04-01.49.53:975][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.04-01.49.53:975][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.04-01.49.53:975][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.04-01.49.53:975][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.04-01.49.53:975][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.04-01.49.53:975][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-01.49.53:975][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.04-01.49.53:975][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.04-01.49.53:975][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.04-01.49.53:976][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-01.49.53:977][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.04-01.49.53:977][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.04-01.49.53:977][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.04-01.49.53:977][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.04-01.49.53:977][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.04-01.49.53:977][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Config/Windows/Engine.ini]
+[2019.12.04-01.49.53:977][  0]LogInit: Computer: DESKTOP-CDQJGLH
+[2019.12.04-01.49.53:977][  0]LogInit: User: jason
+[2019.12.04-01.49.53:977][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.04-01.49.53:977][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.04-01.49.53:978][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.12.04-01.49.53:978][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.04-01.49.53:978][  0]LogMemory: Process Physical Memory: 100.89 MB used, 100.89 MB peak
+[2019.12.04-01.49.53:978][  0]LogMemory: Process Virtual Memory: 88.75 MB used, 88.75 MB peak
+[2019.12.04-01.49.53:978][  0]LogMemory: Physical Memory: 6941.25 MB used,  9285.05 MB free, 16226.30 MB total
+[2019.12.04-01.49.53:978][  0]LogMemory: Virtual Memory: 4656.43 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.12.04-01.49.53:982][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.04-01.49.54:022][  0]LogInit: Using OS detected language (en-US).
+[2019.12.04-01.49.54:022][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.04-01.49.54:023][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.04-01.49.54:278][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.04-01.49.54:313][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.04-01.49.54:313][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.04-01.49.54:564][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.04-01.49.54:564][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.04-01.49.54:643][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.12.04-01.49.54:643][  0]LogD3D11RHI:       4019/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.04-01.49.54:660][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.12.04-01.49.54:661][  0]LogD3D11RHI:       128/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.12.04-01.49.54:664][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.04-01.49.54:665][  0]LogD3D11RHI:       0/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.04-01.49.54:665][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.04-01.49.54:699][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.04-01.49.54:699][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.12.04-01.49.54:699][  0]LogWindows: EnumDisplayDevices:
+[2019.12.04-01.49.54:699][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.12.04-01.49.54:699][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.04-01.49.54:700][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.04-01.49.54:700][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.12.04-01.49.54:700][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.12.04-01.49.54:700][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.12.04-01.49.54:700][  0]LogD3D11RHI:   Driver Version: 441.41 (internal:26.21.14.4141, unified:441.41)
+[2019.12.04-01.49.54:700][  0]LogD3D11RHI:      Driver Date: 11-20-2019
+[2019.12.04-01.49.54:700][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
+[2019.12.04-01.49.54:751][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.04-01.49.54:777][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.04-01.49.55:147][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.04-01.49.55:157][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.04-01.49.55:165][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.04-01.49.55:175][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.04-01.49.55:185][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.04-01.49.55:195][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.04-01.49.55:205][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.04-01.49.55:217][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.04-01.49.55:222][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.04-01.49.55:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.04-01.49.55:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.04-01.49.55:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.04-01.49.55:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.04-01.49.55:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.04-01.49.55:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.04-01.49.55:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.04-01.49.55:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.04-01.49.55:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.04-01.49.55:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.04-01.49.55:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.04-01.49.55:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.04-01.49.55:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.04-01.49.55:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.04-01.49.55:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.04-01.49.55:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.04-01.49.55:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.04-01.49.55:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.04-01.49.55:262][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.04-01.49.55:282][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.04-01.49.55:282][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.04-01.49.55:299][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.04-01.49.55:299][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.04-01.49.55:307][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.04-01.49.55:316][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.04-01.49.55:324][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.04-01.49.55:333][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.04-01.49.55:365][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.04-01.49.55:365][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.04-01.49.55:365][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.04-01.49.55:376][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.04-01.49.55:441][  0]LogShaderCompilers: Guid format shader working directory is -39 characters bigger than the processId version (../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Intermediate/Shaders/WorkingDirectory/14160/).
+[2019.12.04-01.49.55:441][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jason/AppData/Local/Temp/UnrealShaderWorkingDir/D697868D4CF7A8B633C3D8A6FA345929/'.
+[2019.12.04-01.49.55:444][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.04-01.49.55:444][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.04-01.49.55:444][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.04-01.49.56:185][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.04-01.49.56:242][  0]LogDerivedDataCache: Loaded boot cache 0.06s 73MB C:/Users/jason/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.04-01.49.56:242][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jason/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.04-01.49.56:242][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.04-01.49.56:242][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.04-01.49.56:242][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.04-01.49.56:242][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.04-01.49.56:255][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.04-01.49.56:255][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.04-01.49.56:255][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.04-01.49.56:257][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jason/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.04-01.49.56:257][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.04-01.49.56:257][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.04-01.49.56:278][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.04-01.49.56:281][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.04-01.49.56:281][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.04-01.49.56:350][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2019.12.04-01.49.56:715][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.04-01.49.56:895][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.04-01.49.56:895][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.04-01.49.56:896][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.04-01.49.56:896][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.04-01.49.56:896][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.04-01.49.56:908][  0]LogNetVersion: Project_Plague_UE4 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1726986232)
+[2019.12.04-01.49.57:458][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 1 prioritized culture(s) in 0.067247 seconds
+[2019.12.04-01.49.57:469][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.04-01.49.57:469][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.04-01.49.57:469][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.04-01.49.58:504][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.04-01.49.58:508][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.04-01.49.58:689][  0]SourceControl: Source control is disabled
+[2019.12.04-01.49.58:689][  0]SourceControl: Source control is disabled
+[2019.12.04-01.49.58:691][  0]SourceControl: Source control is disabled
+[2019.12.04-01.49.58:693][  0]SourceControl: Source control is disabled
+[2019.12.04-01.49.58:806][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.04-01.49.58:923][  0]LogOcInput: OculusInput pre-init called
+[2019.12.04-01.49.58:933][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.04-01.49.58:933][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.04-01.49.59:029][  0]LogEngine: Initializing Engine...
+[2019.12.04-01.49.59:030][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.04-01.49.59:031][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.04-01.49.59:311][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.04-01.49.59:335][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.04-01.49.59:355][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.04-01.49.59:378][  0]LogInit: FAudioDevice initialized.
+[2019.12.04-01.49.59:378][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.04-01.49.59:492][  0]LogDerivedDataCache: Saved boot cache 0.11s 73MB C:/Users/jason/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.04-01.49.59:496][  0]LogInit: Texture streaming: Enabled
+[2019.12.04-01.49.59:526][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.04-01.49.59:526][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.04-01.49.59:532][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.04-01.49.59:615][  0]LogInit: Transaction tracking system initialized
+[2019.12.04-01.49.59:661][  0]BlueprintLog: New page: Editor Load
+[2019.12.04-01.49.59:753][  0]LocalizationService: Localization service is disabled
+[2019.12.04-01.50.00:049][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/' took 0.01s
+[2019.12.04-01.50.00:049][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.04-01.50.00:049][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.04-01.50.00:300][  0]SourceControl: Source control is disabled
+[2019.12.04-01.50.00:300][  0]Cmd: MAP LOAD FILE="../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.04-01.50.00:300][  0]LightingResults: New page: Lighting Build
+[2019.12.04-01.50.00:303][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-01.50.00:303][  0]MapCheck: New page: Map Check
+[2019.12.04-01.50.00:303][  0]LightingResults: New page: Lighting Build
+[2019.12.04-01.50.00:330][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.12.04-01.50.02:107][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.04-01.50.02:350][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.04-01.50.02:375][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.12.04-01.50.02:375][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.04-01.50.02:376][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.167ms to complete.
+[2019.12.04-01.50.02:376][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 2.076
+[2019.12.04-01.50.02:568][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-01.50.02:579][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-01.50.02:586][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-01.50.02:593][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-01.50.02:612][  0]LogCollectionManager: Loaded 0 collections in 0.002646 seconds
+[2019.12.04-01.50.02:654][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Collections/' took 0.00s
+[2019.12.04-01.50.02:654][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/Developers/jason/Collections/' took 0.00s
+[2019.12.04-01.50.02:654][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/Collections/' took 0.00s
+[2019.12.04-01.50.02:654][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2019.12.04-01.50.02:667][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2873 classes and 697 folders.
+[2019.12.04-01.50.02:688][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2019.12.04-01.50.02:905][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2019.12.04-01.50.02:934][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2019.12.04-01.50.03:372][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.04-01.50.03:375][  0]LogSlate: Took 0.000351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.04-01.50.03:387][  0]LogSlate: Took 0.001333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.04-01.50.03:488][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2019.12.04-01.50.03:662][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0016 seconds. Added 0 classes and 0 folders.
+[2019.12.04-01.50.03:662][  0]LogLoad: (Engine Initialization) Total time: 18.89 seconds
+[2019.12.04-01.50.03:662][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.04-01.50.03:735][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.04-01.50.03:766][  0]LogSlate: Took 0.001439 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.04-01.50.03:908][  2]LogAssetRegistry: Asset discovery search completed in 7.5582 seconds
+[2019.12.04-01.50.03:912][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000012 seconds (found 0 objects)
+[2019.12.04-01.50.03:913][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000122 seconds (updated 0 objects)
+[2019.12.04-01.50.05:234][  6]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.04-01.51.03:866][165]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={F9418FE7-4BEB-9421-8AA0-75858C25C630}
+[2019.12.04-01.54.30:690][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-01.59.04:954][785]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={6CD464B6-4103-3E7C-3C68-8CAE5B4F2885}
+[2019.12.04-02.05.38:029][858]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.12.04-02.05.38:734][858]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.04-02.05.53:091][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.12.04-02.05.53:991][681]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/FirstPersonExampleMap9BF6E8BA4B11D1BC41C71B85B857ABB6.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.12.04-02.05.57:300][681]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/FirstPersonExampleMap_BuiltData54D6405247AB7E8E33FD3BBE6F7554F7.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.12.04-02.06.11:693][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.12.04-02.06.11:693][250]LogMetaData: Removing '/Game/InventorySystem/Widgets/ActionMenu.SKEL_ActionMenu_C' ref from Metadata '/Game/InventorySystem/Widgets/NewWidgetBlueprint.PackageMetaData'
+[2019.12.04-02.06.11:693][250]LogMetaData: Removing '/Game/InventorySystem/Widgets/ActionMenu.ActionMenu_C' ref from Metadata '/Game/InventorySystem/Widgets/NewWidgetBlueprint.PackageMetaData'
+[2019.12.04-02.06.11:694][250]LogMetaData: Removing '/Game/InventorySystem/Widgets/ActionMenu.ActionMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/InventorySystem/Widgets/NewWidgetBlueprint.PackageMetaData'
+[2019.12.04-02.06.11:694][250]LogMetaData: Removing '/Game/InventorySystem/Widgets/ActionMenu.ActionMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/InventorySystem/Widgets/NewWidgetBlueprint.PackageMetaData'
+[2019.12.04-02.06.11:694][250]LogMetaData: Removing '/Game/InventorySystem/Widgets/ActionMenu.ActionMenu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/InventorySystem/Widgets/NewWidgetBlueprint.PackageMetaData'
+[2019.12.04-02.06.11:743][250]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu80E885FC437870CAC0015D930ECE13D5.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.06.11:880][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.12.04-02.06.11:907][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.12.04-02.06.11:927][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.12.04-02.06.12:448][277]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu208D96C14970D14F82958DBF1DF1CD64.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.06.13:221][322]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/InventorySystem/Widgets/ActionMenu.ActionMenu
+[2019.12.04-02.06.13:560][322]LogClass: Warning: Enum '/Game/Zombie_01/Demo_Controller/Enumerations/EMoveStates.EMoveStates' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.12.04-02.06.13:903][322]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0506 seconds. Added 121 classes and 0 folders.
+[2019.12.04-02.06.15:667][322]LogSlate: Took 0.006574 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.04-02.06.20:239][584]LogSlate: Window 'ActionMenu' being destroyed
+[2019.12.04-02.07.02:530][923]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.07.09:267][923]LogUObjectHash: Compacting FUObjectHashTables data took  18.31ms
+[2019.12.04-02.08.25:108][668]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.04-02.08.34:765][115]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.04-02.08.35:782][176]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.08.35:853][176]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2019.12.04-02.08.36:422][204]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu467B5F774215C31BF73DCDBCEDD31D9D.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.08.46:404][662]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.08.46:469][662]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2019.12.04-02.08.47:137][698]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu47B858F040401694BB2AA89B252560E3.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.08.53:823][ 89]LogSlate: Took 0.015239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.12.04-02.09.10:054][911]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenuC0EB40464253D9687AEAD4941B153C20.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.09.11:144][976]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.09.11:218][976]LogUObjectHash: Compacting FUObjectHashTables data took   8.02ms
+[2019.12.04-02.09.11:744][  2]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenuF50AE2D7465DA415861BD7B745C0AFD5.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.09.30:931][767]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.04-02.09.31:852][819]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.09.31:920][819]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2019.12.04-02.09.32:355][840]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu165BBE1D4986D1ED350217B79D929919.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.09.40:747][202]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu286E239D47B9AC809BACFE979731E37F.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.09.42:278][292]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.09.42:327][292]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2019.12.04-02.09.42:960][324]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu744E4B1B413C05F16A9FFD9B1BBB76A9.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.09.48:898][677]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu90F0D98A47C93C347D163A82C334F64F.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.09.54:532][ 13]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.09.54:565][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2019.12.04-02.09.55:202][ 47]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu92F353DC479A2BA6380D23B987713D4B.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.10.05:126][484]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenuED8E17F44DE86C0AAF9D86BF9F3A0B98.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.10.08:592][689]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.10.08:660][689]LogUObjectHash: Compacting FUObjectHashTables data took   8.01ms
+[2019.12.04-02.10.09:105][710]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu2F59E404402733B8775B8B9E4F5F98F7.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.10.16:659][991]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.10.16:714][991]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2019.12.04-02.10.17:403][ 27]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenuEF8CDA8542EB6EA496A662A7697B2430.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.10.39:823][965]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenuB7597D7A48FC9EE111EDB3A21EB6FB6F.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.10.41:364][ 57]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.10.41:415][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2019.12.04-02.10.42:043][ 90]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenuC9C38AD34783E7765AADA5A8149D8A89.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.10.44:782][250]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenuF44F881E4BAC0A8F8AB127BE9910A888.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.10.45:818][311]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.10.45:852][311]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2019.12.04-02.10.46:523][347]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu144D2E1849DB5C11DD7A3E8AFBDAADAC.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.11.03:108][801]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.11.03:157][801]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2019.12.04-02.11.03:798][837]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu4CA7C6734ED5BB74DF0AC980E5B36F60.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.11.20:975][750]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenuC686730C402B24F0680027A67DE293FF.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.11.35:578][621]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenuFC5E942342B682CC7791FAB0BB69EC91.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.11.36:521][677]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.11.36:554][677]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.12.04-02.11.37:063][703]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu8DA5B9BB484874D042030CB8F4066499.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.11.50:033][281]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenuFC398D494B1B044E516F60BDBC1ADA61.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.11.57:511][724]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu4031D5E2480A0B01F5696594EACC0C3A.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.11.58:543][785]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.11.58:599][785]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2019.12.04-02.11.59:395][828]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu3C12660E45E468ED455E438087782FFE.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.12.11:292][307]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu2E032F104446AC8862CBAFBA2A2EFCE6.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.12.12:265][365]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.12.12:333][365]LogUObjectHash: Compacting FUObjectHashTables data took   7.49ms
+[2019.12.04-02.12.13:697][442]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenuD133350843A03FA679C369A2183ADA6A.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.12.38:475][450]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.12.38:557][450]LogUObjectHash: Compacting FUObjectHashTables data took   8.35ms
+[2019.12.04-02.12.39:010][474]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu1A649DF44A6806804A3800A8AF1E24AF.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.14.03:744][251]LogHttp: Warning: 000002063074D6C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF521BF8B-4B83-AC63-3AF8-9386C8B2D8AE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=9d0a07214d45ff36ee3d8b90a8c43b23%7Caf74c4a7cf504132bb03660c940b4589%7Ce9c97159-1b7a-4ef9-985d-fecf0a580b15&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.04-02.14.03:744][251]LogHttp: Warning: 000002063074D6C0: request failed, libcurl error: 0 (No error)
+[2019.12.04-02.14.03:744][251]LogHttp: Warning: 000002063074D6C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2067ba63f70 [can pipeline])
+[2019.12.04-02.14.03:744][251]LogHttp: Warning: 000002063074D6C0: libcurl info message cache 1 (Re-using existing connection! (#10) with host datarouter.ol.epicgames.com)
+[2019.12.04-02.14.03:744][251]LogHttp: Warning: 000002063074D6C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.20.196.177) port 443 (#10))
+[2019.12.04-02.14.03:744][251]LogHttp: Warning: 000002063074D6C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.12.04-02.14.03:744][251]LogHttp: Warning: 000002063074D6C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.12.04-02.14.03:744][251]LogHttp: Warning: 000002063074D6C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.12.04-02.14.03:745][251]LogHttp: Warning: 000002063074D6C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.12.04-02.14.03:745][251]LogHttp: Warning: 000002063074D6C0: libcurl info message cache 7 (Closing connection 10)
+[2019.12.04-02.14.03:745][251]LogHttp: Warning: 000002063074D6C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.12.04-02.14.03:760][252]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF521BF8B-4B83-AC63-3AF8-9386C8B2D8AE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=9d0a07214d45ff36ee3d8b90a8c43b23%7Caf74c4a7cf504132bb03660c940b4589%7Ce9c97159-1b7a-4ef9-985d-fecf0a580b15&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.04-02.14.25:889][357]LogSlate: Took 0.001315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.12.04-02.14.32:566][755]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.14.32:611][755]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2019.12.04-02.14.33:209][788]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu5BC097474E3F04E90CC75DBDBE0D42C8.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.14.36:444][977]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.14.36:478][977]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2019.12.04-02.14.37:095][ 11]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu40900B014939B55C042DD6A15BFB07B3.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.14.52:598][927]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.14.52:684][927]LogUObjectHash: Compacting FUObjectHashTables data took   9.05ms
+[2019.12.04-02.14.53:234][956]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu923C61BA4A20E371A8AAF190ADBBAC70.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.15.00:114][352]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.15.00:238][352]LogUObjectHash: Compacting FUObjectHashTables data took  12.74ms
+[2019.12.04-02.15.00:765][379]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu2832DD614E765768D39390AA3D2740C4.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.15.07:459][775]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.15.07:495][775]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2019.12.04-02.15.08:130][810]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenuB87510FF4BA4C94F650ADC97A9F801E2.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.15.11:091][985]LogBlueprint: Warning: [Compiler ActionMenu] Variable Inventory is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2019.12.04-02.15.13:062][100]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.15.13:136][100]LogUObjectHash: Compacting FUObjectHashTables data took   7.94ms
+[2019.12.04-02.15.14:287][164]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenuB5C6D13B4993FF2AE3EA45AE25B793BE.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.15.43:809][573]LogSlate: Took 0.000762 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.04-02.16.17:427][112]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.16.17:514][112]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2019.12.04-02.16.17:987][138]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenuCD09ABF04BB32AD3A49E99B3D9077A7A.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.17.29:464][507]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.17.29:548][507]LogUObjectHash: Compacting FUObjectHashTables data took   7.76ms
+[2019.12.04-02.17.29:957][527]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenuECC273A44AD0C5A7F05C5E97A1884C21.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.17.50:084][697]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.17.50:126][697]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2019.12.04-02.17.50:782][733]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenuBC2CC87E4E3A3C81588BA68D9B842045.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.18.38:204][435]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.18.38:277][435]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2019.12.04-02.18.38:936][471]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu4B9BA5564A6F16F3D486B88BCF177714.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.19.20:792][526]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.19.20:891][526]LogUObjectHash: Compacting FUObjectHashTables data took   6.38ms
+[2019.12.04-02.19.21:439][555]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu3E06859E48895212C161F1B618809AE6.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.19.47:192][593]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.19.47:253][593]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2019.12.04-02.19.47:721][617]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu697DB4EB4B53AFF5BF0C08A42B1F5940.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.19.58:943][108]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.19.59:016][108]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.12.04-02.19.59:592][138]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenuD1670E8543C4C3C543C7BBA014109CDA.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.20.26:349][293]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.20.26:442][293]LogUObjectHash: Compacting FUObjectHashTables data took   7.90ms
+[2019.12.04-02.20.26:941][319]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu6551644C49F1D9FACD007298BC9AE077.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.20.35:494][717]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.20.35:583][717]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2019.12.04-02.20.36:206][750]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenuB1B5E25E40C132624E424483AABF5DA7.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.21.02:626][126]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.21.02:705][126]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2019.12.04-02.21.03:117][147]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu801E839141640AEC01B563BF846868DF.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.21.18:648][684]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.21.18:722][684]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2019.12.04-02.21.19:234][708]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu2C085D1E46BBE1F9A54E038F88E23ACE.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.21.30:978][402]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.21.31:072][402]LogUObjectHash: Compacting FUObjectHashTables data took   6.33ms
+[2019.12.04-02.21.31:549][426]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu67DE9EF145ABE3A3BA9BEEB47BB0AC70.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.22.00:304][ 96]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenu2ABD75584518FF4EED6A31B7F5B1BEB9.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.22.09:233][608]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.22.09:312][608]LogUObjectHash: Compacting FUObjectHashTables data took   7.63ms
+[2019.12.04-02.22.09:772][629]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenuED6FF757441ED07F35528BBA0BB508DB.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.22.38:007][142]LogEditorTransaction: Undo Move Node
+[2019.12.04-02.22.53:741][896]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenuDD6D17CD420098D1101E2BA5369E7C27.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.23.01:389][352]BlueprintLog: New page: Compile ActionMenu
+[2019.12.04-02.23.01:453][352]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2019.12.04-02.23.02:177][391]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ActionMenuAF75EFBE44D86B03A2FEFB9C7BD8C693.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/ActionMenu.uasset'
+[2019.12.04-02.23.27:576][640]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-02.23.27:603][640]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-02.23.31:871][814]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/InventorySystem/Widgets/Inventory.Inventory
+[2019.12.04-02.23.48:684][514]LogSlate: Window 'Inventory' being destroyed
+[2019.12.04-02.23.55:240][903]BlueprintLog: New page: Compile Inventory
+[2019.12.04-02.23.55:392][903]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2019.12.04-02.23.55:860][924]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Inventory375450CB4184D8930E2F65823CDAD3F2.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.04-02.24.01:600][267]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.04-02.24.02:618][328]BlueprintLog: New page: Compile Inventory
+[2019.12.04-02.24.02:721][328]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2019.12.04-02.24.03:227][353]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/InventoryD02FAAD94E649A25255F9EB2B8E22FAF.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.04-02.24.17:667][852]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/InventoryAA22E4AE47105DA00E51F1983C47BB14.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.04-02.24.18:635][910]BlueprintLog: New page: Compile Inventory
+[2019.12.04-02.24.18:729][910]LogUObjectHash: Compacting FUObjectHashTables data took   7.09ms
+[2019.12.04-02.24.19:179][931]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/InventoryF27307FA40B33DB480A9D396B1349208.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.04-02.24.34:396][518]LogEditorTransaction: Undo Set Vector Property
+[2019.12.04-02.24.36:922][665]BlueprintLog: New page: Compile Inventory
+[2019.12.04-02.24.36:979][665]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2019.12.04-02.24.37:732][704]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Inventory0F299B844DB1647106CFB4A8A21423BF.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.04-02.25.25:548][119]BlueprintLog: New page: Compile Inventory
+[2019.12.04-02.25.25:596][119]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.12.04-02.25.26:181][150]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Inventory503DA1A745DB15D110010B986492577A.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/Inventory.uasset'
+[2019.12.04-02.26.12:618][670]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/InventorySystem/Widgets/InventorySlot.InventorySlot
+[2019.12.04-02.26.49:753][242]BlueprintLog: New page: Compile InventorySlot
+[2019.12.04-02.26.49:841][242]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2019.12.04-02.26.50:354][264]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/InventorySlot08D43E8D4EAA4B47990A32AEF0089972.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/InventorySlot.uasset'
+[2019.12.04-02.27.00:968][683]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/InventorySlot4D7619414E7D66AACDD3B9974862ACF9.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/InventorySlot.uasset'
+[2019.12.04-02.28.15:238][132]BlueprintLog: New page: Compile InventorySlot
+[2019.12.04-02.28.15:341][132]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2019.12.04-02.28.15:902][160]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/InventorySlot7BB4051F4D5E21775C87E681C395102F.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/InventorySlot.uasset'
+[2019.12.04-02.28.42:888][518]BlueprintLog: New page: Compile InventorySlot
+[2019.12.04-02.28.42:970][518]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2019.12.04-02.28.43:415][540]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/InventorySlot2C461D584A5AFE5ACA768599F19A5895.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/InventorySlot.uasset'
+[2019.12.04-02.29.05:474][631]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.04-02.29.05:505][631]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.04-02.29.05:507][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-02.29.05:515][631]PIE: New page: PIE session: FirstPersonExampleMap (Dec 3, 2019, 4:29:05 PM)
+[2019.12.04-02.29.05:523][631]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.04-02.29.05:526][631]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.04-02.29.05:617][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090846s)
+[2019.12.04-02.29.05:619][631]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.04-02.29.05:621][631]LogPlayLevel: PIE: World Init took: (0.003882s)
+[2019.12.04-02.29.05:621][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.095466s)
+[2019.12.04-02.29.05:660][631]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.12.04-02.29.05:669][631]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.04-02.29.05:684][631]LogInit: FAudioDevice initialized.
+[2019.12.04-02.29.05:704][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-02.29.05:708][631]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.04-02.29.05:721][631]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.12.03-21.29.05
+[2019.12.04-02.29.05:731][631]LogWorld: Bringing up level for play took: 0.022765
+[2019.12.04-02.29.05:734][631]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.12.04-02.29.05:774][631]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0015 seconds. Added 20 classes and 0 folders.
+[2019.12.04-02.29.05:778][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-02.29.05:802][631]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.08
+[2019.12.04-02.29.05:803][631]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.04-02.29.05:892][632]LogRenderer: Reallocating scene render targets to support 1280x716 Format 10 NumSamples 1 (Frame:1).
+[2019.12.04-02.29.12:782][ 20]LogBlueprintUserMessages: [Item_1911_C_0] You used 1911
+[2019.12.04-02.29.19:300][411]LogBlueprintUserMessages: [Item_Machete_C_0] You used Machete
+[2019.12.04-02.29.21:272][529]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.04-02.29.21:272][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-02.29.21:272][529]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.04-02.29.21:288][529]LogSlate: Window 'Project_Plague_UE4 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.04-02.29.21:294][529]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-02.29.21:303][529]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-02.29.21:303][529]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.04-02.29.21:388][529]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2019.12.04-02.29.21:402][530]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.12.04-02.29.37:833][769]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-02.29.37:861][769]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-02.29.38:665][815]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-02.29.38:693][815]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-02.29.42:099][ 11]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/BP_Inventory.BP_Inventory
+[2019.12.04-02.29.54:770][479]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.29.55:039][479]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2019.12.04-02.29.55:664][505]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_Inventory565612614140DC2B1E472887436DD185.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.30.13:134][538]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.30.13:546][538]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2019.12.04-02.30.13:743][539]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_InventoryF8F30DFA409BE89719FAF5A966FDF5E2.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.30.23:909][141]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.30.24:195][141]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2019.12.04-02.30.24:689][161]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_Inventory2AFBB3964BE0F689E25F3783BBB97589.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.31.10:469][796]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.31.10:703][796]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.12.04-02.31.11:249][819]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_InventoryFB517DB0440F5A9EA7B34F8AA95A2A66.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.31.22:412][341]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.31.22:736][341]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2019.12.04-02.31.23:053][350]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_Inventory058EF8874F3BD7F72E58A981EC38DB5E.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.32.36:925][205]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.32.37:180][205]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2019.12.04-02.32.37:716][227]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_Inventory8E599227446002C8DCFBDDB79F6FA9BD.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.33.08:886][721]LogUObjectHash: Compacting FUObjectHashTables data took  13.87ms
+[2019.12.04-02.33.09:961][721]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/FirstPersonExampleMap_Auto167175DD24CAC80BDBB6ED09BFCFFB2B2.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2019.12.04-02.33.09:968][721]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 1.214
+[2019.12.04-02.33.09:968][721]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.214
+[2019.12.04-02.34.05:627][499]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.34.05:894][499]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2019.12.04-02.34.06:687][536]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_InventoryE882EC4C4556E25A0E74E5BAADC0F99B.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.34.14:485][994]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.34.14:720][994]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2019.12.04-02.34.15:215][ 13]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_Inventory1E788E9F4FF014538FC1EB8D49B5CF90.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.35.01:033][778]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.35.01:266][778]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.12.04-02.35.01:837][797]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_Inventory0CEAB12B4F78E2EFC8C922A3652B818F.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.35.05:660][ 22]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.35.05:966][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2019.12.04-02.35.06:650][ 52]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_Inventory6776C6EB4E8A745F9157E6AFC5A35992.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.35.56:960][526]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.35.57:202][526]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2019.12.04-02.35.57:708][545]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_InventoryB50B9D494F3105C975129697EEC1AADF.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.36.13:614][298]LogEditorTransaction: Undo Move Node
+[2019.12.04-02.36.14:874][371]LogEditorTransaction: Undo Paste clipboard contents
+[2019.12.04-02.36.16:658][467]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallArrayFunction /Game/InventorySystem/Blueprints/BP_Inventory.BP_Inventory:AddToIndex.K2Node_CallArrayFunction_0 or K2Node_CallArrayFunction /Game/InventorySystem/Blueprints/BP_Inventory.BP_Inventory:AddToIndex.K2Node_CallArrayFunction_0
+[2019.12.04-02.36.32:594][399]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.36.32:840][399]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.12.04-02.36.33:324][417]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_Inventory8A7421CB4772345CED4B53971107E555.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.36.50:543][104]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.36.50:823][104]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.12.04-02.36.51:432][129]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_Inventory00CFFC6443B15CE9260F8A858CFFB576.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.37.05:619][595]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.37.05:867][595]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.12.04-02.37.06:413][616]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_Inventory68BF4E1647946C1119906EB9913B622E.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.37.23:859][404]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.37.24:106][404]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2019.12.04-02.37.24:538][418]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_Inventory40A42A01435BD1762002CCBCC4295694.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.37.45:902][645]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.37.46:121][645]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.12.04-02.37.46:644][663]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_InventoryE903969A410CACA1B7A235B4BA287DE0.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.37.59:227][277]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.37.59:463][277]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2019.12.04-02.37.59:950][294]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_Inventory1123FA2A4D58A1FF90D77FA75E051BF4.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.39.52:520][618]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.39.52:755][618]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.12.04-02.39.53:316][639]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_Inventory9961D8574FEB80DE2ED553B5C9F57CB3.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.40.26:941][717]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.40.27:203][717]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.12.04-02.40.27:733][736]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_Inventory7FD13CC0497A02DDC7F676B04FAEB507.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.40.48:238][646]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.40.48:472][646]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2019.12.04-02.40.49:034][668]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_InventoryF0E54057468737921A68A9B5C72C9C95.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.41.00:609][169]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.41.00:846][169]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2019.12.04-02.41.01:393][190]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_Inventory8AE9041043F4D499BB4DED97995E8754.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.41.14:701][825]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.41.14:997][825]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.12.04-02.41.16:331][894]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_Inventory4F55B05F4600DB67DFF140BC2AB39D89.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.41.55:376][979]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.41.55:707][979]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2019.12.04-02.41.56:263][  0]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_InventoryFD919C5245B24B9A6EBEA5803A6BA5E3.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.43.30:065][665]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.43.30:327][665]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.12.04-02.43.30:834][683]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_InventoryA0554E3D47E8DDBAC1E007A9D5383988.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.43.33:046][815]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::BooleanAND' [Element not found.]
+[2019.12.04-02.43.35:876][971]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.43.36:129][971]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2019.12.04-02.43.36:533][983]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_InventoryB8127ECC4B7CBF5837CD1BBBB29CF4A1.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.44.08:305][363]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.44.08:592][363]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2019.12.04-02.44.09:156][385]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_InventoryC827F8C549449A4DE42FCC973DB3A6CE.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.44.31:354][113]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.44.31:607][113]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2019.12.04-02.44.32:082][130]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_Inventory9403352448DDC6F2CB0C67B27031D837.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.44.56:154][ 59]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.44.56:437][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2019.12.04-02.44.57:017][ 82]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_Inventory7F2CEA7F4EC76F154D5886AD48B9A74A.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.45.10:185][582]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.45.10:464][582]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.12.04-02.45.11:112][608]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_InventoryD4823E4B428137133254FF852DFC5DA8.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.45.34:930][855]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.45.35:260][855]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2019.12.04-02.45.35:869][876]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_InventoryF01517A84354BE05D095FD846ABB8C46.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.45.56:430][734]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_Inventory73B1CA5642F23612A2C3518A012C2844.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.46.01:666][ 47]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.46.01:957][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2019.12.04-02.46.02:503][ 67]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_Inventory9592210745DD6E304C5DDA8A48E8024B.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.46.49:078][417]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.46.49:370][417]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2019.12.04-02.46.50:279][460]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_Inventory771156834F4170CC3374A38AA010DEFD.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.47.48:743][322]BlueprintLog: New page: Compile BP_Inventory
+[2019.12.04-02.47.49:011][322]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.12.04-02.47.49:532][340]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/BP_InventoryB52D76794F7AABA24B6B85B0E915E801.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2019.12.04-02.48.00:156][967]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/DraggedItem9BC0715547DA417E97A6DB80E467C138.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/DraggedItem.uasset'
+[2019.12.04-02.48.01:276][ 33]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/InventorySystem/Widgets/DraggedItem.DraggedItem
+[2019.12.04-02.48.25:304][994]LogSlate: Window 'DraggedItem' being destroyed
+[2019.12.04-02.48.25:958][ 33]BlueprintLog: New page: Compile DraggedItem
+[2019.12.04-02.48.26:130][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2019.12.04-02.48.34:474][527]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/DraggedItem6978441E4E7B57968C11159C7643257B.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/DraggedItem.uasset'
+[2019.12.04-02.48.36:476][646]BlueprintLog: New page: Compile DraggedItem
+[2019.12.04-02.48.36:539][646]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2019.12.04-02.48.37:426][697]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/DraggedItem1A7F8508471FD6D2C858CA869759499D.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/DraggedItem.uasset'
+[2019.12.04-02.49.03:017][515]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/DraggedItem0635D97748AFBCDA4F49DB8EA4C49E39.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/DraggedItem.uasset'
+[2019.12.04-02.49.04:926][629]BlueprintLog: New page: Compile DraggedItem
+[2019.12.04-02.49.04:990][629]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2019.12.04-02.49.05:479][656]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/DraggedItemEEEA7158486F74D031B45ABA774ADCD8.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/DraggedItem.uasset'
+[2019.12.04-02.49.35:154][ 43]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/DraggedItem1CF87FBD4CCBDA0108C61986E9E4609F.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/DraggedItem.uasset'
+[2019.12.04-02.49.35:977][ 92]BlueprintLog: New page: Compile DraggedItem
+[2019.12.04-02.49.36:017][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.12.04-02.49.36:714][129]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/DraggedItem282B4A154C430EB28F25249665E52C46.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/DraggedItem.uasset'
+[2019.12.04-02.49.38:158][209]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2019.12.04-02.49.39:099][209]LogSlate: Window 'Save Content' being destroyed
+[2019.12.04-02.49.39:178][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.12.04-02.49.39:463][209]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/FirstPersonExampleMap23B7C185478EF4529071998E8AA9EB86.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.12.04-02.49.39:504][209]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.356
+[2019.12.04-02.51.12:758][522]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/DraggedItem440108B44F011C1DC16834829FB271C7.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/DraggedItem.uasset'
+[2019.12.04-02.51.24:411][211]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/DraggedItem6586D83F4658CC6986F2EB840E8F79AB.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/DraggedItem.uasset'
+[2019.12.04-02.51.29:234][498]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/DraggedItem33907E834587DC65F1B47491E3FAF9B8.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/DraggedItem.uasset'
+[2019.12.04-02.52.05:216][ 95]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/DraggedItemA667F86D459AFE802E479E825B715849.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/DraggedItem.uasset'
+[2019.12.04-02.52.08:748][304]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/DraggedItem78E9DC894C0AAB38D3DCA3A7943A95BB.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/DraggedItem.uasset'
+[2019.12.04-02.52.19:426][579]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/DraggedItemB6F2FD2140C1A66E29B793A7005B5EDD.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/DraggedItem.uasset'
+[2019.12.04-02.52.26:140][981]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.04-02.52.27:557][ 66]BlueprintLog: New page: Compile DraggedItem
+[2019.12.04-02.52.27:617][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2019.12.04-02.52.28:207][ 96]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/DraggedItem8F2CFA9847F73529095263BED35035FC.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/DraggedItem.uasset'
+[2019.12.04-02.52.40:393][672]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/DraggedItemADEC63254D3F161E5346B7B794B5B811.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/DraggedItem.uasset'
+[2019.12.04-02.52.43:218][839]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/DraggedItemE1FF1107433E68E959C967877CAB1274.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/DraggedItem.uasset'
+[2019.12.04-02.52.43:952][883]BlueprintLog: New page: Compile DraggedItem
+[2019.12.04-02.52.43:985][883]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.12.04-02.52.44:645][918]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/DraggedItemF8D7D09E4745E4724420CABC10A78C0C.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/DraggedItem.uasset'
+[2019.12.04-02.52.58:552][718]BlueprintLog: New page: Compile DraggedItem
+[2019.12.04-02.52.58:641][718]LogUObjectHash: Compacting FUObjectHashTables data took   7.15ms
+[2019.12.04-02.52.59:053][738]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/DraggedItemF7F46B974CE1E6E56D0523A72CE614A7.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/DraggedItem.uasset'
+[2019.12.04-02.53.08:300][284]BlueprintLog: New page: Compile DraggedItem
+[2019.12.04-02.53.08:383][284]LogUObjectHash: Compacting FUObjectHashTables data took   7.67ms
+[2019.12.04-02.53.08:804][305]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/DraggedItem4BF7697B404091975E29EFB5CEAA74BA.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/DraggedItem.uasset'
+[2019.12.04-02.53.41:908][134]BlueprintLog: New page: Compile DraggedItem
+[2019.12.04-02.53.41:944][134]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.12.04-02.53.42:429][161]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/DraggedItem4B4042054EA97B7716E7C984CCCC9C12.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/DraggedItem.uasset'
+[2019.12.04-02.55.00:771][211]BlueprintLog: New page: Compile DraggedItem
+[2019.12.04-02.55.00:840][211]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.12.04-02.55.01:293][235]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/DraggedItem5F14939540EC79363A9C0C81D66F4A0B.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/DraggedItem.uasset'
+[2019.12.04-02.55.23:551][212]BlueprintLog: New page: Compile DraggedItem
+[2019.12.04-02.55.23:627][212]LogUObjectHash: Compacting FUObjectHashTables data took   7.42ms
+[2019.12.04-02.55.24:402][253]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/DraggedItem0DB3FC90485DCB5A96AC5294614AF161.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/DraggedItem.uasset'
+[2019.12.04-02.56.17:318][914]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.12.04-02.56.25:390][345]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.04-02.56.25:623][345]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.12.04-02.56.26:316][371]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/FirstPersonCharacter8F3F1E2B4461FEBB79B94F8D70C3DA01.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.04-02.56.31:722][686]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.04-02.56.31:955][686]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2019.12.04-02.56.32:435][700]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/FirstPersonCharacterB9216C904477CC9A9F570FB9D2A950EC.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.04-02.56.55:340][886]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-02.57.12:749][534]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.04-02.57.15:709][704]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ItemDrag57BD8E3C46BF9C9A81EFF58CD607EB9A.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/DragAndDrop/ItemDrag.uasset'
+[2019.12.04-02.57.17:472][807]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InventorySystem/DragAndDrop/ItemDrag.ItemDrag
+[2019.12.04-02.57.50:559][123]BlueprintLog: New page: Compile ItemDrag
+[2019.12.04-02.57.50:646][123]LogUObjectHash: Compacting FUObjectHashTables data took   8.72ms
+[2019.12.04-02.57.51:486][170]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ItemDrag04B79A1744823D6008FD118D37C160F2.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/DragAndDrop/ItemDrag.uasset'
+[2019.12.04-02.57.58:666][591]BlueprintLog: New page: Compile ItemDrag
+[2019.12.04-02.57.58:738][591]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2019.12.04-02.57.59:240][619]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/ItemDrag418689E14330C6DBBB7278A51A4556CE.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/DragAndDrop/ItemDrag.uasset'
+[2019.12.04-02.58.46:085][929]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-02.58.56:684][367]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/InventorySystem/Widgets/InventorySlot.InventorySlot
+[2019.12.04-03.00.10:883][446]BlueprintLog: New page: Compile InventorySlot
+[2019.12.04-03.00.10:959][446]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.12.04-03.00.12:185][514]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/InventorySlotB6A7401A44790DA972AC2080B735CE9F.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/InventorySlot.uasset'
+[2019.12.04-03.00.29:409][251]BlueprintLog: New page: Compile InventorySlot
+[2019.12.04-03.00.29:495][251]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.12.04-03.00.30:649][314]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/InventorySlot3E288AF949E2FF55813C38A9C6A5CD1D.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/InventorySlot.uasset'
+[2019.12.04-03.00.51:118][219]BlueprintLog: New page: Compile InventorySlot
+[2019.12.04-03.00.51:238][219]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2019.12.04-03.00.51:789][246]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/InventorySlot78462EE143DEE414E4C620BA9652FE0B.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/InventorySlot.uasset'
+[2019.12.04-03.01.54:197][146]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2019.12.04-03.01.54:502][146]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/FirstPersonExampleMap_Auto2A6A529524713B772CD1E23A7410C53D1.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2019.12.04-03.01.54:506][146]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.395
+[2019.12.04-03.01.54:506][146]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.395
+[2019.12.04-03.01.54:507][146]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InventorySystem/Widgets/InventorySlot] ([1] browsable assets)...
+[2019.12.04-03.01.54:508][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/InventorySystem/Widgets/InventorySlot]
+[2019.12.04-03.01.54:547][146]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/InventorySlot_Auto23F0DB676449FF54EAB7327A2D656F6AE.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/Autosaves/Game/InventorySystem/Widgets/InventorySlot_Auto2.uasset'
+[2019.12.04-03.01.54:548][146]LogFileHelpers: Auto-saving content packages took 0.040
+[2019.12.04-03.02.35:419][275]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.12.04-03.02.36:750][275]LogSlate: Window 'Save Content' being destroyed
+[2019.12.04-03.02.36:822][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.12.04-03.02.37:097][275]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/FirstPersonExampleMapAD8EE01949F99F0427045487364BF351.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.12.04-03.02.37:133][275]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.345
+[2019.12.04-03.02.37:177][275]LogSavePackage: Moving '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Saved/InventorySlotC88D3225471E506A9CF92F8AD2D5D023.tmp' to '../../../../../../Users/jason/Documents/GitHub/Project_Plague_GIT/Project_Plague_UE4/Content/InventorySystem/Widgets/InventorySlot.uasset'
+[2019.12.04-03.02.37:282][275]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.04-03.02.37:282][275]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-03.02.37:321][275]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-03.02.37:327][275]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-03.02.37:355][275]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-03.02.37:360][275]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-03.02.37:383][275]LogSlate: Window 'Project_Plague_UE4 - Unreal Editor' being destroyed
+[2019.12.04-03.02.37:614][276]Cmd: QUIT_EDITOR
+[2019.12.04-03.02.38:155][276]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.04-03.02.38:163][276]LogExit: Preparing to exit.
+[2019.12.04-03.02.39:888][276]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.04-03.02.39:889][276]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.04-03.02.39:889][276]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.04-03.02.39:889][276]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.04-03.02.39:889][276]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.04-03.02.39:889][276]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.04-03.02.39:889][276]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.04-03.02.39:889][276]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-03.02.39:889][276]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.04-03.02.39:889][276]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.04-03.02.39:890][276]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.04-03.02.39:890][276]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.04-03.02.39:890][276]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.04-03.02.39:890][276]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.04-03.02.39:890][276]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.04-03.02.39:890][276]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-03.02.39:938][276]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.12.04-03.02.39:959][276]LogExit: Editor shut down
+[2019.12.04-03.02.39:959][276]LogExit: Transaction tracking system shut down
+[2019.12.04-03.02.40:311][276]LogExit: Object subsystem successfully closed.
+[2019.12.04-03.02.40:350][276]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.04-03.02.40:434][276]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (692)
+[2019.12.04-03.02.40:434][276]LogModuleManager: Shutting down and abandoning module Voice (690)
+[2019.12.04-03.02.40:435][276]LogModuleManager: Shutting down and abandoning module SequencerWidgets (688)
+[2019.12.04-03.02.40:435][276]LogModuleManager: Shutting down and abandoning module BlueprintGraph (686)
+[2019.12.04-03.02.40:435][276]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (684)
+[2019.12.04-03.02.40:435][276]LogModuleManager: Shutting down and abandoning module SceneOutliner (682)
+[2019.12.04-03.02.40:435][276]LogModuleManager: Shutting down and abandoning module AddContentDialog (680)
+[2019.12.04-03.02.40:436][276]LogModuleManager: Shutting down and abandoning module WidgetCarousel (679)
+[2019.12.04-03.02.40:436][276]LogModuleManager: Shutting down and abandoning module EditorWidgets (676)
+[2019.12.04-03.02.40:436][276]LogModuleManager: Shutting down and abandoning module CollectionManager (674)
+[2019.12.04-03.02.40:437][276]LogModuleManager: Shutting down and abandoning module StatsViewer (672)
+[2019.12.04-03.02.40:438][276]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (670)
+[2019.12.04-03.02.40:438][276]LogModuleManager: Shutting down and abandoning module FoliageEdit (668)
+[2019.12.04-03.02.40:439][276]LogModuleManager: Shutting down and abandoning module LandscapeEditor (666)
+[2019.12.04-03.02.40:442][276]LogModuleManager: Shutting down and abandoning module MeshPaintMode (664)
+[2019.12.04-03.02.40:442][276]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (662)
+[2019.12.04-03.02.40:442][276]LogModuleManager: Shutting down and abandoning module ActorPickerMode (660)
+[2019.12.04-03.02.40:442][276]LogModuleManager: Shutting down and abandoning module GeometryMode (658)
+[2019.12.04-03.02.40:442][276]LogModuleManager: Shutting down and abandoning module TextureAlignMode (656)
+[2019.12.04-03.02.40:442][276]LogModuleManager: Shutting down and abandoning module BspMode (654)
+[2019.12.04-03.02.40:442][276]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (652)
+[2019.12.04-03.02.40:444][276]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (650)
+[2019.12.04-03.02.40:444][276]LogModuleManager: Shutting down and abandoning module AutomationWorker (648)
+[2019.12.04-03.02.40:444][276]LogModuleManager: Shutting down and abandoning module OculusMR (646)
+[2019.12.04-03.02.40:444][276]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (644)
+[2019.12.04-03.02.40:445][276]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (642)
+[2019.12.04-03.02.40:446][276]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (640)
+[2019.12.04-03.02.40:447][276]LogModuleManager: Shutting down and abandoning module PlacementMode (639)
+[2019.12.04-03.02.40:448][276]LogModuleManager: Shutting down and abandoning module MaterialEditor (638)
+[2019.12.04-03.02.40:448][276]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (634)
+[2019.12.04-03.02.40:449][276]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (632)
+[2019.12.04-03.02.40:449][276]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (630)
+[2019.12.04-03.02.40:449][276]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (628)
+[2019.12.04-03.02.40:449][276]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (626)
+[2019.12.04-03.02.40:449][276]LogModuleManager: Shutting down and abandoning module WebMMedia (624)
+[2019.12.04-03.02.40:450][276]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (622)
+[2019.12.04-03.02.40:451][276]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (620)
+[2019.12.04-03.02.40:452][276]LogModuleManager: Shutting down and abandoning module SequenceRecorder (619)
+[2019.12.04-03.02.40:452][276]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (616)
+[2019.12.04-03.02.40:452][276]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (614)
+[2019.12.04-03.02.40:452][276]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (612)
+[2019.12.04-03.02.40:452][276]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (610)
+[2019.12.04-03.02.40:452][276]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (608)
+[2019.12.04-03.02.40:452][276]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (606)
+[2019.12.04-03.02.40:452][276]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (604)
+[2019.12.04-03.02.40:452][276]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (602)
+[2019.12.04-03.02.40:452][276]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (600)
+[2019.12.04-03.02.40:452][276]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (598)
+[2019.12.04-03.02.40:453][276]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (596)
+[2019.12.04-03.02.40:453][276]LogModuleManager: Shutting down and abandoning module CharacterAI (594)
+[2019.12.04-03.02.40:453][276]LogModuleManager: Shutting down and abandoning module SmartSnapping (592)
+[2019.12.04-03.02.40:453][276]LogModuleManager: Shutting down and abandoning module SessionServices (590)
+[2019.12.04-03.02.40:453][276]LogModuleManager: Shutting down and abandoning module MeshPaint (588)
+[2019.12.04-03.02.40:454][276]LogModuleManager: Shutting down and abandoning module ViewportSnapping (586)
+[2019.12.04-03.02.40:454][276]LogModuleManager: Shutting down and abandoning module ViewportInteraction (584)
+[2019.12.04-03.02.40:454][276]LogModuleManager: Shutting down and abandoning module ClothPainter (582)
+[2019.12.04-03.02.40:455][276]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (581)
+[2019.12.04-03.02.40:457][276]LogModuleManager: Shutting down and abandoning module LogVisualizer (578)
+[2019.12.04-03.02.40:458][276]LogModuleManager: Shutting down and abandoning module IntroTutorials (576)
+[2019.12.04-03.02.40:459][276]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (575)
+[2019.12.04-03.02.40:459][276]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (572)
+[2019.12.04-03.02.40:459][276]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (570)
+[2019.12.04-03.02.40:460][276]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (568)
+[2019.12.04-03.02.40:460][276]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (566)
+[2019.12.04-03.02.40:460][276]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (565)
+[2019.12.04-03.02.41:265][276]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (562)
+[2019.12.04-03.02.41:265][276]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (560)
+[2019.12.04-03.02.41:265][276]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (558)
+[2019.12.04-03.02.41:265][276]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (556)
+[2019.12.04-03.02.41:265][276]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (554)
+[2019.12.04-03.02.41:265][276]LogModuleManager: Shutting down and abandoning module InputBindingEditor (552)
+[2019.12.04-03.02.41:270][276]LogModuleManager: Shutting down and abandoning module MergeActors (550)
+[2019.12.04-03.02.41:272][276]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (548)
+[2019.12.04-03.02.41:273][276]LogModuleManager: Shutting down and abandoning module LocalizationService (547)
+[2019.12.04-03.02.41:274][276]LogModuleManager: Shutting down and abandoning module HardwareTargeting (544)
+[2019.12.04-03.02.41:274][276]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (542)
+[2019.12.04-03.02.41:275][276]LogModuleManager: Shutting down and abandoning module UndoHistory (540)
+[2019.12.04-03.02.41:275][276]LogModuleManager: Shutting down and abandoning module XmlParser (538)
+[2019.12.04-03.02.41:276][276]LogModuleManager: Shutting down and abandoning module Blutility (536)
+[2019.12.04-03.02.41:276][276]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (534)
+[2019.12.04-03.02.41:276][276]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (533)
+[2019.12.04-03.02.41:276][276]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (530)
+[2019.12.04-03.02.41:276][276]LogModuleManager: Shutting down and abandoning module SettingsEditor (528)
+[2019.12.04-03.02.41:277][276]LogModuleManager: Shutting down and abandoning module ProjectLauncher (526)
+[2019.12.04-03.02.41:277][276]LogModuleManager: Shutting down and abandoning module SessionFrontend (524)
+[2019.12.04-03.02.41:278][276]LogModuleManager: Shutting down and abandoning module ProfilerClient (522)
+[2019.12.04-03.02.41:278][276]LogModuleManager: Shutting down and abandoning module DeviceManager (520)
+[2019.12.04-03.02.41:279][276]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (519)
+[2019.12.04-03.02.41:324][276]LogModuleManager: Shutting down and abandoning module AutomationController (516)
+[2019.12.04-03.02.41:324][276]LogModuleManager: Shutting down and abandoning module AutomationWindow (514)
+[2019.12.04-03.02.41:326][276]LogModuleManager: Shutting down and abandoning module Layers (512)
+[2019.12.04-03.02.41:329][276]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (510)
+[2019.12.04-03.02.41:329][276]LogModuleManager: Shutting down and abandoning module DetailCustomizations (508)
+[2019.12.04-03.02.41:329][276]LogModuleManager: Shutting down and abandoning module PackagesDialog (506)
+[2019.12.04-03.02.41:329][276]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (504)
+[2019.12.04-03.02.41:331][276]LogModuleManager: Shutting down and abandoning module Persona (502)
+[2019.12.04-03.02.41:333][276]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (501)
+[2019.12.04-03.02.41:334][276]LogModuleManager: Shutting down and abandoning module AnimGraph (499)
+[2019.12.04-03.02.41:334][276]LogModuleManager: Shutting down and abandoning module Kismet (496)
+[2019.12.04-03.02.41:351][276]LogModuleManager: Shutting down and abandoning module KismetWidgets (495)
+[2019.12.04-03.02.41:351][276]LogModuleManager: Shutting down and abandoning module GraphEditor (492)
+[2019.12.04-03.02.41:352][276]LogModuleManager: Shutting down and abandoning module StructViewer (490)
+[2019.12.04-03.02.41:352][276]LogModuleManager: Shutting down and abandoning module ClassViewer (488)
+[2019.12.04-03.02.41:355][276]LogModuleManager: Shutting down and abandoning module Toolbox (486)
+[2019.12.04-03.02.41:355][276]LogModuleManager: Shutting down and abandoning module ModuleUI (484)
+[2019.12.04-03.02.41:356][276]LogModuleManager: Shutting down and abandoning module MovieSceneTools (482)
+[2019.12.04-03.02.41:357][276]LogModuleManager: Shutting down and abandoning module OutputLog (480)
+[2019.12.04-03.02.41:359][276]LogModuleManager: Shutting down and abandoning module GammaUI (478)
+[2019.12.04-03.02.41:360][276]LogModuleManager: Shutting down and abandoning module Documentation (476)
+[2019.12.04-03.02.41:360][276]LogModuleManager: Shutting down and abandoning module LiveCoding (474)
+[2019.12.04-03.02.41:363][276]LogModuleManager: Shutting down and abandoning module LevelSequence (472)
+[2019.12.04-03.02.41:363][276]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (470)
+[2019.12.04-03.02.41:363][276]LogModuleManager: Shutting down and abandoning module MovieScene (468)
+[2019.12.04-03.02.41:363][276]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (466)
+[2019.12.04-03.02.41:363][276]LogModuleManager: Shutting down and abandoning module LauncherPlatform (464)
+[2019.12.04-03.02.41:363][276]LogModuleManager: Shutting down and abandoning module AnalyticsET (462)
+[2019.12.04-03.02.41:363][276]LogModuleManager: Shutting down and abandoning module PortalServices (460)
+[2019.12.04-03.02.41:364][276]LogModuleManager: Shutting down and abandoning module PortalRpc (458)
+[2019.12.04-03.02.41:364][276]LogModuleManager: Shutting down and abandoning module MessagingRpc (456)
+[2019.12.04-03.02.41:364][276]LogModuleManager: Shutting down and abandoning module AIModule (454)
+[2019.12.04-03.02.41:364][276]LogModuleManager: Shutting down and abandoning module GameplayDebugger (453)
+[2019.12.04-03.02.41:365][276]LogModuleManager: Shutting down and abandoning module AITestSuite (451)
+[2019.12.04-03.02.41:365][276]LogModuleManager: Shutting down and abandoning module NavigationSystem (449)
+[2019.12.04-03.02.41:365][276]LogModuleManager: Shutting down and abandoning module DesktopPlatform (446)
+[2019.12.04-03.02.41:365][276]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (444)
+[2019.12.04-03.02.41:375][276]LogModuleManager: Shutting down and abandoning module ProfilerService (442)
+[2019.12.04-03.02.41:494][276]LogModuleManager: Shutting down and abandoning module TaskGraph (440)
+[2019.12.04-03.02.41:496][276]LogModuleManager: Shutting down and abandoning module ScreenshotTools (438)
+[2019.12.04-03.02.41:496][276]LogModuleManager: Shutting down and abandoning module SteamVRController (436)
+[2019.12.04-03.02.41:496][276]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (434)
+[2019.12.04-03.02.41:496][276]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (432)
+[2019.12.04-03.02.41:497][276]LogModuleManager: Shutting down and abandoning module OculusEditor (430)
+[2019.12.04-03.02.41:497][276]LogModuleManager: Shutting down and abandoning module OculusInput (428)
+[2019.12.04-03.02.41:497][276]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (426)
+[2019.12.04-03.02.41:497][276]LogModuleManager: Shutting down and abandoning module EditableMesh (424)
+[2019.12.04-03.02.41:498][276]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (422)
+[2019.12.04-03.02.41:498][276]LogModuleManager: Shutting down and abandoning module CableComponent (420)
+[2019.12.04-03.02.41:498][276]LogModuleManager: Shutting down and abandoning module AudioCapture (418)
+[2019.12.04-03.02.41:498][276]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (416)
+[2019.12.04-03.02.41:498][276]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (414)
+[2019.12.04-03.02.41:498][276]LogModuleManager: Shutting down and abandoning module AppleImageUtils (412)
+[2019.12.04-03.02.41:498][276]LogModuleManager: Shutting down and abandoning module AndroidPermission (410)
+[2019.12.04-03.02.41:498][276]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (408)
+[2019.12.04-03.02.41:499][276]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (406)
+[2019.12.04-03.02.41:500][276]LogModuleManager: Shutting down and abandoning module MediaCompositing (404)
+[2019.12.04-03.02.41:500][276]LogModuleManager: Shutting down and abandoning module ImgMedia (402)
+[2019.12.04-03.02.41:501][276]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (400)
+[2019.12.04-03.02.41:501][276]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (398)
+[2019.12.04-03.02.41:501][276]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (396)
+[2019.12.04-03.02.41:502][276]LogModuleManager: Shutting down and abandoning module HTML5Networking (394)
+[2019.12.04-03.02.41:502][276]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (392)
+[2019.12.04-03.02.41:502][276]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (390)
+[2019.12.04-03.02.41:502][276]LogModuleManager: Shutting down and abandoning module BackChannel (388)
+[2019.12.04-03.02.41:502][276]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (386)
+[2019.12.04-03.02.41:502][276]LogModuleManager: Shutting down and abandoning module AutomationUtils (384)
+[2019.12.04-03.02.41:503][276]LogModuleManager: Shutting down and abandoning module AlembicImporter (382)
+[2019.12.04-03.02.41:503][276]LogModuleManager: Shutting down and abandoning module AlembicLibrary (381)
+[2019.12.04-03.02.41:503][276]LogModuleManager: Shutting down and abandoning module GeometryCache (380)
+[2019.12.04-03.02.41:503][276]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (379)
+[2019.12.04-03.02.41:503][276]LogModuleManager: Shutting down and abandoning module VariantManagerContent (374)
+[2019.12.04-03.02.41:503][276]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (372)
+[2019.12.04-03.02.41:504][276]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (370)
+[2019.12.04-03.02.41:504][276]LogModuleManager: Shutting down and abandoning module PluginBrowser (368)
+[2019.12.04-03.02.41:507][276]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (366)
+[2019.12.04-03.02.41:508][276]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (364)
+[2019.12.04-03.02.41:509][276]LogModuleManager: Shutting down and abandoning module CurveEditorTools (362)
+[2019.12.04-03.02.41:509][276]LogModuleManager: Shutting down and abandoning module CurveEditor (361)
+[2019.12.04-03.02.41:509][276]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (358)
+[2019.12.04-03.02.41:509][276]LogModuleManager: Shutting down and abandoning module CryptoKeys (356)
+[2019.12.04-03.02.41:509][276]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (354)
+[2019.12.04-03.02.41:509][276]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (352)
+[2019.12.04-03.02.41:510][276]LogModuleManager: Shutting down and abandoning module UObjectPlugin (350)
+[2019.12.04-03.02.41:510][276]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (348)
+[2019.12.04-03.02.41:511][276]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (346)
+[2019.12.04-03.02.41:513][276]LogModuleManager: Shutting down and abandoning module GitSourceControl (344)
+[2019.12.04-03.02.41:514][276]LogModuleManager: Shutting down and abandoning module SourceControl (343)
+[2019.12.04-03.02.41:514][276]LogModuleManager: Shutting down and abandoning module MultiUserClientLibrary (340)
+[2019.12.04-03.02.41:514][276]LogModuleManager: Shutting down and abandoning module MultiUserClient (338)
+[2019.12.04-03.02.41:515][276]LogModuleManager: Shutting down and abandoning module ConcertSyncUI (336)
+[2019.12.04-03.02.41:515][276]LogModuleManager: Shutting down and abandoning module ConcertSyncClient (334)
+[2019.12.04-03.02.41:515][276]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (332)
+[2019.12.04-03.02.41:515][276]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (330)
+[2019.12.04-03.02.41:516][276]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (328)
+[2019.12.04-03.02.41:516][276]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (326)
+[2019.12.04-03.02.41:516][276]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (324)
+[2019.12.04-03.02.41:516][276]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (322)
+[2019.12.04-03.02.41:516][276]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (320)
+[2019.12.04-03.02.41:516][276]LogModuleManager: Shutting down and abandoning module Paper2DEditor (318)
+[2019.12.04-03.02.41:518][276]LogModuleManager: Shutting down and abandoning module SignificanceManager (316)
+[2019.12.04-03.02.41:518][276]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (314)
+[2019.12.04-03.02.41:518][276]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (312)
+[2019.12.04-03.02.41:518][276]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (308)
+[2019.12.04-03.02.41:518][276]LogModuleManager: Shutting down and abandoning module SQLiteCore (306)
+[2019.12.04-03.02.41:518][276]LogModuleManager: Shutting down and abandoning module ActorSequence (304)
+[2019.12.04-03.02.41:518][276]LogModuleManager: Shutting down and abandoning module UdpMessaging (302)
+[2019.12.04-03.02.41:619][276]LogModuleManager: Shutting down and abandoning module TcpMessaging (300)
+[2019.12.04-03.02.41:720][276]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (298)
+[2019.12.04-03.02.41:720][276]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (296)
+[2019.12.04-03.02.41:720][276]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (294)
+[2019.12.04-03.02.41:720][276]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (292)
+[2019.12.04-03.02.41:720][276]LogModuleManager: Shutting down and abandoning module MagicLeapController (290)
+[2019.12.04-03.02.41:720][276]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.04-03.02.41:720][276]LogModuleManager: Shutting down and abandoning module MagicLeapAR (288)
+[2019.12.04-03.02.41:720][276]LogModuleManager: Shutting down and abandoning module AugmentedReality (287)
+[2019.12.04-03.02.41:720][276]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (284)
+[2019.12.04-03.02.41:721][276]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (282)
+[2019.12.04-03.02.41:721][276]LogModuleManager: Shutting down and abandoning module FacialAnimation (280)
+[2019.12.04-03.02.41:721][276]LogModuleManager: Shutting down and abandoning module DataValidation (278)
+[2019.12.04-03.02.41:721][276]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (276)
+[2019.12.04-03.02.41:723][276]LogModuleManager: Shutting down and abandoning module LevelEditor (275)
+[2019.12.04-03.02.41:724][276]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (274)
+[2019.12.04-03.02.41:725][276]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (272)
+[2019.12.04-03.02.41:725][276]LogModuleManager: Shutting down and abandoning module MainFrame (270)
+[2019.12.04-03.02.41:725][276]LogModuleManager: Shutting down and abandoning module HotReload (269)
+[2019.12.04-03.02.41:726][276]LogModuleManager: Shutting down and abandoning module ContentBrowser (265)
+[2019.12.04-03.02.41:727][276]LogModuleManager: Shutting down and abandoning module TreeMap (263)
+[2019.12.04-03.02.41:728][276]LogModuleManager: Shutting down and abandoning module ConcertSyncCore (260)
+[2019.12.04-03.02.41:728][276]LogModuleManager: Shutting down and abandoning module Concert (258)
+[2019.12.04-03.02.41:728][276]LogModuleManager: Shutting down and abandoning module ConcertTransport (257)
+[2019.12.04-03.02.41:728][276]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.12.04-03.02.41:728][276]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.12.04-03.02.41:728][276]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.12.04-03.02.41:729][276]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.12.04-03.02.41:731][276]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.12.04-03.02.41:731][276]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.12.04-03.02.41:731][276]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.12.04-03.02.41:731][276]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.12.04-03.02.41:731][276]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.12.04-03.02.41:732][276]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.12.04-03.02.41:732][276]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.12.04-03.02.41:732][276]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.12.04-03.02.41:732][276]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.12.04-03.02.41:733][276]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.12.04-03.02.41:734][276]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.12.04-03.02.41:734][276]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.12.04-03.02.41:736][276]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.12.04-03.02.41:737][276]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.12.04-03.02.41:738][276]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.12.04-03.02.41:739][276]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.12.04-03.02.41:739][276]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.12.04-03.02.41:739][276]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.12.04-03.02.41:739][276]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.12.04-03.02.41:739][276]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.12.04-03.02.41:742][276]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.12.04-03.02.41:742][276]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.12.04-03.02.41:742][276]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.12.04-03.02.41:743][276]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.12.04-03.02.41:743][276]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.12.04-03.02.41:743][276]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.12.04-03.02.41:743][276]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.12.04-03.02.41:743][276]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.12.04-03.02.41:743][276]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.12.04-03.02.41:743][276]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.12.04-03.02.41:743][276]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.12.04-03.02.41:743][276]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.12.04-03.02.41:743][276]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.12.04-03.02.41:744][276]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.12.04-03.02.41:744][276]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.12.04-03.02.41:745][276]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.12.04-03.02.41:746][276]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.12.04-03.02.41:746][276]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.12.04-03.02.41:747][276]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.12.04-03.02.41:747][276]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.12.04-03.02.41:762][276]LogDerivedDataCache: Shutdown
+[2019.12.04-03.02.41:762][276]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.12.04-03.02.41:763][276]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.12.04-03.02.41:763][276]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.12.04-03.02.41:764][276]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.12.04-03.02.41:764][276]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.12.04-03.02.41:765][276]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.12.04-03.02.41:765][276]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.12.04-03.02.41:766][276]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.12.04-03.02.41:766][276]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.12.04-03.02.41:766][276]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.12.04-03.02.41:767][276]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.12.04-03.02.41:767][276]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.12.04-03.02.41:767][276]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.12.04-03.02.41:767][276]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.12.04-03.02.41:767][276]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.12.04-03.02.41:768][276]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.12.04-03.02.41:768][276]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.12.04-03.02.41:768][276]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.12.04-03.02.41:770][276]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.12.04-03.02.41:770][276]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.12.04-03.02.41:770][276]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.12.04-03.02.41:771][276]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.12.04-03.02.41:771][276]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.12.04-03.02.41:772][276]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.12.04-03.02.41:772][276]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.12.04-03.02.41:772][276]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.12.04-03.02.41:772][276]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.12.04-03.02.41:779][276]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.12.04-03.02.41:779][276]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.12.04-03.02.41:779][276]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.12.04-03.02.41:779][276]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.12.04-03.02.41:779][276]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.12.04-03.02.41:779][276]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.12.04-03.02.41:779][276]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.12.04-03.02.41:780][276]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.12.04-03.02.41:780][276]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.12.04-03.02.41:780][276]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.12.04-03.02.41:780][276]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.12.04-03.02.41:780][276]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.12.04-03.02.41:780][276]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.12.04-03.02.41:780][276]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.12.04-03.02.41:780][276]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.12.04-03.02.41:781][276]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.12.04-03.02.41:781][276]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.04-03.02.41:781][276]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.12.04-03.02.41:781][276]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.12.04-03.02.41:781][276]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.12.04-03.02.41:781][276]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.12.04-03.02.41:781][276]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.12.04-03.02.41:783][276]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.12.04-03.02.41:784][276]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.12.04-03.02.41:793][276]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.12.04-03.02.41:793][276]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2019.12.04-03.02.41:793][276]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF521BF8B-4B83-AC63-3AF8-9386C8B2D8AE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=9d0a07214d45ff36ee3d8b90a8c43b23%7Caf74c4a7cf504132bb03660c940b4589%7Ce9c97159-1b7a-4ef9-985d-fecf0a580b15&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.04-03.02.41:793][276]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF521BF8B-4B83-AC63-3AF8-9386C8B2D8AE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=9d0a07214d45ff36ee3d8b90a8c43b23%7Caf74c4a7cf504132bb03660c940b4589%7Ce9c97159-1b7a-4ef9-985d-fecf0a580b15&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.04-03.02.41:801][276]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.12.04-03.02.41:803][276]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.12.04-03.02.41:806][276]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.12.04-03.02.41:807][276]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.12.04-03.02.41:807][276]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.12.04-03.02.41:808][276]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.12.04-03.02.41:808][276]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.12.04-03.02.41:808][276]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.12.04-03.02.41:808][276]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.04-03.02.41:809][276]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.04-03.02.41:811][276]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.04-03.02.41:813][276]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.04-03.02.41:814][276]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.04-03.02.41:814][276]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.04-03.02.41:814][276]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.04-03.02.41:816][276]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.04-03.02.41:817][276]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.04-03.02.41:817][276]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.04-03.02.41:818][276]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.04-03.02.41:818][276]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.04-03.02.41:819][276]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.04-03.02.41:819][276]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.04-03.02.41:819][276]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.04-03.02.41:819][276]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.04-03.02.41:819][276]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.04-03.02.41:819][276]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.04-03.02.41:820][276]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.04-03.02.41:821][276]LogD3D11RHI: Shutdown
+[2019.12.04-03.02.41:821][276]LogD3D11RHI: CleanupD3DDevice
+[2019.12.04-03.02.41:826][276]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.04-03.02.41:826][276]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.04-03.02.41:826][276]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.04-03.02.41:932][276]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.04-03.02.41:941][276]LogExit: Exiting.
+[2019.12.04-03.02.41:953][276]Log file closed, 12/03/19 22:02:41
